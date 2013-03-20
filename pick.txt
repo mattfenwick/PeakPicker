@@ -1,0 +1,11 @@
+CCPN Analysis peak picking algorithm
+version:  ??
+positive only
+nearby points to check: +/- 1
+
+contour global scale:  25000
+scale relative to contour levels: 1.0000
+exlusion buffer around peaks (in points):  1
+extra thickness in orthogonal dims (in points): 0
+minimum drop factor: 0.0000
+volume method: box sum
