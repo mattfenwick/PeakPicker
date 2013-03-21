@@ -13,6 +13,7 @@ volume method: box sum
 
 
 HNCO peak pick based off cleaned NHSQC
+rereference 1H dimension of HNCO from 8.552 to 8.576 ppm
 parameters:
   positive only
   +/- 1 in at most on dim
