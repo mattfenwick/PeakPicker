@@ -7,7 +7,7 @@
     {"position": [127.229, 8.35], "id": 6.0, "tags": ["amide"]},
     {"position": [127.203, 9.528], "id": 7.0, "tags": ["amide"]},
     {"position": [127.177, 9.24], "id": 8.0, "tags": ["amide"]},
-    {"position": [126.961, 9.808], "id": 9.0, "tags": ["noise"]},
+    {"position": [126.961, 9.808], "id": 9.0, "tags": ["amide"]},
     {"position": [126.306, 8.782], "id": 10.0, "tags": ["amide"]},
     {"position": [126.314, 8.473], "id": 11.0, "tags": ["amide"]},
     {"position": [126.134, 9.337], "id": 12.0, "tags": ["amide"]},
@@ -91,7 +91,7 @@
     {"position": [115.514, 9.371], "id": 90.0, "tags": ["amide"]},
     {"position": [115.469, 7.7], "id": 91.0, "tags": ["noise"]},
     {"position": [115.455, 7.515], "id": 92.0, "tags": ["noise"]},
-    {"position": [115.268, 7.498], "id": 93.0, "tags": ["noise"]},
+    {"position": [115.268, 7.498], "id": 93.0, "tags": ["amide"]},
     {"position": [115.179, 7.948], "id": 94.0, "tags": ["noise"]},
     {"position": [115.139, 7.935], "id": 95.0, "tags": ["noise"]},
     {"position": [115.059, 8.193], "id": 96.0, "tags": ["noise"]},
@@ -124,5 +124,7 @@
     {"position": [104.606, 9.092], "id": 123.0, "tags": ["amide"]},
     {"position": [102.949, 8.275], "id": 124.0, "tags": ["amide"]},
     {"position": [101.374, 8.529], "id": 125.0, "tags": ["amide"]},
-    {"position": [100.62, 8.679], "id": 126.0, "tags": ["amide"]}
+    {"position": [100.62, 8.679], "id": 126.0, "tags": ["amide"]},
+    {"position": [101.43, 8.073], "id": 127.0, "tags": ["amide"]},
+    {"position": [128.221, 8.435], "id": 128.0, "tags": ["amide"]}
 ]
