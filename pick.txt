@@ -1,0 +1,34 @@
+CCPN Analysis peak picking algorithm
+version:  ??
+positive only
+nearby points to check: +/- 1
+
+contour global scale:  25000
+scale relative to contour levels: 1.0000
+exlusion buffer around peaks (in points):  1
+extra thickness in orthogonal dims (in points): 0
+minimum drop factor: 0.0000
+volume method: box sum
+
+
+
+HNCO peak pick based off cleaned NHSQC
+rereference 1H dimension of HNCO from 8.552 to 8.576 ppm
+parameters:
+  positive only
+  +/- 1 in at most on dim
+  scale relative:  1
+  exclusion buffer: 2
+  extra thickness: 0
+  minimum drop factor: 0
+  volume method: box sum
+tolerances:
+  1H:   0.0125
+  15N:  0.1
+  min water: 4.95
+  max water: 4.95
+  max num marks: 1
+  1H diagonal: 0.3
+scales:
+  global:  2500
+  base:  0.00025
