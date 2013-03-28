@@ -140,5 +140,15 @@
     {"position": [8.486, 126.439, 177.771], "id": 927.0, "tags": ["noise"]},
     {"position": [8.479, 126.348, 175.361], "id": 928.0, "tags": ["backbone HNCO"]},
     {"position": [8.415, 111.735, 179.037], "id": 929.0, "tags": ["backbone HNCO"]},
-    {"position": [8.805, 118.271, 175.937], "id": 930.0, "tags": ["backbone HNCO"]}
+    {"position": [8.805, 118.271, 175.937], "id": 930.0, "tags": ["backbone HNCO"]},
+    {"position": [9.646, 126.31, 174.28], "id": 931.0, "tags": ["no NHSQC crosspeak"]},
+    {"position": [8.315, 121.86, 177.29], "id": 932.0, "tags": ["backbone HNCO"]},
+    {"position": [7.388, 114.21, 181.45], "id": 933.0, "tags": ["possible noise"]},
+    {"position": [7.256, 114.21, 181.45], "id": 934.0, "tags": ["possible noise"]},
+    {"position": [7.320, 114.21, 181.45], "id": 935.0, "tags": ["possible noise"]},
+    {"position": [7.171, 116.08, 181.38], "id": 936.0, "tags": ["possible noise"]},
+    {"position": [7.089, 116.08, 181.39], "id": 937.0, "tags": ["possible noise"]},
+    {"position": [7.039, 116.08, 181.37], "id": 938.0, "tags": ["possible noise"]},
+    {"position": [8.072, 101.51, 175.50], "id": 939.0, "tags": ["backbone HNCO"]},
+    {"position": [7.505, 115.27, 178.33], "id": 940.0, "tags": ["possible noise"]}
 ]

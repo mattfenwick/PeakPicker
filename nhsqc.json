@@ -126,5 +126,11 @@
     {"position": [101.374, 8.529], "id": 125.0, "tags": ["amide"]},
     {"position": [100.62, 8.679], "id": 126.0, "tags": ["amide"]},
     {"position": [101.43, 8.073], "id": 127.0, "tags": ["amide"]},
-    {"position": [128.221, 8.435], "id": 128.0, "tags": ["amide"]}
+    {"position": [128.221, 8.435], "id": 128.0, "tags": ["amide"]},
+    {"position": [126.32, 9.590], "id": 129.0, "tags": ["no HNCO crosspeak", "overlapped"]},
+    {"position": [121.79, 8.314], "id": 130.0, "tags": ["amide"]},
+    {"position": [114.13, 7.375], "id": 131.0, "tags": ["possible noise"]},
+    {"position": [114.10, 7.256], "id": 132.0, "tags": ["possible noise"]},
+    {"position": [116.01, 7.149], "id": 133.0, "tags": ["possible noise"]},
+    {"position": [116.02, 7.053], "id": 134.0, "tags": ["possible noise"]}
 ]
