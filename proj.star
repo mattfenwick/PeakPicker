@@ -454,6 +454,8 @@ data_mattsnmrproject
       "124" "102.949" "8.275" 
       "125" "101.374" "8.529" 
       "126" "100.62" "8.679" 
+      "127" "101.43" "8.073"
+      "128" "128.221" "8.435"
     stop_
 
     loop_
@@ -585,6 +587,8 @@ data_mattsnmrproject
       "124" "backbone amide"
       "125" "backbone amide"
       "126" "backbone amide"
+      "127" "backbone amide"
+      "128" "backbone amide"
     stop_
 
     loop_
