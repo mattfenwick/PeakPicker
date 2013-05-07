@@ -6,12 +6,30 @@ CREATE SCHEMA IF NOT EXISTS `nmr_peak_picking_assignment` DEFAULT CHARACTER SET 
 USE `nmr_peak_picking_assignment` ;
 
 -- -----------------------------------------------------
+-- Table `nmr_peak_picking_assignment`.`Molecule`
+-- -----------------------------------------------------
+CREATE  TABLE IF NOT EXISTS `nmr_peak_picking_assignment`.`Molecule` (
+  `molecule_id` INT NOT NULL AUTO_INCREMENT ,
+  `name` VARCHAR(45) NULL ,
+  `note` VARCHAR(45) NULL ,
+  PRIMARY KEY (`molecule_id`) )
+ENGINE = InnoDB;
+
+
+-- -----------------------------------------------------
 -- Table `nmr_peak_picking_assignment`.`Experiment`
 -- -----------------------------------------------------
 CREATE  TABLE IF NOT EXISTS `nmr_peak_picking_assignment`.`Experiment` (
   `experiment_id` INT NOT NULL AUTO_INCREMENT ,
   `name` VARCHAR(45) NULL ,
-  PRIMARY KEY (`experiment_id`) )
+  `molecule_id` INT NOT NULL ,
+  PRIMARY KEY (`experiment_id`) ,
+  INDEX `fk_Experiment_Molecule1` (`molecule_id` ASC) ,
+  CONSTRAINT `fk_Experiment_Molecule1`
+    FOREIGN KEY (`molecule_id` )
+    REFERENCES `nmr_peak_picking_assignment`.`Molecule` (`molecule_id` )
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
 ENGINE = InnoDB;
 
 
@@ -180,17 +198,6 @@ CREATE  TABLE IF NOT EXISTS `nmr_peak_picking_assignment`.`AATypeAssignment` (
     REFERENCES `nmr_peak_picking_assignment`.`AminoAcidType` (`aatype` )
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
-ENGINE = InnoDB;
-
-
--- -----------------------------------------------------
--- Table `nmr_peak_picking_assignment`.`Molecule`
--- -----------------------------------------------------
-CREATE  TABLE IF NOT EXISTS `nmr_peak_picking_assignment`.`Molecule` (
-  `molecule_id` INT NOT NULL AUTO_INCREMENT ,
-  `name` VARCHAR(45) NULL ,
-  `note` VARCHAR(45) NULL ,
-  PRIMARY KEY (`molecule_id`) )
 ENGINE = InnoDB;
 
 
