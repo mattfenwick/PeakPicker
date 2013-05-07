@@ -588,17 +588,17 @@ INSERT INTO `PeakTag` VALUES (100,'noise');
 INSERT INTO `PeakTag` VALUES (101,'noise');
 INSERT INTO `PeakTag` VALUES (102,'backbone amide');
 INSERT INTO `PeakTag` VALUES (103,'backbone amide');
-INSERT INTO `PeakTag` VALUES (104,'backbone amide');
-INSERT INTO `PeakTag` VALUES (105,'backbone amide');
-INSERT INTO `PeakTag` VALUES (106,'backbone amide');
-INSERT INTO `PeakTag` VALUES (107,'backbone amide');
+INSERT INTO `PeakTag` VALUES (104,'sidechain');
+INSERT INTO `PeakTag` VALUES (105,'sidechain');
+INSERT INTO `PeakTag` VALUES (106,'sidechain');
+INSERT INTO `PeakTag` VALUES (107,'sidechain');
 INSERT INTO `PeakTag` VALUES (108,'backbone amide');
 INSERT INTO `PeakTag` VALUES (109,'backbone amide');
 INSERT INTO `PeakTag` VALUES (110,'backbone amide');
 INSERT INTO `PeakTag` VALUES (111,'backbone amide');
 INSERT INTO `PeakTag` VALUES (112,'backbone amide');
-INSERT INTO `PeakTag` VALUES (113,'backbone amide');
-INSERT INTO `PeakTag` VALUES (114,'backbone amide');
+INSERT INTO `PeakTag` VALUES (113,'sidechain');
+INSERT INTO `PeakTag` VALUES (114,'sidechain');
 INSERT INTO `PeakTag` VALUES (115,'noise');
 INSERT INTO `PeakTag` VALUES (116,'noise');
 INSERT INTO `PeakTag` VALUES (117,'noise');
@@ -756,4 +756,4 @@ INSERT INTO `Residue` VALUES (106,1,106,'G');
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2013-05-07 15:44:35
+-- Dump completed on 2013-05-07 15:45:46
