@@ -10831,7 +10831,7 @@
             }
           ],
           "tags": [
-            "processing artifact"
+            
           ],
           "height": -2.087
         },
