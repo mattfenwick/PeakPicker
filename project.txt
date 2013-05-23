@@ -2463,124 +2463,34 @@
         [
           "nhsqc",
           123
-        ]
-      ],
-      "aatypes": [
-        
-      ],
-      "ssnexts": [
-        
-      ]
-    },
-    "124": {
-      "residueids": [
-        
-      ],
-      "pkids": [
+        ],
         [
           "nhsqc",
           124
-        ]
-      ],
-      "aatypes": [
-        
-      ],
-      "ssnexts": [
-        
-      ]
-    },
-    "125": {
-      "residueids": [
-        
-      ],
-      "pkids": [
+        ],
         [
           "nhsqc",
           125
         ],
         [
-          "hnco",
-          181
-        ]
-      ],
-      "aatypes": [
-        
-      ],
-      "ssnexts": [
-        
-      ]
-    },
-    "126": {
-      "residueids": [
-        
-      ],
-      "pkids": [
-        [
           "nhsqc",
           126
         ],
-        [
-          "hnco",
-          181
-        ]
-      ],
-      "aatypes": [
-        
-      ],
-      "ssnexts": [
-        
-      ]
-    },
-    "127": {
-      "residueids": [
-        
-      ],
-      "pkids": [
         [
           "nhsqc",
           127
         ],
         [
-          "hnco",
-          182
-        ]
-      ],
-      "aatypes": [
-        
-      ],
-      "ssnexts": [
-        
-      ]
-    },
-    "128": {
-      "residueids": [
-        
-      ],
-      "pkids": [
-        [
           "nhsqc",
           128
         ],
         [
-          "hnco",
-          181
-        ]
-      ],
-      "aatypes": [
-        
-      ],
-      "ssnexts": [
-        
-      ]
-    },
-    "129": {
-      "residueids": [
-        
-      ],
-      "pkids": [
-        [
           "nhsqc",
           129
+        ],
+        [
+          "hnco",
+          181
         ],
         [
           "hnco",
@@ -7532,7 +7442,7 @@
             }
           ],
           "tags": [
-            "backbone amide"
+            "asparagine/glutamine sidechain"
           ],
           "height": 5.555
         },
@@ -7558,7 +7468,7 @@
             }
           ],
           "tags": [
-            "backbone amide"
+            "asparagine/glutamine sidechain"
           ],
           "height": 6.275
         },
@@ -30757,7 +30667,7 @@
             }
           ],
           "tags": [
-            
+            "asparagine/glutamine sidechain"
           ],
           "height": 83.51
         },
@@ -30777,7 +30687,7 @@
             }
           ],
           "tags": [
-            
+            "asparagine/glutamine sidechain"
           ],
           "height": 62.74
         },
@@ -30797,7 +30707,7 @@
             }
           ],
           "tags": [
-            
+            "asparagine/glutamine sidechain"
           ],
           "height": 5.594
         },
@@ -30817,7 +30727,7 @@
             }
           ],
           "tags": [
-            
+            "asparagine/glutamine sidechain"
           ],
           "height": 5.809
         },
@@ -30837,7 +30747,7 @@
             }
           ],
           "tags": [
-            
+            "asparagine/glutamine sidechain"
           ],
           "height": 4.18
         },
@@ -30857,7 +30767,7 @@
             }
           ],
           "tags": [
-            
+            "asparagine/glutamine sidechain"
           ],
           "height": 4.2
         },
@@ -30877,7 +30787,7 @@
             }
           ],
           "tags": [
-            
+            "asparagine/glutamine sidechain"
           ],
           "height": 3.23
         },
