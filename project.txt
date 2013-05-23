@@ -2321,61 +2321,22 @@
         [
           "nhsqc",
           114
-        ]
-      ],
-      "aatypes": [
-        
-      ],
-      "ssnexts": [
-        
-      ]
-    },
-    "115": {
-      "residueids": [
-        
-      ],
-      "pkids": [
+        ],
         [
           "nhsqc",
           115
-        ]
-      ],
-      "aatypes": [
-        
-      ],
-      "ssnexts": [
-        
-      ]
-    },
-    "116": {
-      "residueids": [
-        
-      ],
-      "pkids": [
+        ],
         [
           "nhsqc",
           116
         ],
         [
-          "hnco",
-          173
-        ]
-      ],
-      "aatypes": [
-        
-      ],
-      "ssnexts": [
-        
-      ]
-    },
-    "117": {
-      "residueids": [
-        
-      ],
-      "pkids": [
-        [
           "nhsqc",
           117
+        ],
+        [
+          "hnco",
+          173
         ],
         [
           "hnco",
@@ -7363,7 +7324,7 @@
             }
           ],
           "tags": [
-            "backbone amide"
+            "asparagine/glutamine sidechain"
           ],
           "height": 8.14
         },
@@ -7389,7 +7350,7 @@
             }
           ],
           "tags": [
-            "backbone amide"
+            "asparagine/glutamine sidechain"
           ],
           "height": 7.243
         },
@@ -30616,7 +30577,7 @@
             }
           ],
           "tags": [
-            
+            "asparagine/glutamine sidechain"
           ],
           "height": 210.5
         },
@@ -30636,7 +30597,7 @@
             }
           ],
           "tags": [
-            
+            "asparagine/glutamine sidechain"
           ],
           "height": 186.9
         },
@@ -30656,7 +30617,7 @@
             }
           ],
           "tags": [
-            
+            "asparagine/glutamine sidechain"
           ],
           "height": 12.72
         },
@@ -30676,7 +30637,7 @@
             }
           ],
           "tags": [
-            
+            "asparagine/glutamine sidechain"
           ],
           "height": 10.03
         },
