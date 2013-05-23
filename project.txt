@@ -2028,25 +2028,12 @@
           99
         ],
         [
-          "hnco",
-          153
-        ]
-      ],
-      "aatypes": [
-        
-      ],
-      "ssnexts": [
-        
-      ]
-    },
-    "100": {
-      "residueids": [
-        
-      ],
-      "pkids": [
-        [
           "nhsqc",
           100
+        ],
+        [
+          "hnco",
+          153
         ],
         [
           "hnco",
@@ -2054,11 +2041,11 @@
         ],
         [
           "hnco",
-          156
+          155
         ],
         [
           "hnco",
-          162
+          157
         ]
       ],
       "aatypes": [
@@ -2260,25 +2247,16 @@
           111
         ],
         [
-          "hnco",
-          168
-        ]
-      ],
-      "aatypes": [
-        
-      ],
-      "ssnexts": [
-        
-      ]
-    },
-    "112": {
-      "residueids": [
-        
-      ],
-      "pkids": [
-        [
           "nhsqc",
           112
+        ],
+        [
+          "hnco",
+          168
+        ],
+        [
+          "hnco",
+          169
         ],
         [
           "hnco",
@@ -2722,6 +2700,39 @@
         [
           "hnco",
           200
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "141": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          141
+        ],
+        [
+          "nhsqc",
+          142
+        ],
+        [
+          "hnco",
+          147
+        ],
+        [
+          "hnco",
+          148
+        ],
+        [
+          "hnco",
+          149
         ]
       ],
       "aatypes": [
@@ -6558,7 +6569,7 @@
             }
           ],
           "tags": [
-            "processing artifact"
+            "arginine sidechain"
           ],
           "height": 1.919
         },
@@ -6584,7 +6595,7 @@
             }
           ],
           "tags": [
-            "processing artifact"
+            "arginine sidechain"
           ],
           "height": 3.014
         },
@@ -6610,7 +6621,7 @@
             }
           ],
           "tags": [
-            "processing artifact"
+            "arginine sidechain"
           ],
           "height": 1.892
         },
@@ -6714,7 +6725,7 @@
             }
           ],
           "tags": [
-            "backbone amide"
+            "arginine sidechain"
           ],
           "height": 2.539
         },
@@ -6740,7 +6751,7 @@
             }
           ],
           "tags": [
-            "backbone amide"
+            "arginine sidechain"
           ],
           "height": 2.846
         },
@@ -6766,7 +6777,7 @@
             }
           ],
           "tags": [
-            "processing artifact"
+            "arginine sidechain"
           ],
           "height": 2.662
         },
@@ -6818,7 +6829,7 @@
             }
           ],
           "tags": [
-            "processing artifact"
+            "arginine sidechain"
           ],
           "height": 3.332
         },
@@ -7104,7 +7115,7 @@
             }
           ],
           "tags": [
-            "backbone amide"
+            "arginine sidechain"
           ],
           "height": 4.611
         },
@@ -7130,7 +7141,7 @@
             }
           ],
           "tags": [
-            "backbone amide"
+            "arginine sidechain"
           ],
           "height": 2.471
         },
@@ -7156,7 +7167,7 @@
             }
           ],
           "tags": [
-            "backbone amide"
+            "arginine sidechain"
           ],
           "height": 5.677
         },
@@ -30187,7 +30198,7 @@
             }
           ],
           "tags": [
-            
+            "arginine sidechain"
           ],
           "height": 4.181
         },
@@ -30207,7 +30218,7 @@
             }
           ],
           "tags": [
-            
+            "arginine sidechain"
           ],
           "height": 5.775
         },
@@ -30427,7 +30438,7 @@
             }
           ],
           "tags": [
-            
+            "arginine sidechain"
           ],
           "height": 4.007
         },
@@ -30447,7 +30458,7 @@
             }
           ],
           "tags": [
-            
+            "arginine sidechain"
           ],
           "height": 3.615
         },
@@ -31010,6 +31021,46 @@
             
           ],
           "height": 37.21
+        },
+        "141": {
+          "dims": [
+            {
+              "shift": 116.020,
+              "atomtypes": [
+                
+              ]
+            },
+            {
+              "shift": 7.148,
+              "atomtypes": [
+                
+              ]
+            }
+          ],
+          "tags": [
+            "arginine sidechain"
+          ],
+          "height": 2.635
+        },
+        "142": {
+          "dims": [
+            {
+              "shift": 116.011,
+              "atomtypes": [
+                
+              ]
+            },
+            {
+              "shift": 7.055,
+              "atomtypes": [
+                
+              ]
+            }
+          ],
+          "tags": [
+            "arginine sidechain"
+          ],
+          "height": 2.420
         }
       }
     }
