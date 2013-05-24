@@ -2740,6 +2740,27 @@
       "ssnexts": [
         
       ]
+    },
+    "145": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          145
+        ],
+        [
+          "hnco",
+          156
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
     }
   },
   "spectra": {
@@ -31100,6 +31121,26 @@
             "asparagine/glutamine sidechain"
           ],
           "height": 1.802
+        },
+        "145": {
+          "dims": [
+            {
+              "shift": 115.225,
+              "atomtypes": [
+                
+              ]
+            },
+            {
+              "shift": 7.508,
+              "atomtypes": [
+                
+              ]
+            }
+          ],
+          "tags": [
+            
+          ],
+          "height": 4.334
         }
       }
     }
