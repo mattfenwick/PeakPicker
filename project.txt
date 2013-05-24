@@ -2761,6 +2761,48 @@
       "ssnexts": [
         
       ]
+    },
+    "146": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          146
+        ],
+        [
+          "hnco",
+          11
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "147": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          147
+        ],
+        [
+          "hnco",
+          24
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
     }
   },
   "spectra": {
@@ -31167,6 +31209,50 @@
             "backbone amide"
           ],
           "height": 4.334
+        },
+        "146": {
+          "dims": [
+            {
+              "shift": 128.221,
+              "atomtypes": [
+                
+              ]
+            },
+            {
+              "shift": 8.434,
+              "atomtypes": [
+                
+              ]
+            }
+          ],
+          "tags": [
+            "backbone amide",
+            "very weak",
+            "picked manually due to good HNCO crosspeak, but does not line up"
+          ],
+          "height": 2.787
+        },
+        "147": {
+          "dims": [
+            {
+              "shift": 126.321,
+              "atomtypes": [
+                
+              ]
+            },
+            {
+              "shift": 9.589,
+              "atomtypes": [
+                
+              ]
+            }
+          ],
+          "tags": [
+            "backbone amide",
+            "extremely weak",
+            "picked manually due to good HNCO crosspeak, but does not line up"
+          ],
+          "height": 1.645
         }
       }
     }
