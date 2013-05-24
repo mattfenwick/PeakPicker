@@ -1988,27 +1988,26 @@
         [
           "nhsqc",
           97
-        ]
-      ],
-      "aatypes": [
-        
-      ],
-      "ssnexts": [
-        
-      ]
-    },
-    "98": {
-      "residueids": [
-        
-      ],
-      "pkids": [
+        ],
         [
           "nhsqc",
           98
         ],
         [
+          "nhsqc",
+          143
+        ],
+        [
+          "nhsqc",
+          144
+        ],
+        [
           "hnco",
-          154
+          161
+        ],
+        [
+          "hnco",
+          162
         ]
       ],
       "aatypes": [
@@ -6933,7 +6932,7 @@
             }
           ],
           "tags": [
-            "processing artifact"
+            "arginine/glutamine sidechain"
           ],
           "height": 2.104
         },
@@ -6959,7 +6958,7 @@
             }
           ],
           "tags": [
-            "backbone amide"
+            "arginine/glutamine sidechain"
           ],
           "height": 1.377
         },
@@ -30158,7 +30157,7 @@
             }
           ],
           "tags": [
-            "no HNCO crosspeak"
+            "arginine/glutamine sidechain"
           ],
           "height": 5.992
         },
@@ -30178,7 +30177,7 @@
             }
           ],
           "tags": [
-            
+            "arginine/glutamine sidechain"
           ],
           "height": 6.522
         },
@@ -31061,6 +31060,46 @@
             "arginine sidechain"
           ],
           "height": 2.420
+        },
+        "143": {
+          "dims": [
+            {
+              "shift": 114.924,
+              "atomtypes": [
+                
+              ]
+            },
+            {
+              "shift": 7.705,
+              "atomtypes": [
+                
+              ]
+            }
+          ],
+          "tags": [
+            "asparagine/glutamine sidechain"
+          ],
+          "height": 2.454
+        },
+        "144": {
+          "dims": [
+            {
+              "shift": 114.92,
+              "atomtypes": [
+                
+              ]
+            },
+            {
+              "shift": 7.514,
+              "atomtypes": [
+                
+              ]
+            }
+          ],
+          "tags": [
+            "asparagine/glutamine sidechain"
+          ],
+          "height": 1.802
         }
       }
     }
