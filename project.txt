@@ -1240,6 +1240,10 @@
         [
           "nhsqc",
           61
+        ],
+        [
+          "hnco",
+          201
         ]
       ],
       "aatypes": [
@@ -1774,10 +1778,6 @@
         [
           "nhsqc",
           87
-        ],
-        [
-          "hnco",
-          124
         ],
         [
           "hnco",
@@ -7970,6 +7970,32 @@
             "backbone amide"
           ],
           "height": 32.01
+        },
+        "201": {
+          "dims": [
+            {
+              "shift": 8.255,
+              "atomtypes": [
+                
+              ]
+            },
+            {
+              "shift": 119.884,
+              "atomtypes": [
+                
+              ]
+            },
+            {
+              "shift": 176.094,
+              "atomtypes": [
+                
+              ]
+            }
+          ],
+          "tags": [
+            "backbone amide"
+          ],
+          "height": 38.646
         }
       }
     },
