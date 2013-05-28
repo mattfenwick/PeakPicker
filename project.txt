@@ -28986,7 +28986,7 @@
             }
           ],
           "tags": [
-            "processing artifact"
+            "no HNCACB/HNCO crosspeaks"
           ],
           "height": 3.415
         },
@@ -29026,7 +29026,7 @@
             }
           ],
           "tags": [
-            "processing artifact"
+            "no HNCACB/HNCO crosspeaks"
           ],
           "height": 4.263
         },
