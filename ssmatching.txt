@@ -3,3 +3,11 @@ b. put hnco peaks into *all* spin systems within tolerance
   tolerances:
     N:  0.2 PPM
     H:  0.025 PPM
+
+
+place HNCACB peaks into spin systems.
+match based on finding matching NHSQC peak, then placing HNCACB
+peaks into all spin systems of NHSQC peak.
+  tolerances:
+    N: 0.1 PPM
+    H: 0.0125 PPM
