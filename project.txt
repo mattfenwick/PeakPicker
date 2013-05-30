@@ -9431,7 +9431,7 @@
             }
           ],
           "tags": [
-            "arginine/glutamine sidechain"
+            "asparagine/glutamine sidechain"
           ],
           "height": 2.104
         },
@@ -9457,7 +9457,7 @@
             }
           ],
           "tags": [
-            "arginine/glutamine sidechain"
+            "asparagine/glutamine sidechain"
           ],
           "height": 1.377
         },
@@ -32684,7 +32684,7 @@
             }
           ],
           "tags": [
-            "arginine/glutamine sidechain"
+            "asparagine/glutamine sidechain"
           ],
           "height": 5.992
         },
@@ -32704,7 +32704,7 @@
             }
           ],
           "tags": [
-            "arginine/glutamine sidechain"
+            "asparagine/glutamine sidechain"
           ],
           "height": 6.522
         },
