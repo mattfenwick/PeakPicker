@@ -3916,11 +3916,27 @@
         ],
         [
           "hncacb",
+          589
+        ],
+        [
+          "hncacb",
           590
         ],
         [
           "hncacb",
           591
+        ],
+        [
+          "hncacb",
+          592
+        ],
+        [
+          "hncacb",
+          593
+        ],
+        [
+          "hncacb",
+          594
         ],
         [
           "hncacb",
@@ -4267,11 +4283,39 @@
         ],
         [
           "hncacb",
+          643
+        ],
+        [
+          "hncacb",
           644
         ],
         [
           "hncacb",
           645
+        ],
+        [
+          "hncacb",
+          646
+        ],
+        [
+          "hncacb",
+          647
+        ],
+        [
+          "hncacb",
+          648
+        ],
+        [
+          "hncacb",
+          649
+        ],
+        [
+          "hncacb",
+          650
+        ],
+        [
+          "hncacb",
+          651
         ],
         [
           "hncacb",
@@ -4675,27 +4719,11 @@
         ],
         [
           "hncacb",
-          699
-        ],
-        [
-          "hncacb",
-          700
-        ],
-        [
-          "hncacb",
           701
         ],
         [
           "hncacb",
           702
-        ],
-        [
-          "hncacb",
-          699
-        ],
-        [
-          "hncacb",
-          701
         ]
       ],
       "aatypes": [
@@ -5177,22 +5205,6 @@
         [
           "hnco",
           156
-        ],
-        [
-          "hncacb",
-          593
-        ],
-        [
-          "hncacb",
-          594
-        ],
-        [
-          "hncacb",
-          595
-        ],
-        [
-          "hncacb",
-          596
         ]
       ],
       "aatypes": [
@@ -26751,7 +26763,7 @@
             }
           ],
           "tags": [
-            
+            "close to NHSQC 108"
           ],
           "height": -1.657
         },
