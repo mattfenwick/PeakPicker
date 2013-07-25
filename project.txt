@@ -27386,7 +27386,7 @@
     }
   }, 
   "molecule": {
-    "residues": {}
+    "residues": []
   }, 
   "name": "mynameismatt"
 }
