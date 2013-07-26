@@ -3397,8 +3397,12 @@
         ]
       ], 
       "ssnexts": [], 
-      "aatypes": ["asparagine"], 
-      "tags": ["sidechain"]
+      "aatypes": [
+        "asparagine"
+      ], 
+      "tags": [
+        "sidechain"
+      ]
     }, 
     "99": {
       "residueids": [], 
@@ -3461,8 +3465,13 @@
         ]
       ], 
       "ssnexts": [], 
-      "aatypes": [], 
-      "tags": []
+      "aatypes": [
+        "arginine"
+      ], 
+      "tags": [
+        "folded: NE once, CZ twice", 
+        "sidechain"
+      ]
     }, 
     "101": {
       "residueids": [], 
@@ -3785,8 +3794,13 @@
         ]
       ], 
       "ssnexts": [], 
-      "aatypes": [], 
-      "tags": []
+      "aatypes": [
+        "arginine"
+      ], 
+      "tags": [
+        "folded: NE once, CZ twice", 
+        "sidechain"
+      ]
     }, 
     "113": {
       "residueids": [], 
@@ -3861,8 +3875,12 @@
         ]
       ], 
       "ssnexts": [], 
-      "aatypes": ["glutamine"], 
-      "tags": ["sidechain"]
+      "aatypes": [
+        "glutamine"
+      ], 
+      "tags": [
+        "sidechain"
+      ]
     }, 
     "118": {
       "residueids": [], 
@@ -4145,7 +4163,9 @@
         ]
       ], 
       "ssnexts": [], 
-      "aatypes": ["asparagine"], 
+      "aatypes": [
+        "asparagine"
+      ], 
       "tags": [
         "sidechain"
       ]
@@ -4547,8 +4567,13 @@
         ]
       ], 
       "ssnexts": [], 
-      "aatypes": [], 
-      "tags": []
+      "aatypes": [
+        "arginine"
+      ], 
+      "tags": [
+        "folded: NE once, CZ twice", 
+        "sidechain"
+      ]
     }, 
     "145": {
       "residueids": [], 
@@ -7539,15 +7564,21 @@
           "dims": [
             {
               "shift": 7.17, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 115.925, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 181.385, 
-              "atomtypes": []
+              "atomtypes": [
+                "CZ"
+              ]
             }
           ], 
           "tags": [
@@ -7559,15 +7590,21 @@
           "dims": [
             {
               "shift": 7.089, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 115.928, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 181.382, 
-              "atomtypes": []
+              "atomtypes": [
+                "CZ"
+              ]
             }
           ], 
           "tags": [
@@ -7579,15 +7616,21 @@
           "dims": [
             {
               "shift": 7.04, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 115.935, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 181.374, 
-              "atomtypes": []
+              "atomtypes": [
+                "CZ"
+              ]
             }
           ], 
           "tags": [
@@ -7659,15 +7702,21 @@
           "dims": [
             {
               "shift": 7.574, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 115.316, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 181.391, 
-              "atomtypes": []
+              "atomtypes": [
+                "CZ"
+              ]
             }
           ], 
           "tags": [
@@ -7679,15 +7728,21 @@
           "dims": [
             {
               "shift": 7.514, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 115.317, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 181.399, 
-              "atomtypes": []
+              "atomtypes": [
+                "CZ"
+              ]
             }
           ], 
           "tags": [
@@ -7699,15 +7754,21 @@
           "dims": [
             {
               "shift": 7.634, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 115.271, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 181.386, 
-              "atomtypes": []
+              "atomtypes": [
+                "CZ"
+              ]
             }
           ], 
           "tags": [
@@ -7739,15 +7800,21 @@
           "dims": [
             {
               "shift": 7.454, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 115.258, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 181.381, 
-              "atomtypes": []
+              "atomtypes": [
+                "CZ"
+              ]
             }
           ], 
           "tags": [
@@ -7959,15 +8026,21 @@
           "dims": [
             {
               "shift": 7.388, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 114.106, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 181.452, 
-              "atomtypes": []
+              "atomtypes": [
+                "CZ"
+              ]
             }
           ], 
           "tags": [
@@ -7979,15 +8052,21 @@
           "dims": [
             {
               "shift": 7.325, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 114.121, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 181.458, 
-              "atomtypes": []
+              "atomtypes": [
+                "CZ"
+              ]
             }
           ], 
           "tags": [
@@ -7999,15 +8078,21 @@
           "dims": [
             {
               "shift": 7.258, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 114.107, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 181.45, 
-              "atomtypes": []
+              "atomtypes": [
+                "CZ"
+              ]
             }
           ], 
           "tags": [
@@ -20687,21 +20772,25 @@
           "dims": [
             {
               "shift": 7.149, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 116.02, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 43.926, 
               "atomtypes": [
-                "CA"
+                "CD"
               ]
             }
           ], 
           "tags": [
-            "backbone"
+            "arginine sidechain"
           ], 
           "height": 1.602
         }, 
@@ -20709,21 +20798,25 @@
           "dims": [
             {
               "shift": 7.056, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 115.994, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 43.931, 
               "atomtypes": [
-                "CA"
+                "CD"
               ]
             }
           ], 
           "tags": [
-            "backbone"
+            "arginine sidechain"
           ], 
           "height": 1.865
         }, 
@@ -20731,21 +20824,25 @@
           "dims": [
             {
               "shift": 7.053, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 115.948, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 27.446, 
               "atomtypes": [
-                "CB"
+                "CG"
               ]
             }
           ], 
           "tags": [
-            "backbone"
+            "arginine sidechain"
           ], 
           "height": -1.589
         }, 
@@ -21045,19 +21142,25 @@
           "dims": [
             {
               "shift": 7.653, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 115.251, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 43.341, 
-              "atomtypes": []
+              "atomtypes": [
+                "CD"
+              ]
             }
           ], 
           "tags": [
-            "processing artifact"
+            "arginine sidechain"
           ], 
           "height": 1.714
         }, 
@@ -21065,21 +21168,25 @@
           "dims": [
             {
               "shift": 7.598, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 115.253, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 43.346, 
               "atomtypes": [
-                "CA"
+                "CD"
               ]
             }
           ], 
           "tags": [
-            "backbone"
+            "arginine sidechain"
           ], 
           "height": 4.607
         }, 
@@ -21087,21 +21194,25 @@
           "dims": [
             {
               "shift": 7.601, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 115.254, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 29.336, 
               "atomtypes": [
-                "CB"
+                "CG"
               ]
             }
           ], 
           "tags": [
-            "backbone"
+            "arginine sidechain"
           ], 
           "height": -2.74
         }, 
@@ -21109,19 +21220,25 @@
           "dims": [
             {
               "shift": 7.547, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 115.267, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 43.297, 
-              "atomtypes": []
+              "atomtypes": [
+                "CD"
+              ]
             }
           ], 
           "tags": [
-            "close to unpicked NHSQC peak"
+            "arginine sidechain"
           ], 
           "height": 2.065
         }, 
@@ -21129,21 +21246,25 @@
           "dims": [
             {
               "shift": 7.511, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 115.254, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 43.354, 
               "atomtypes": [
-                "CA"
+                "CD"
               ]
             }
           ], 
           "tags": [
-            "backbone"
+            "arginine sidechain"
           ], 
           "height": 3.416
         }, 
@@ -21151,21 +21272,25 @@
           "dims": [
             {
               "shift": 7.515, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 115.292, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 29.258, 
               "atomtypes": [
-                "CB"
+                "CG"
               ]
             }
           ], 
           "tags": [
-            "backbone"
+            "arginine sidechain"
           ], 
           "height": -2.098
         }, 
@@ -21173,21 +21298,25 @@
           "dims": [
             {
               "shift": 7.499, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 115.236, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 43.344, 
               "atomtypes": [
-                "CA"
+                "CD"
               ]
             }
           ], 
           "tags": [
-            "backbone"
+            "arginine sidechain"
           ], 
           "height": 3.769
         }, 
@@ -21195,21 +21324,25 @@
           "dims": [
             {
               "shift": 7.497, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 115.261, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 29.242, 
               "atomtypes": [
-                "CB"
+                "CG"
               ]
             }
           ], 
           "tags": [
-            "backbone"
+            "arginine sidechain"
           ], 
           "height": -2.469
         }, 
@@ -22157,21 +22290,25 @@
           "dims": [
             {
               "shift": 7.393, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 114.068, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 27.636, 
               "atomtypes": [
-                "CB"
+                "CG"
               ]
             }
           ], 
           "tags": [
-            "backbone"
+            "arginine sidechain"
           ], 
           "height": -2.566
         }, 
@@ -22179,21 +22316,25 @@
           "dims": [
             {
               "shift": 7.379, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 114.086, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 27.649, 
               "atomtypes": [
-                "CB"
+                "CG"
               ]
             }
           ], 
           "tags": [
-            "backbone"
+            "arginine sidechain"
           ], 
           "height": -3.076
         }, 
@@ -22201,21 +22342,25 @@
           "dims": [
             {
               "shift": 7.372, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 114.059, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 43.043, 
               "atomtypes": [
-                "CA"
+                "CD"
               ]
             }
           ], 
           "tags": [
-            "backbone"
+            "arginine sidechain"
           ], 
           "height": 4.203
         }, 
@@ -22223,21 +22368,25 @@
           "dims": [
             {
               "shift": 7.347, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 114.07, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 27.633, 
               "atomtypes": [
-                "CB"
+                "CG"
               ]
             }
           ], 
           "tags": [
-            "backbone"
+            "arginine sidechain"
           ], 
           "height": -2.68
         }, 
@@ -22245,21 +22394,25 @@
           "dims": [
             {
               "shift": 7.323, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 114.05, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 43.055, 
               "atomtypes": [
-                "CA"
+                "CD"
               ]
             }
           ], 
           "tags": [
-            "backbone"
+            "arginine sidechain"
           ], 
           "height": 2.809
         }, 
@@ -22267,21 +22420,25 @@
           "dims": [
             {
               "shift": 7.304, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 114.073, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 27.608, 
               "atomtypes": [
-                "CB"
+                "CG"
               ]
             }
           ], 
           "tags": [
-            "backbone"
+            "arginine sidechain"
           ], 
           "height": -1.83
         }, 
@@ -22289,21 +22446,25 @@
           "dims": [
             {
               "shift": 7.291, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 114.091, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 43.033, 
               "atomtypes": [
-                "CA"
+                "CD"
               ]
             }
           ], 
           "tags": [
-            "backbone"
+            "arginine sidechain"
           ], 
           "height": 3.126
         }, 
@@ -22311,21 +22472,25 @@
           "dims": [
             {
               "shift": 7.29, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 114.119, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 27.672, 
               "atomtypes": [
-                "CB"
+                "CG"
               ]
             }
           ], 
           "tags": [
-            "backbone"
+            "arginine sidechain"
           ], 
           "height": -1.962
         }, 
@@ -22333,21 +22498,25 @@
           "dims": [
             {
               "shift": 7.273, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 114.097, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 43.046, 
               "atomtypes": [
-                "CA"
+                "CD"
               ]
             }
           ], 
           "tags": [
-            "backbone"
+            "arginine sidechain"
           ], 
           "height": 2.955
         }, 
@@ -22355,21 +22524,25 @@
           "dims": [
             {
               "shift": 7.259, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 114.094, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 43.043, 
               "atomtypes": [
-                "CA"
+                "CD"
               ]
             }
           ], 
           "tags": [
-            "backbone"
+            "arginine sidechain"
           ], 
           "height": 3.478
         }, 
@@ -22377,21 +22550,25 @@
           "dims": [
             {
               "shift": 7.261, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }, 
             {
               "shift": 114.092, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 27.725, 
               "atomtypes": [
-                "CB"
+                "CG"
               ]
             }
           ], 
           "tags": [
-            "backbone"
+            "arginine sidechain"
           ], 
           "height": -2.524
         }, 
@@ -26600,11 +26777,15 @@
           "dims": [
             {
               "shift": 115.275, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 7.597, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }
           ], 
           "tags": [
@@ -26616,11 +26797,15 @@
           "dims": [
             {
               "shift": 115.268, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 7.498, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }
           ], 
           "tags": [
@@ -26792,11 +26977,15 @@
           "dims": [
             {
               "shift": 114.136, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 7.375, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }
           ], 
           "tags": [
@@ -26808,11 +26997,15 @@
           "dims": [
             {
               "shift": 114.096, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 7.256, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }
           ], 
           "tags": [
@@ -27272,11 +27465,15 @@
           "dims": [
             {
               "shift": 116.02, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 7.148, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }
           ], 
           "tags": [
@@ -27288,11 +27485,15 @@
           "dims": [
             {
               "shift": 116.011, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE"
+              ]
             }, 
             {
               "shift": 7.055, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE"
+              ]
             }
           ], 
           "tags": [
