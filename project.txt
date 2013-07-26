@@ -8070,7 +8070,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "asparagine/glutamine sidechain"
+          ], 
           "height": 8.14
         }, 
         "174": {
@@ -8088,7 +8090,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "asparagine/glutamine sidechain"
+          ], 
           "height": 7.243
         }, 
         "175": {
@@ -8226,7 +8230,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "asparagine/glutamine sidechain"
+          ], 
           "height": 5.555
         }, 
         "182": {
@@ -8244,7 +8250,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "asparagine/glutamine sidechain"
+          ], 
           "height": 6.275
         }, 
         "183": {
@@ -22546,7 +22554,9 @@
               ]
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "asparagine/glutamine sidechain"
+          ], 
           "height": 2.173
         }, 
         "662": {
@@ -22566,7 +22576,9 @@
               ]
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "asparagine/glutamine sidechain"
+          ], 
           "height": 1.768
         }, 
         "663": {
@@ -23338,7 +23350,9 @@
               ]
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "asparagine/glutamine sidechain"
+          ], 
           "height": -3.199
         }, 
         "700": {
@@ -23358,7 +23372,9 @@
               ]
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "asparagine/glutamine sidechain"
+          ], 
           "height": 3.302
         }, 
         "701": {
@@ -23378,7 +23394,9 @@
               ]
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "asparagine/glutamine sidechain"
+          ], 
           "height": 2.724
         }, 
         "702": {
@@ -23398,7 +23416,9 @@
               ]
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "asparagine/glutamine sidechain"
+          ], 
           "height": -2.613
         }, 
         "703": {
@@ -26827,7 +26847,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "asparagine/glutamine sidechain"
+          ], 
           "height": 210.5
         }, 
         "115": {
@@ -26841,7 +26863,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "asparagine/glutamine sidechain"
+          ], 
           "height": 186.9
         }, 
         "116": {
@@ -26855,7 +26879,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "asparagine/glutamine sidechain"
+          ], 
           "height": 12.72
         }, 
         "117": {
@@ -26869,7 +26895,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "asparagine/glutamine sidechain"
+          ], 
           "height": 10.03
         }, 
         "118": {
@@ -26963,7 +26991,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "asparagine/glutamine sidechain"
+          ], 
           "height": 83.51
         }, 
         "124": {
@@ -26977,7 +27007,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "asparagine/glutamine sidechain"
+          ], 
           "height": 62.74
         }, 
         "125": {
@@ -26991,7 +27023,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "asparagine/glutamine sidechain"
+          ], 
           "height": 5.594
         }, 
         "126": {
@@ -27005,7 +27039,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "asparagine/glutamine sidechain"
+          ], 
           "height": 5.809
         }, 
         "127": {
@@ -27019,7 +27055,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "asparagine/glutamine sidechain"
+          ], 
           "height": 4.18
         }, 
         "128": {
@@ -27033,7 +27071,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "asparagine/glutamine sidechain"
+          ], 
           "height": 4.2
         }, 
         "129": {
@@ -27047,7 +27087,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "asparagine/glutamine sidechain"
+          ], 
           "height": 3.23
         }, 
         "130": {
