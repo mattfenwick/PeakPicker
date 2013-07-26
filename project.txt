@@ -3397,8 +3397,8 @@
         ]
       ], 
       "ssnexts": [], 
-      "aatypes": [], 
-      "tags": []
+      "aatypes": ["asparagine"], 
+      "tags": ["sidechain"]
     }, 
     "99": {
       "residueids": [], 
