@@ -4146,7 +4146,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "asparagine/glutamine sidechain"
+      ]
     }, 
     "130": {
       "residueids": [], 
@@ -23344,12 +23346,12 @@
             {
               "shift": 52.034, 
               "atomtypes": [
-                "CB"
+                "CA"
               ]
             }
           ], 
           "tags": [
-            "backbone"
+            "asparagine/glutamine sidechain"
           ], 
           "height": -3.199
         }, 
@@ -23366,12 +23368,12 @@
             {
               "shift": 40.782, 
               "atomtypes": [
-                "CA"
+                "CB"
               ]
             }
           ], 
           "tags": [
-            "backbone"
+            "asparagine/glutamine sidechain"
           ], 
           "height": 3.302
         }, 
@@ -23388,12 +23390,12 @@
             {
               "shift": 40.768, 
               "atomtypes": [
-                "CA"
+                "CB"
               ]
             }
           ], 
           "tags": [
-            "backbone"
+            "asparagine/glutamine sidechain"
           ], 
           "height": 2.724
         }, 
@@ -23410,12 +23412,12 @@
             {
               "shift": 52.016, 
               "atomtypes": [
-                "CB"
+                "CA"
               ]
             }
           ], 
           "tags": [
-            "backbone"
+            "asparagine/glutamine sidechain"
           ], 
           "height": -2.613
         }, 
