@@ -10292,7 +10292,7 @@
           ], 
           "tags": [
             "close to unpicked NHSQC peak", 
-            "spectral artifact"
+            "processing artifact"
           ], 
           "height": 1.772
         }, 
@@ -23655,7 +23655,7 @@
           ], 
           "tags": [
             "close to unpicked NHSQC peak", 
-            "spectral artifact"
+            "processing artifact"
           ], 
           "height": 5.135
         }, 
