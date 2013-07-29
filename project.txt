@@ -105,8 +105,8 @@
         ]
       ], 
       "ssnexts": [], 
-      "aatypes": [], 
-      "tags": []
+      "aatypes": ["tryptophan"], 
+      "tags": ["sidechain"]
     }, 
     "5": {
       "residueids": [], 
