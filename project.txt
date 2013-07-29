@@ -2850,7 +2850,8 @@
       ], 
       "tags": [
         "folded: NE once, CZ twice", 
-        "sidechain"
+        "sidechain",
+        "H dimension split because NE outside of N decoupling band"
       ]
     }, 
     "101": {
@@ -3079,7 +3080,8 @@
       ], 
       "tags": [
         "folded: NE once, CZ twice", 
-        "sidechain"
+        "sidechain",
+        "H dimension split because NE outside of N decoupling band"
       ]
     }, 
     "113": {
@@ -3696,7 +3698,8 @@
       ], 
       "tags": [
         "folded: NE once, CZ twice", 
-        "sidechain"
+        "sidechain",
+        "H dimension split because NE outside of N decoupling band"
       ]
     }, 
     "145": {
