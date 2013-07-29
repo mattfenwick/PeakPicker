@@ -105,8 +105,12 @@
         ]
       ], 
       "ssnexts": [], 
-      "aatypes": ["tryptophan"], 
-      "tags": ["sidechain"]
+      "aatypes": [
+        "tryptophan"
+      ], 
+      "tags": [
+        "sidechain"
+      ]
     }, 
     "5": {
       "residueids": [], 
@@ -974,7 +978,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "unknown"
+      ]
     }, 
     "34": {
       "residueids": [], 
@@ -1034,7 +1040,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "no crosspeaks"
+      ]
     }, 
     "37": {
       "residueids": [], 
@@ -1078,7 +1086,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "unknown"
+      ]
     }, 
     "39": {
       "residueids": [], 
@@ -1286,7 +1296,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "unknown"
+      ]
     }, 
     "46": {
       "residueids": [], 
@@ -1642,7 +1654,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "unknown"
+      ]
     }, 
     "59": {
       "residueids": [], 
@@ -1682,7 +1696,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "unknown"
+      ]
     }, 
     "61": {
       "residueids": [], 
@@ -2850,7 +2866,7 @@
       ], 
       "tags": [
         "folded: NE once, CZ twice", 
-        "sidechain",
+        "sidechain", 
         "H dimension split because NE outside of N decoupling band"
       ]
     }, 
@@ -2864,7 +2880,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "unknown"
+      ]
     }, 
     "102": {
       "residueids": [], 
@@ -2876,7 +2894,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "unknown"
+      ]
     }, 
     "103": {
       "residueids": [], 
@@ -2888,7 +2908,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "artifact"
+      ]
     }, 
     "104": {
       "residueids": [], 
@@ -2900,7 +2922,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "artifact"
+      ]
     }, 
     "105": {
       "residueids": [], 
@@ -2912,7 +2936,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "artifact"
+      ]
     }, 
     "106": {
       "residueids": [], 
@@ -2948,7 +2974,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "artifact"
+      ]
     }, 
     "108": {
       "residueids": [], 
@@ -2964,7 +2992,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "artifact"
+      ]
     }, 
     "109": {
       "residueids": [], 
@@ -2976,7 +3006,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "artifact"
+      ]
     }, 
     "110": {
       "residueids": [], 
@@ -3080,7 +3112,7 @@
       ], 
       "tags": [
         "folded: NE once, CZ twice", 
-        "sidechain",
+        "sidechain", 
         "H dimension split because NE outside of N decoupling band"
       ]
     }, 
@@ -3698,7 +3730,7 @@
       ], 
       "tags": [
         "folded: NE once, CZ twice", 
-        "sidechain",
+        "sidechain", 
         "H dimension split because NE outside of N decoupling band"
       ]
     }, 
@@ -3716,7 +3748,10 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "severely overlapped", 
+        "hard to interpret"
+      ]
     }, 
     "146": {
       "residueids": [], 
@@ -3756,7 +3791,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "unknown"
+      ]
     }
   }, 
   "spectra": {
