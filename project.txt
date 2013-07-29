@@ -996,7 +996,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "unknown"
+      ]
     }, 
     "35": {
       "residueids": [], 
@@ -1374,7 +1376,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "unknown"
+      ]
     }, 
     "49": {
       "residueids": [], 
@@ -1738,7 +1742,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "unknown"
+      ]
     }, 
     "63": {
       "residueids": [], 
