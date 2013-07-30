@@ -2910,8 +2910,13 @@
           568
         ]
       ], 
-      "ssnexts": [], 
-      "aatypes": [], 
+      "ssnexts": [
+        140
+      ], 
+      "aatypes": [
+        "serine", 
+        "threonine"
+      ], 
       "tags": [
         "backbone"
       ]
