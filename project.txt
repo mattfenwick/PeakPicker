@@ -1726,10 +1726,6 @@
         ], 
         [
           "hncacb", 
-          356
-        ], 
-        [
-          "hncacb", 
           357
         ]
       ], 
@@ -3927,8 +3923,12 @@
           768
         ]
       ], 
-      "ssnexts": [], 
-      "aatypes": [], 
+      "ssnexts": [
+        56
+      ], 
+      "aatypes": [
+        "alanine"
+      ], 
       "tags": [
         "backbone"
       ]
@@ -15559,7 +15559,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": 21.14
         }, 
@@ -15581,7 +15582,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": 11.42
         }, 
@@ -15623,7 +15625,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": -14.77
         }, 
@@ -15645,7 +15648,7 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "processing artifact"
           ], 
           "height": 1.568
         }, 
@@ -15667,7 +15670,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": -6.674
         }, 
@@ -24340,7 +24344,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": 15.48
         }, 
@@ -24382,7 +24387,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": -8.486
         }, 
@@ -24404,7 +24410,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": -2.063
         }, 
@@ -24426,7 +24433,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": 3.287
         }, 
