@@ -3572,8 +3572,13 @@
           696
         ]
       ], 
-      "ssnexts": [], 
-      "aatypes": [], 
+      "ssnexts": [
+        68
+      ], 
+      "aatypes": [
+        "serine", 
+        "threonine"
+      ], 
       "tags": [
         "backbone"
       ]
@@ -17064,7 +17069,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": -3.498
         }, 
@@ -17086,7 +17092,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": 6.059
         }, 
@@ -17108,7 +17115,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": 22.17
         }, 
@@ -17130,7 +17138,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": -13.07
         }, 
@@ -22881,7 +22890,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": -19.2
         }, 
@@ -22923,7 +22933,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": 32.71
         }, 
@@ -22965,7 +22976,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": 21.78
         }, 
