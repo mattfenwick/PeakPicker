@@ -1955,8 +1955,12 @@
           418
         ]
       ], 
-      "ssnexts": [], 
-      "aatypes": [], 
+      "ssnexts": [
+        5
+      ], 
+      "aatypes": [
+        "alanine"
+      ], 
       "tags": [
         "backbone"
       ]
@@ -9423,7 +9427,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": 8.412
         }, 
@@ -9445,7 +9450,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": -7.127
         }, 
@@ -9467,7 +9473,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": -4.538
         }, 
@@ -9489,7 +9496,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": 10.02
         }, 
@@ -16877,7 +16885,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": 6.475
         }, 
@@ -16899,7 +16908,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": 11.42
         }, 
@@ -16921,7 +16931,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": -5.699
         }, 
@@ -16943,7 +16954,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": -6.95
         }, 
