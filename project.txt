@@ -3542,8 +3542,13 @@
           688
         ]
       ], 
-      "ssnexts": [], 
-      "aatypes": [], 
+      "ssnexts": [
+        67
+      ], 
+      "aatypes": [
+        "serine", 
+        "threonine"
+      ], 
       "tags": [
         "backbone"
       ]
@@ -16829,7 +16834,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": -4.142
         }, 
@@ -16851,7 +16857,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": 11.12
         }, 
@@ -16873,7 +16880,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": 8.828
         }, 
@@ -16895,7 +16903,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": -6.98
         }, 
