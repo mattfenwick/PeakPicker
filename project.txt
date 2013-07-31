@@ -2587,7 +2587,7 @@
         ]
       ], 
       "ssnexts": [
-        84
+        81
       ], 
       "aatypes": [
         "alanine"
