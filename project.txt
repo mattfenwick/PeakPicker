@@ -556,6 +556,10 @@
         [
           "hncacb", 
           137
+        ], 
+        [
+          "hncacb", 
+          781
         ]
       ], 
       "ssnexts": [
@@ -24907,6 +24911,29 @@
             "i-1"
           ], 
           "height": 6.842
+        }, 
+        "781": {
+          "dims": [
+            {
+              "shift": 8.629, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 124.411, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 63.214, 
+              "atomtypes": [
+                "CB"
+              ]
+            }
+          ], 
+          "tags": [
+            "backbone", 
+            "i-1"
+          ], 
+          "height": -0.947
         }
       }
     }, 
