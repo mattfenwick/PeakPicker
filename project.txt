@@ -57,7 +57,9 @@
       ]
     }, 
     "3": {
-      "residueids": [], 
+      "residueids": [
+        19
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -84,7 +86,9 @@
           59
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        51
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
@@ -441,7 +445,9 @@
       ]
     }, 
     "14": {
-      "residueids": [], 
+      "residueids": [
+        17
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -468,7 +474,9 @@
           122
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        26
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
@@ -854,7 +862,9 @@
       ]
     }, 
     "26": {
-      "residueids": [], 
+      "residueids": [
+        18
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -881,14 +891,18 @@
           197
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        3
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
       ]
     }, 
     "27": {
-      "residueids": [], 
+      "residueids": [
+        16
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -915,7 +929,9 @@
           192
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        14
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
@@ -1054,7 +1070,9 @@
       ]
     }, 
     "32": {
-      "residueids": [], 
+      "residueids": [
+        12
+      ],  
       "pkids": [
         [
           "nhsqc", 
@@ -1081,7 +1099,9 @@
           237
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        120
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
@@ -1599,7 +1619,9 @@
       ]
     }, 
     "51": {
-      "residueids": [], 
+      "residueids": [
+        20
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -1626,7 +1648,9 @@
           305
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        77
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
@@ -2111,7 +2135,9 @@
       ]
     }, 
     "68": {
-      "residueids": [], 
+      "residueids": [
+        15
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -2138,7 +2164,9 @@
           425
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        27
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
@@ -2419,7 +2447,9 @@
       ]
     }, 
     "77": {
-      "residueids": [], 
+      "residueids": [
+        21
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -2446,7 +2476,9 @@
           474
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        82
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
@@ -2593,7 +2625,9 @@
       ]
     }, 
     "82": {
-      "residueids": [], 
+      "residueids": [
+        22
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -3617,7 +3651,9 @@
       ]
     }, 
     "120": {
-      "residueids": [], 
+      "residueids": [
+        13
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -3640,7 +3676,9 @@
           682
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        122
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
@@ -3688,7 +3726,9 @@
       ]
     }, 
     "122": {
-      "residueids": [], 
+      "residueids": [
+        14
+      ], 
       "pkids": [
         [
           "nhsqc", 
