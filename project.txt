@@ -3921,7 +3921,9 @@
       ]
     }, 
     "135": {
-      "residueids": [], 
+      "residueids": [
+        30
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -3944,7 +3946,9 @@
           740
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        110
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
