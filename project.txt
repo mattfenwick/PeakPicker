@@ -3352,7 +3352,9 @@
       ]
     }, 
     "110": {
-      "residueids": [], 
+      "residueids": [
+        31
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -3375,7 +3377,9 @@
           637
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        79
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
