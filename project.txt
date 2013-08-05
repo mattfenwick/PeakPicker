@@ -161,7 +161,9 @@
       ]
     }, 
     "6": {
-      "residueids": [], 
+      "residueids": [
+        104
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -1029,7 +1031,9 @@
       ]
     }, 
     "30": {
-      "residueids": [], 
+      "residueids": [
+        103
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -1048,7 +1052,9 @@
           215
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        6
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
@@ -3896,7 +3902,9 @@
       ]
     }, 
     "131": {
-      "residueids": [], 
+      "residueids": [
+        105
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -12986,7 +12994,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": 46.41
         }, 
@@ -13008,7 +13017,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": -21.14
         }, 
