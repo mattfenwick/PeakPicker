@@ -3635,7 +3635,9 @@
       ]
     }, 
     "114": {
-      "residueids": [], 
+      "residueids": [
+        31
+      ], 
       "pkids": [
         [
           "nhsqc", 
