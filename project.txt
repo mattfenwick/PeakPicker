@@ -3469,7 +3469,9 @@
       ]
     }, 
     "106": {
-      "residueids": [], 
+      "residueids": [
+        106
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -3486,6 +3488,10 @@
         [
           "hncacb", 
           610
+        ], 
+        [
+          "hncacb", 
+          786
         ]
       ], 
       "ssnexts": [], 
@@ -4035,7 +4041,9 @@
           721
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        106
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
@@ -21733,7 +21741,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": 464.9
         }, 
@@ -25486,6 +25495,29 @@
             "i-1"
           ], 
           "height": -0.591
+        },
+        "786": {
+          "dims": [
+            {
+              "shift": 7.902, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 115.059, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 45.292, 
+              "atomtypes": [
+                "CA"
+              ]
+            }
+          ], 
+          "tags": [
+            "backbone", 
+            "i-1"
+          ], 
+          "height": 82.198
         }
       }
     }, 
