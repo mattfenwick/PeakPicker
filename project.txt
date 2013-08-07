@@ -3739,7 +3739,8 @@
         "glutamine"
       ], 
       "tags": [
-        "sidechain"
+        "sidechain", 
+        "missing CB peaks -- are they overlapped with the CG peaks?"
       ]
     }, 
     "118": {
