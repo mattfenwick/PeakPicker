@@ -60,7 +60,9 @@
           55
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        138
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
@@ -4232,7 +4234,9 @@
       ]
     }, 
     "138": {
-      "residueids": [], 
+      "residueids": [
+        78
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -4247,7 +4251,9 @@
           761
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        37
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
@@ -24962,7 +24968,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": 3.577
         }, 
