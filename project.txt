@@ -1336,7 +1336,9 @@
       ]
     }, 
     "40": {
-      "residueids": [], 
+      "residueids": [
+        26
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -1363,7 +1365,9 @@
           279
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        76
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
@@ -2492,7 +2496,9 @@
       ]
     }, 
     "76": {
-      "residueids": [], 
+      "residueids": [
+        27
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -2511,7 +2517,9 @@
           481
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        87
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
@@ -2848,7 +2856,9 @@
       ]
     }, 
     "86": {
-      "residueids": [], 
+      "residueids": [
+        29
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -2871,14 +2881,18 @@
           539
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        135
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
       ]
     }, 
     "87": {
-      "residueids": [], 
+      "residueids": [
+        28
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -2905,14 +2919,18 @@
           536
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        86
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
       ]
     }, 
     "88": {
-      "residueids": [], 
+      "residueids": [
+        25
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -2939,7 +2957,9 @@
           531
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        40
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
@@ -14383,7 +14403,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": 10.54
         }, 
@@ -14405,7 +14426,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": 4.615
         }, 
@@ -14427,7 +14449,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": -4.132
         }, 
@@ -14449,7 +14472,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": -6.791
         }, 
@@ -18741,7 +18765,9 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i", 
+            "i-1"
           ], 
           "height": 21.15
         }, 
@@ -18783,7 +18809,9 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i", 
+            "i-1"
           ], 
           "height": -13.65
         }, 
@@ -19817,7 +19845,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": -2.544
         }, 
@@ -19839,7 +19868,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": 4.229
         }, 
@@ -19861,7 +19891,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": 16.85
         }, 
@@ -19883,7 +19914,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": -12.37
         }, 
@@ -19905,7 +19937,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": 7.36
         }, 
@@ -19947,7 +19980,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": 19.47
         }, 
@@ -19969,7 +20003,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": -10.89
         }, 
@@ -19991,7 +20026,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": -4.197
         }, 
@@ -20013,7 +20049,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": 4.086
         }, 
@@ -20035,7 +20072,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": 11.6
         }, 
@@ -20057,7 +20095,9 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i", 
+            "i-1"
           ], 
           "height": -10.39
         }, 
