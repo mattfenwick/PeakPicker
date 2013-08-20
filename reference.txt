@@ -1,0 +1,9 @@
+had to adjust C(CO)NH reference in the 1H dimension
+  - from:  8.5519649
+  - to: 8.5779649
+ based on manual alignment of peaks to NHSQC and HNCACB
+
+
+had to adjust HNCO reference in the 1H dimension
+  - from:  ???
+  - to:  8.5760000
