@@ -3473,6 +3473,22 @@
         [
           "hncacb", 
           474
+        ], 
+        [
+          "cconh", 
+          400
+        ], 
+        [
+          "cconh", 
+          401
+        ], 
+        [
+          "cconh", 
+          402
+        ], 
+        [
+          "cconh", 
+          403
         ]
       ], 
       "ssnexts": [
@@ -5150,10 +5166,6 @@
         [
           "cconh", 
           539
-        ], 
-        [
-          "cconh", 
-          540
         ]
       ], 
       "ssnexts": [
@@ -10756,7 +10768,9 @@
             }, 
             {
               "shift": 36.043, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG"
+              ]
             }
           ], 
           "tags": [], 
@@ -10774,7 +10788,9 @@
             }, 
             {
               "shift": 31.462, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -10792,7 +10808,9 @@
             }, 
             {
               "shift": 54.46, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -11476,7 +11494,9 @@
             }, 
             {
               "shift": 55.443, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -11494,7 +11514,9 @@
             }, 
             {
               "shift": 38.313, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG"
+              ]
             }
           ], 
           "tags": [], 
@@ -11512,7 +11534,9 @@
             }, 
             {
               "shift": 32.724, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -12132,7 +12156,9 @@
             }, 
             {
               "shift": 54.295, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -12150,7 +12176,9 @@
             }, 
             {
               "shift": 30.882, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG"
+              ]
             }
           ], 
           "tags": [], 
@@ -12168,7 +12196,9 @@
             }, 
             {
               "shift": 52.675, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -12186,7 +12216,9 @@
             }, 
             {
               "shift": 46.512, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -12204,7 +12236,11 @@
             }, 
             {
               "shift": 28.833, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG", 
+                "CD1", 
+                "CD2"
+              ]
             }
           ], 
           "tags": [], 
@@ -12222,7 +12258,11 @@
             }, 
             {
               "shift": 27.449, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG", 
+                "CD1", 
+                "CD2"
+              ]
             }
           ], 
           "tags": [], 
@@ -12240,7 +12280,11 @@
             }, 
             {
               "shift": 25.036, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG", 
+                "CD1", 
+                "CD2"
+              ]
             }
           ], 
           "tags": [], 
@@ -12258,7 +12302,9 @@
             }, 
             {
               "shift": 35.562, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -12520,7 +12566,9 @@
             }, 
             {
               "shift": 54.275, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -12538,7 +12586,9 @@
             }, 
             {
               "shift": 41.712, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -12646,7 +12696,9 @@
             }, 
             {
               "shift": 40.267, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -14030,7 +14082,9 @@
             }, 
             {
               "shift": 52.484, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -14048,7 +14102,9 @@
             }, 
             {
               "shift": 42.594, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -14066,7 +14122,11 @@
             }, 
             {
               "shift": 27.353, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG", 
+                "CD1", 
+                "CD2"
+              ]
             }
           ], 
           "tags": [], 
@@ -14084,7 +14144,11 @@
             }, 
             {
               "shift": 24.35, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG", 
+                "CD1", 
+                "CD2"
+              ]
             }
           ], 
           "tags": [], 
@@ -14102,7 +14166,11 @@
             }, 
             {
               "shift": 25.542, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG", 
+                "CD1", 
+                "CD2"
+              ]
             }
           ], 
           "tags": [], 
@@ -17142,7 +17210,9 @@
             }, 
             {
               "shift": 21.179, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG"
+              ]
             }
           ], 
           "tags": [], 
@@ -17160,7 +17230,9 @@
             }, 
             {
               "shift": 60.193, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -17632,12 +17704,12 @@
             }, 
             {
               "shift": 53.939, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
-          "tags": [
-            "unknown"
-          ], 
+          "tags": [], 
           "height": 5.247
         }, 
         "401": {
@@ -17652,12 +17724,12 @@
             }, 
             {
               "shift": 43.875, 
-              "atomtypes": []
+              "atomtypes": [
+                "CD"
+              ]
             }
           ], 
-          "tags": [
-            "unknown"
-          ], 
+          "tags": [], 
           "height": 33.8
         }, 
         "402": {
@@ -17672,12 +17744,12 @@
             }, 
             {
               "shift": 33.083, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
-          "tags": [
-            "unknown"
-          ], 
+          "tags": [], 
           "height": 11.15
         }, 
         "403": {
@@ -17692,12 +17764,12 @@
             }, 
             {
               "shift": 27.317, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG"
+              ]
             }
           ], 
-          "tags": [
-            "unknown"
-          ], 
+          "tags": [], 
           "height": 4.916
         }, 
         "404": {
@@ -18064,7 +18136,9 @@
             }, 
             {
               "shift": 57.091, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -18082,7 +18156,9 @@
             }, 
             {
               "shift": 42.447, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -20044,7 +20120,9 @@
             }, 
             {
               "shift": 56.565, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -20062,7 +20140,9 @@
             }, 
             {
               "shift": 42.091, 
-              "atomtypes": []
+              "atomtypes": [
+                "CE"
+              ]
             }
           ], 
           "tags": [], 
@@ -20080,7 +20160,9 @@
             }, 
             {
               "shift": 33.054, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -20098,7 +20180,9 @@
             }, 
             {
               "shift": 24.567, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG"
+              ]
             }
           ], 
           "tags": [], 
@@ -20226,7 +20310,9 @@
             }, 
             {
               "shift": 28.949, 
-              "atomtypes": []
+              "atomtypes": [
+                "CD"
+              ]
             }
           ], 
           "tags": [], 
@@ -20247,7 +20333,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "unknown"
+          ], 
           "height": 4.488
         }, 
         "541": {
@@ -20438,7 +20526,9 @@
             }, 
             {
               "shift": 45.48, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
