@@ -1103,10 +1103,6 @@
         ], 
         [
           "cconh", 
-          101
-        ], 
-        [
-          "cconh", 
           102
         ], 
         [
@@ -2251,50 +2247,6 @@
         [
           "cconh", 
           219
-        ], 
-        [
-          "cconh", 
-          220
-        ], 
-        [
-          "cconh", 
-          222
-        ], 
-        [
-          "cconh", 
-          223
-        ], 
-        [
-          "cconh", 
-          224
-        ], 
-        [
-          "cconh", 
-          225
-        ], 
-        [
-          "cconh", 
-          226
-        ], 
-        [
-          "cconh", 
-          227
-        ], 
-        [
-          "cconh", 
-          228
-        ], 
-        [
-          "cconh", 
-          229
-        ], 
-        [
-          "cconh", 
-          230
-        ], 
-        [
-          "cconh", 
-          234
         ]
       ], 
       "ssnexts": [
@@ -5509,23 +5461,7 @@
         ], 
         [
           "cconh", 
-          685
-        ], 
-        [
-          "cconh", 
-          686
-        ], 
-        [
-          "cconh", 
-          687
-        ], 
-        [
-          "cconh", 
           688
-        ], 
-        [
-          "cconh", 
-          689
         ]
       ], 
       "ssnexts": [
@@ -11985,7 +11921,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 3.923
         }, 
         "102": {
@@ -12000,7 +11938,9 @@
             }, 
             {
               "shift": 57.882, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -12018,7 +11958,9 @@
             }, 
             {
               "shift": 38.714, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -13082,7 +13024,9 @@
             }, 
             {
               "shift": 56.145, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -13100,7 +13044,9 @@
             }, 
             {
               "shift": 43.247, 
-              "atomtypes": []
+              "atomtypes": [
+                "CD"
+              ]
             }
           ], 
           "tags": [], 
@@ -13118,7 +13064,9 @@
             }, 
             {
               "shift": 30.823, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG"
+              ]
             }
           ], 
           "tags": [], 
@@ -13136,7 +13084,9 @@
             }, 
             {
               "shift": 26.921, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -13172,7 +13122,9 @@
             }, 
             {
               "shift": 56.041, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -13190,7 +13142,9 @@
             }, 
             {
               "shift": 42.034, 
-              "atomtypes": []
+              "atomtypes": [
+                "CE"
+              ]
             }
           ], 
           "tags": [], 
@@ -13208,7 +13162,9 @@
             }, 
             {
               "shift": 33.355, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -13226,7 +13182,9 @@
             }, 
             {
               "shift": 28.948, 
-              "atomtypes": []
+              "atomtypes": [
+                "CD"
+              ]
             }
           ], 
           "tags": [], 
@@ -13244,7 +13202,9 @@
             }, 
             {
               "shift": 24.505, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG"
+              ]
             }
           ], 
           "tags": [], 
@@ -14180,7 +14140,9 @@
             }, 
             {
               "shift": 45.205, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -14201,7 +14163,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 7.689
         }, 
         "221": {
@@ -14239,7 +14203,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 5.355
         }, 
         "223": {
@@ -14257,7 +14223,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 5.019
         }, 
         "224": {
@@ -14275,7 +14243,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 15.54
         }, 
         "225": {
@@ -14293,7 +14263,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 10.06
         }, 
         "226": {
@@ -14311,7 +14283,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 4.837
         }, 
         "227": {
@@ -14329,7 +14303,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 3.984
         }, 
         "228": {
@@ -14347,7 +14323,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 3.699
         }, 
         "229": {
@@ -14383,7 +14361,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 5.085
         }, 
         "231": {
@@ -14418,7 +14398,9 @@
             }, 
             {
               "shift": 54.221, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -14436,7 +14418,9 @@
             }, 
             {
               "shift": 41.72, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -14457,7 +14441,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 4.431
         }, 
         "235": {
@@ -23141,7 +23127,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 16.18
         }, 
         "686": {
@@ -23159,7 +23147,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 7.397
         }, 
         "687": {
@@ -23177,7 +23167,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 4.902
         }, 
         "688": {
@@ -23192,7 +23184,9 @@
             }, 
             {
               "shift": 45.275, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -23213,7 +23207,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 3.817
         }, 
         "690": {
