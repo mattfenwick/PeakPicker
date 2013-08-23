@@ -1431,10 +1431,6 @@
         ], 
         [
           "cconh", 
-          123
-        ], 
-        [
-          "cconh", 
           132
         ]
       ], 
@@ -1635,10 +1631,6 @@
         [
           "cconh", 
           148
-        ], 
-        [
-          "cconh", 
-          153
         ]
       ], 
       "ssnexts": [
@@ -2125,10 +2117,6 @@
         [
           "cconh", 
           191
-        ], 
-        [
-          "cconh", 
-          204
         ]
       ], 
       "ssnexts": [
@@ -2526,23 +2514,7 @@
         ], 
         [
           "cconh", 
-          257
-        ], 
-        [
-          "cconh", 
           258
-        ], 
-        [
-          "cconh", 
-          259
-        ], 
-        [
-          "cconh", 
-          281
-        ], 
-        [
-          "cconh", 
-          282
         ]
       ], 
       "ssnexts": [
@@ -3526,14 +3498,6 @@
         ], 
         [
           "cconh", 
-          404
-        ], 
-        [
-          "cconh", 
-          405
-        ], 
-        [
-          "cconh", 
           407
         ], 
         [
@@ -4295,10 +4259,6 @@
         [
           "hncacb", 
           568
-        ], 
-        [
-          "cconh", 
-          460
         ], 
         [
           "cconh", 
@@ -10682,7 +10642,9 @@
             }, 
             {
               "shift": 54.693, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -10700,7 +10662,9 @@
             }, 
             {
               "shift": 42.355, 
-              "atomtypes": []
+              "atomtypes": [
+                "CE"
+              ]
             }
           ], 
           "tags": [], 
@@ -10718,7 +10682,9 @@
             }, 
             {
               "shift": 30.435, 
-              "atomtypes": []
+              "atomtypes": [
+                "CD"
+              ]
             }
           ], 
           "tags": [], 
@@ -10736,7 +10702,9 @@
             }, 
             {
               "shift": 26.144, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG"
+              ]
             }
           ], 
           "tags": [], 
@@ -10874,7 +10842,9 @@
             }, 
             {
               "shift": 49.383, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -10892,7 +10862,9 @@
             }, 
             {
               "shift": 20.583, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -11004,7 +10976,9 @@
             }, 
             {
               "shift": 54.183, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -11022,7 +10996,9 @@
             }, 
             {
               "shift": 43.27, 
-              "atomtypes": []
+              "atomtypes": [
+                "CD"
+              ]
             }
           ], 
           "tags": [], 
@@ -11040,7 +11016,9 @@
             }, 
             {
               "shift": 32.135, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -11058,7 +11036,9 @@
             }, 
             {
               "shift": 26.639, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG"
+              ]
             }
           ], 
           "tags": [], 
@@ -11176,7 +11156,9 @@
             }, 
             {
               "shift": 46.699, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -11274,7 +11256,9 @@
             }, 
             {
               "shift": 63.361, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -11292,7 +11276,9 @@
             }, 
             {
               "shift": 31.876, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -11310,7 +11296,10 @@
             }, 
             {
               "shift": 23.89, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG1", 
+                "CG2"
+              ]
             }
           ], 
           "tags": [], 
@@ -11328,7 +11317,10 @@
             }, 
             {
               "shift": 21.045, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG1", 
+                "CG2"
+              ]
             }
           ], 
           "tags": [], 
@@ -11366,7 +11358,10 @@
             }, 
             {
               "shift": 22.138, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG1", 
+                "CG2"
+              ]
             }
           ], 
           "tags": [], 
@@ -11384,7 +11379,10 @@
             }, 
             {
               "shift": 21.526, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG1", 
+                "CG2"
+              ]
             }
           ], 
           "tags": [], 
@@ -11402,7 +11400,9 @@
             }, 
             {
               "shift": 60.703, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -11420,7 +11420,9 @@
             }, 
             {
               "shift": 33.619, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -11578,7 +11580,9 @@
             }, 
             {
               "shift": 61.87, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -11596,7 +11600,9 @@
             }, 
             {
               "shift": 33.376, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -11614,7 +11620,10 @@
             }, 
             {
               "shift": 22.757, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG1", 
+                "CG2"
+              ]
             }
           ], 
           "tags": [], 
@@ -11632,7 +11641,10 @@
             }, 
             {
               "shift": 20.089, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG1", 
+                "CG2"
+              ]
             }
           ], 
           "tags": [], 
@@ -11671,7 +11683,9 @@
             }, 
             {
               "shift": 51.997, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -11931,7 +11945,9 @@
             }, 
             {
               "shift": 55.744, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -11949,7 +11965,9 @@
             }, 
             {
               "shift": 30.561, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -12373,7 +12391,9 @@
             }, 
             {
               "shift": 56.958, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -12391,7 +12411,9 @@
             }, 
             {
               "shift": 27.76, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -12412,7 +12434,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 4.089
         }, 
         "124": {
@@ -12579,7 +12603,9 @@
             }, 
             {
               "shift": 45.107, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -12637,7 +12663,9 @@
             }, 
             {
               "shift": 60.114, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -12655,7 +12683,9 @@
             }, 
             {
               "shift": 33.602, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -12673,7 +12703,10 @@
             }, 
             {
               "shift": 21.941, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG1", 
+                "CG2"
+              ]
             }
           ], 
           "tags": [], 
@@ -12691,7 +12724,10 @@
             }, 
             {
               "shift": 20.221, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG1", 
+                "CG2"
+              ]
             }
           ], 
           "tags": [], 
@@ -12883,7 +12919,9 @@
             }, 
             {
               "shift": 45.75, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -12984,7 +13022,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 4.377
         }, 
         "154": {
@@ -13539,7 +13579,9 @@
             }, 
             {
               "shift": 52.857, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -13557,7 +13599,9 @@
             }, 
             {
               "shift": 44.466, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -13575,7 +13619,11 @@
             }, 
             {
               "shift": 27.836, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG", 
+                "CD1", 
+                "CD2"
+              ]
             }
           ], 
           "tags": [], 
@@ -13593,7 +13641,11 @@
             }, 
             {
               "shift": 25.736, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG", 
+                "CD1", 
+                "CD2"
+              ]
             }
           ], 
           "tags": [], 
@@ -13611,7 +13663,11 @@
             }, 
             {
               "shift": 24.005, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG", 
+                "CD1", 
+                "CD2"
+              ]
             }
           ], 
           "tags": [], 
@@ -13667,7 +13723,9 @@
             }, 
             {
               "shift": 65.087, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -13685,7 +13743,9 @@
             }, 
             {
               "shift": 31.014, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -13703,7 +13763,10 @@
             }, 
             {
               "shift": 22.537, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG1", 
+                "CG2"
+              ]
             }
           ], 
           "tags": [], 
@@ -13721,7 +13784,10 @@
             }, 
             {
               "shift": 18.752, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG1", 
+                "CG2"
+              ]
             }
           ], 
           "tags": [], 
@@ -13871,7 +13937,11 @@
             }, 
             {
               "shift": 27.036, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG", 
+                "CD1", 
+                "CD2"
+              ]
             }
           ], 
           "tags": [], 
@@ -13972,7 +14042,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 4.735
         }, 
         "205": {
@@ -13987,7 +14059,9 @@
             }, 
             {
               "shift": 53.609, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -14005,7 +14079,11 @@
             }, 
             {
               "shift": 22.469, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG", 
+                "CD1", 
+                "CD2"
+              ]
             }
           ], 
           "tags": [], 
@@ -14083,7 +14161,9 @@
             }, 
             {
               "shift": 39.747, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -14725,7 +14805,9 @@
             }, 
             {
               "shift": 53.563, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -14743,7 +14825,9 @@
             }, 
             {
               "shift": 46.69, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -14761,7 +14845,11 @@
             }, 
             {
               "shift": 26.773, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG", 
+                "CD1", 
+                "CD2"
+              ]
             }
           ], 
           "tags": [], 
@@ -14779,7 +14867,11 @@
             }, 
             {
               "shift": 23.567, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG", 
+                "CD1", 
+                "CD2"
+              ]
             }
           ], 
           "tags": [], 
@@ -15016,7 +15108,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 5.871
         }, 
         "258": {
@@ -15031,7 +15125,9 @@
             }, 
             {
               "shift": 19.953, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -15052,7 +15148,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 6.4
         }, 
         "260": {
@@ -15478,7 +15576,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 7.658
         }, 
         "282": {
@@ -15496,7 +15596,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 5.9
         }, 
         "283": {
@@ -17185,7 +17287,9 @@
             }, 
             {
               "shift": 55.719, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -17223,7 +17327,9 @@
             }, 
             {
               "shift": 42.344, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -17362,7 +17468,10 @@
             }, 
             {
               "shift": 32.374, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB", 
+                "CG"
+              ]
             }
           ], 
           "tags": [], 
@@ -17441,7 +17550,9 @@
             }, 
             {
               "shift": 57.12, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -17967,7 +18078,9 @@
             }, 
             {
               "shift": 30.879, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -17985,7 +18098,10 @@
             }, 
             {
               "shift": 19.917, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG1", 
+                "CG2"
+              ]
             }
           ], 
           "tags": [], 
@@ -18023,7 +18139,9 @@
             }, 
             {
               "shift": 64.228, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -18061,7 +18179,9 @@
             }, 
             {
               "shift": 57.968, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -18139,7 +18259,9 @@
             }, 
             {
               "shift": 36.81, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG"
+              ]
             }
           ], 
           "tags": [], 
@@ -18157,7 +18279,9 @@
             }, 
             {
               "shift": 30.017, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -18716,7 +18840,9 @@
             }, 
             {
               "shift": 52.943, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -18734,7 +18860,9 @@
             }, 
             {
               "shift": 45.489, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -19019,7 +19147,9 @@
               "atomtypes": []
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 4.187
         }, 
         "461": {
@@ -19074,7 +19204,9 @@
             }, 
             {
               "shift": 18.431, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -19232,7 +19364,9 @@
             }, 
             {
               "shift": 56.489, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -19250,7 +19384,9 @@
             }, 
             {
               "shift": 42.31, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -20006,7 +20142,9 @@
             }, 
             {
               "shift": 31.727, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
@@ -20024,7 +20162,9 @@
             }, 
             {
               "shift": 51.063, 
-              "atomtypes": []
+              "atomtypes": [
+                "CD"
+              ]
             }
           ], 
           "tags": [], 
@@ -20042,7 +20182,9 @@
             }, 
             {
               "shift": 64.754, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -20060,7 +20202,9 @@
             }, 
             {
               "shift": 27.882, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG"
+              ]
             }
           ], 
           "tags": [], 
@@ -23892,7 +24036,9 @@
             }, 
             {
               "shift": 53.074, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -24407,7 +24553,9 @@
             }, 
             {
               "shift": 54.466, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
@@ -24425,7 +24573,9 @@
             }, 
             {
               "shift": 22.446, 
-              "atomtypes": []
+              "atomtypes": [
+                "CG"
+              ]
             }
           ], 
           "tags": [], 
@@ -24443,7 +24593,9 @@
             }, 
             {
               "shift": 65.759, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [], 
