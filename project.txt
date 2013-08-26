@@ -3715,7 +3715,9 @@
           424
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        147
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
@@ -5787,7 +5789,9 @@
       ]
     }, 
     "147": {
-      "residueids": [], 
+      "residueids": [
+        23
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -5796,6 +5800,14 @@
         [
           "hnco", 
           24
+        ], 
+        [
+          "cconh", 
+          62
+        ], 
+        [
+          "cconh", 
+          69
         ]
       ], 
       "ssnexts": [], 
@@ -11135,12 +11147,12 @@
             }, 
             {
               "shift": 43.486, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
-          "tags": [
-            "unknown"
-          ], 
+          "tags": [], 
           "height": 8.192
         }, 
         "63": {
@@ -11277,12 +11289,12 @@
             }, 
             {
               "shift": 57.267, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
-          "tags": [
-            "unknown"
-          ], 
+          "tags": [], 
           "height": 5.671
         }, 
         "70": {
