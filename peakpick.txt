@@ -78,3 +78,19 @@ hc(co)nh-tocsy peak-pick parameters:
    * dim1: -0.992 to 10.581
    * dim2: 5.787 to 12.332
    * dim3: 99.683 to 130.450
+
+hbha(co)nh peak-pick parameters:
+ - spectrum contour levels:
+   * global scale: 2500
+   * base level: 0.00040
+ - find parameters:
+   * extrema to search for:  positive and negative
+   * nearby points to check: +-1 in at most one dim
+   * scale relative: 3.5000
+   * exclusion buffer: 1
+   * extra thickness: 0
+   * minimum drop factor: 0
+ - region peak find:
+   * dim1: -0.196 to 9.780
+   * dim2: 6.50 to 11.0
+   * dim3: 99.804 to 130.449
