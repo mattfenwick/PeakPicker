@@ -7,3 +7,21 @@ had to adjust C(CO)NH reference in the 1H dimension
 had to adjust HNCO reference in the 1H dimension
   - from:  ???
   - to:  8.5760000
+
+
+adjusted HC(CO)NH-Tocsy:
+ - reference in amide proton dimension:
+   - from: 8.552 ppm
+   - to:  8.582 ppm
+ - spectral width in amide proton dimension:
+   - from: 4529.00 Hz
+   - to: 4549.00 Hz
+
+
+adjusted HBHA(CO)NH:
+ - reference in amide proton dimension:
+   - from: 8.552 ppm
+   - to:  8.572 ppm
+ - spectral width in amide proton dimension:
+   - from: 4529.00 Hz
+   - to: 4559.00 Hz
