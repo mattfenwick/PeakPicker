@@ -9907,6 +9907,6855 @@
         }
       }
     }, 
+    "hcconh": {
+      "axes": [
+        "H", 
+        "N", 
+        "h"
+      ], 
+      "peaks": {
+        "1": {
+          "dims": [
+            {
+              "shift": 5.879, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 130.45, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 6.167, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.954
+        }, 
+        "2": {
+          "dims": [
+            {
+              "shift": 5.819, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 130.45, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 6.169, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.99
+        }, 
+        "3": {
+          "dims": [
+            {
+              "shift": 12.332, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 130.078, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.767, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.285
+        }, 
+        "4": {
+          "dims": [
+            {
+              "shift": 12.254, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 130.062, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.771, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.833
+        }, 
+        "5": {
+          "dims": [
+            {
+              "shift": 12.113, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 130.094, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.77, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.758
+        }, 
+        "6": {
+          "dims": [
+            {
+              "shift": 11.846, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 130.039, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.768, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.884
+        }, 
+        "7": {
+          "dims": [
+            {
+              "shift": 11.18, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 130.066, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.774, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.779
+        }, 
+        "8": {
+          "dims": [
+            {
+              "shift": 9.537, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 129.393, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.932, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.615
+        }, 
+        "9": {
+          "dims": [
+            {
+              "shift": 9.845, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 128.732, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.2, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.748
+        }, 
+        "10": {
+          "dims": [
+            {
+              "shift": 9.848, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 128.742, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.806, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.048
+        }, 
+        "11": {
+          "dims": [
+            {
+              "shift": 8.985, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 128.607, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.582, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.472
+        }, 
+        "12": {
+          "dims": [
+            {
+              "shift": 9.274, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 127.575, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 5.748, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.22
+        }, 
+        "13": {
+          "dims": [
+            {
+              "shift": 9.275, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 127.582, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.232, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 12.41
+        }, 
+        "14": {
+          "dims": [
+            {
+              "shift": 9.506, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 127.313, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.863, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.369
+        }, 
+        "15": {
+          "dims": [
+            {
+              "shift": 9.21, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 127.261, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.667, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.639
+        }, 
+        "16": {
+          "dims": [
+            {
+              "shift": 8.331, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 127.293, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.988, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.406
+        }, 
+        "17": {
+          "dims": [
+            {
+              "shift": 8.33, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 127.28, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.044, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 24.13
+        }, 
+        "18": {
+          "dims": [
+            {
+              "shift": 8.329, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 127.276, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 0.95, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 22.54
+        }, 
+        "19": {
+          "dims": [
+            {
+              "shift": 9.504, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 127.231, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.275, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 16.25
+        }, 
+        "20": {
+          "dims": [
+            {
+              "shift": 9.207, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 127.175, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.535, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.263
+        }, 
+        "21": {
+          "dims": [
+            {
+              "shift": 9.205, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 127.19, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 0.726, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 10.46
+        }, 
+        "22": {
+          "dims": [
+            {
+              "shift": 9.776, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 126.935, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.381, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.14
+        }, 
+        "23": {
+          "dims": [
+            {
+              "shift": 9.766, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 126.981, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.122, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.405
+        }, 
+        "24": {
+          "dims": [
+            {
+              "shift": 8.758, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 126.325, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.635, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 10.02
+        }, 
+        "25": {
+          "dims": [
+            {
+              "shift": 8.76, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 126.352, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.526, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.776
+        }, 
+        "26": {
+          "dims": [
+            {
+              "shift": 8.459, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 126.347, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.456, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 7.049
+        }, 
+        "27": {
+          "dims": [
+            {
+              "shift": 8.458, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 126.349, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.256, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.623
+        }, 
+        "28": {
+          "dims": [
+            {
+              "shift": 8.448, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 126.292, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.118, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.587
+        }, 
+        "29": {
+          "dims": [
+            {
+              "shift": 9.615, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 126.227, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.499, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.773
+        }, 
+        "30": {
+          "dims": [
+            {
+              "shift": 9.314, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 126.154, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 0.979, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.396
+        }, 
+        "31": {
+          "dims": [
+            {
+              "shift": 9.308, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 126.155, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.978, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.787
+        }, 
+        "32": {
+          "dims": [
+            {
+              "shift": 9.176, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 125.713, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 5.527, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 9.422
+        }, 
+        "33": {
+          "dims": [
+            {
+              "shift": 9.176, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 125.723, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.853, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 7.616
+        }, 
+        "34": {
+          "dims": [
+            {
+              "shift": 9.092, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 125.641, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.176, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 17.79
+        }, 
+        "35": {
+          "dims": [
+            {
+              "shift": 9.09, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 125.667, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 5.261, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.775
+        }, 
+        "36": {
+          "dims": [
+            {
+              "shift": 9.086, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 125.632, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.834, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.612
+        }, 
+        "37": {
+          "dims": [
+            {
+              "shift": 9.169, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 124.478, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.087, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.801
+        }, 
+        "38": {
+          "dims": [
+            {
+              "shift": 9.171, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 124.484, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 0.923, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.956
+        }, 
+        "39": {
+          "dims": [
+            {
+              "shift": 9.169, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 124.443, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 0.613, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.965
+        }, 
+        "40": {
+          "dims": [
+            {
+              "shift": 8.607, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 124.441, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.386, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 16.3
+        }, 
+        "41": {
+          "dims": [
+            {
+              "shift": 8.115, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 124.32, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 5.182, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 25.03
+        }, 
+        "42": {
+          "dims": [
+            {
+              "shift": 7.334, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 124.27, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.309, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 7.51
+        }, 
+        "43": {
+          "dims": [
+            {
+              "shift": 7.334, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 124.291, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.216, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.442
+        }, 
+        "44": {
+          "dims": [
+            {
+              "shift": 7.33, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 124.273, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 0.27, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.22
+        }, 
+        "45": {
+          "dims": [
+            {
+              "shift": 7.743, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 124.073, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.74, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 29.27
+        }, 
+        "46": {
+          "dims": [
+            {
+              "shift": 8.377, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 123.907, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.143, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.54
+        }, 
+        "47": {
+          "dims": [
+            {
+              "shift": 8.375, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 123.842, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 5.239, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 13.3
+        }, 
+        "48": {
+          "dims": [
+            {
+              "shift": 8.376, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 123.736, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.904, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.441
+        }, 
+        "49": {
+          "dims": [
+            {
+              "shift": 7.485, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 123.476, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.938, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.94
+        }, 
+        "50": {
+          "dims": [
+            {
+              "shift": 7.476, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 123.399, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.471, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.028
+        }, 
+        "51": {
+          "dims": [
+            {
+              "shift": 7.476, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 123.401, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.038, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.672
+        }, 
+        "52": {
+          "dims": [
+            {
+              "shift": 7.467, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 123.449, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.884, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.709
+        }, 
+        "53": {
+          "dims": [
+            {
+              "shift": 8.161, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 123.152, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.962, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 28.14
+        }, 
+        "54": {
+          "dims": [
+            {
+              "shift": 8.824, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 123.031, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.707, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.595
+        }, 
+        "55": {
+          "dims": [
+            {
+              "shift": 8.162, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 123.147, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.495, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 36.69
+        }, 
+        "56": {
+          "dims": [
+            {
+              "shift": 8.826, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 122.997, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.794, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.669
+        }, 
+        "57": {
+          "dims": [
+            {
+              "shift": 8.825, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 122.969, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.238, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 11.29
+        }, 
+        "58": {
+          "dims": [
+            {
+              "shift": 9.231, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 122.683, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.814, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.309
+        }, 
+        "59": {
+          "dims": [
+            {
+              "shift": 9.236, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 122.677, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.926, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 7.01
+        }, 
+        "60": {
+          "dims": [
+            {
+              "shift": 8.43, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 122.706, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 5.121, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 8.221
+        }, 
+        "61": {
+          "dims": [
+            {
+              "shift": 8.428, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 122.719, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 0.902, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 8.659
+        }, 
+        "62": {
+          "dims": [
+            {
+              "shift": 8.424, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 122.71, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.667, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.841
+        }, 
+        "63": {
+          "dims": [
+            {
+              "shift": 9.234, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 122.638, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.204, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.665
+        }, 
+        "64": {
+          "dims": [
+            {
+              "shift": 8.709, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 122.394, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 5.375, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 13.83
+        }, 
+        "65": {
+          "dims": [
+            {
+              "shift": 7.829, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 122.354, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.679, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.801
+        }, 
+        "66": {
+          "dims": [
+            {
+              "shift": 7.827, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 122.328, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.341, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.956
+        }, 
+        "67": {
+          "dims": [
+            {
+              "shift": 8.331, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 122.163, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.545, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.808
+        }, 
+        "68": {
+          "dims": [
+            {
+              "shift": 8.331, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 122.122, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.591, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.871
+        }, 
+        "69": {
+          "dims": [
+            {
+              "shift": 8.328, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 122.154, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.163, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.112
+        }, 
+        "70": {
+          "dims": [
+            {
+              "shift": 8.331, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 122.175, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.831, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.889
+        }, 
+        "71": {
+          "dims": [
+            {
+              "shift": 8.211, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 122.021, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.368, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 17.41
+        }, 
+        "72": {
+          "dims": [
+            {
+              "shift": 8.212, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 122.037, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.802, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 17.71
+        }, 
+        "73": {
+          "dims": [
+            {
+              "shift": 8.008, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.981, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.564, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 98.96
+        }, 
+        "74": {
+          "dims": [
+            {
+              "shift": 7.833, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.952, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.531, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.088
+        }, 
+        "75": {
+          "dims": [
+            {
+              "shift": 7.623, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.972, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.563, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.618
+        }, 
+        "76": {
+          "dims": [
+            {
+              "shift": 8.875, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.827, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.913, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.689
+        }, 
+        "77": {
+          "dims": [
+            {
+              "shift": 8.873, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.893, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 0.737, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.684
+        }, 
+        "78": {
+          "dims": [
+            {
+              "shift": 7.859, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.861, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.556, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.299
+        }, 
+        "79": {
+          "dims": [
+            {
+              "shift": 12.214, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.71, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.973, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.579
+        }, 
+        "80": {
+          "dims": [
+            {
+              "shift": 7.951, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.755, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.253, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 12.31
+        }, 
+        "81": {
+          "dims": [
+            {
+              "shift": 7.951, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.81, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.599, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 12.87
+        }, 
+        "82": {
+          "dims": [
+            {
+              "shift": 8.568, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.54, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.534, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.766
+        }, 
+        "83": {
+          "dims": [
+            {
+              "shift": 8.568, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.573, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.891, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 8.075
+        }, 
+        "84": {
+          "dims": [
+            {
+              "shift": 8.567, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.57, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 0.824, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 12.24
+        }, 
+        "85": {
+          "dims": [
+            {
+              "shift": 7.934, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.477, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.391, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 12.56
+        }, 
+        "86": {
+          "dims": [
+            {
+              "shift": 7.047, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.474, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.685, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 8.729
+        }, 
+        "87": {
+          "dims": [
+            {
+              "shift": 8.389, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.414, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.303, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.153
+        }, 
+        "88": {
+          "dims": [
+            {
+              "shift": 8.389, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.428, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.088, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 49.12
+        }, 
+        "89": {
+          "dims": [
+            {
+              "shift": 8.389, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.425, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.702, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 14.45
+        }, 
+        "90": {
+          "dims": [
+            {
+              "shift": 8.24, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.415, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.253, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 15.75
+        }, 
+        "91": {
+          "dims": [
+            {
+              "shift": 8.238, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.437, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.967, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 49.08
+        }, 
+        "92": {
+          "dims": [
+            {
+              "shift": 8.239, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.439, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.657, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 28.92
+        }, 
+        "93": {
+          "dims": [
+            {
+              "shift": 8.239, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.434, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.304, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 15.02
+        }, 
+        "94": {
+          "dims": [
+            {
+              "shift": 8.158, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.406, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.991, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.055
+        }, 
+        "95": {
+          "dims": [
+            {
+              "shift": 7.935, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.405, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.998, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.864
+        }, 
+        "96": {
+          "dims": [
+            {
+              "shift": 7.935, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.421, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.927, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.854
+        }, 
+        "97": {
+          "dims": [
+            {
+              "shift": 7.047, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.377, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.511, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.647
+        }, 
+        "98": {
+          "dims": [
+            {
+              "shift": 8.342, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.334, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.728, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.059
+        }, 
+        "99": {
+          "dims": [
+            {
+              "shift": 8.341, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.308, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.338, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 10.69
+        }, 
+        "100": {
+          "dims": [
+            {
+              "shift": 8.34, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.338, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 0.907, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 11.68
+        }, 
+        "101": {
+          "dims": [
+            {
+              "shift": 9.124, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.156, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 5.246, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.216
+        }, 
+        "102": {
+          "dims": [
+            {
+              "shift": 9.124, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.144, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 0.693, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.671
+        }, 
+        "103": {
+          "dims": [
+            {
+              "shift": 9.118, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.118, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.505, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.474
+        }, 
+        "104": {
+          "dims": [
+            {
+              "shift": 7.957, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.155, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.475, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.586
+        }, 
+        "105": {
+          "dims": [
+            {
+              "shift": 7.957, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 121.179, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.057, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.932
+        }, 
+        "106": {
+          "dims": [
+            {
+              "shift": 7.778, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 120.873, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.733, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.517
+        }, 
+        "107": {
+          "dims": [
+            {
+              "shift": 7.773, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 120.888, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 0.98, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.793
+        }, 
+        "108": {
+          "dims": [
+            {
+              "shift": 8.544, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 120.531, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.99, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.876
+        }, 
+        "109": {
+          "dims": [
+            {
+              "shift": 8.539, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 120.556, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.234, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.316
+        }, 
+        "110": {
+          "dims": [
+            {
+              "shift": 8.542, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 120.51, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 0.411, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.217
+        }, 
+        "111": {
+          "dims": [
+            {
+              "shift": 8.538, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 120.566, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 0.067, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.888
+        }, 
+        "112": {
+          "dims": [
+            {
+              "shift": 8.218, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 120.575, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.925, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 136.3
+        }, 
+        "113": {
+          "dims": [
+            {
+              "shift": 8.068, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 120.577, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.925, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.852
+        }, 
+        "114": {
+          "dims": [
+            {
+              "shift": 8.018, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 120.52, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.553, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 76.75
+        }, 
+        "115": {
+          "dims": [
+            {
+              "shift": 8.009, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 120.512, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.907, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.944
+        }, 
+        "116": {
+          "dims": [
+            {
+              "shift": 7.459, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 120.445, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.818, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 27.64
+        }, 
+        "117": {
+          "dims": [
+            {
+              "shift": 8.944, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 120.339, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.513, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.697
+        }, 
+        "118": {
+          "dims": [
+            {
+              "shift": 8.944, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 120.297, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 0.73, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.642
+        }, 
+        "119": {
+          "dims": [
+            {
+              "shift": 8.942, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 120.302, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.628, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 7.534
+        }, 
+        "120": {
+          "dims": [
+            {
+              "shift": 8.317, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 120.304, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.714, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.634
+        }, 
+        "121": {
+          "dims": [
+            {
+              "shift": 7.929, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 120.276, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.45, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 28.0
+        }, 
+        "122": {
+          "dims": [
+            {
+              "shift": 7.922, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 120.353, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.534, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.808
+        }, 
+        "123": {
+          "dims": [
+            {
+              "shift": 5.833, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 120.259, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.913, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.568
+        }, 
+        "124": {
+          "dims": [
+            {
+              "shift": 8.203, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 120.173, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.549, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 227.3
+        }, 
+        "125": {
+          "dims": [
+            {
+              "shift": 7.82, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 120.226, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.544, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.863
+        }, 
+        "126": {
+          "dims": [
+            {
+              "shift": 7.855, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 120.109, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.549, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.524
+        }, 
+        "127": {
+          "dims": [
+            {
+              "shift": 6.146, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 119.964, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 5.306, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.617
+        }, 
+        "128": {
+          "dims": [
+            {
+              "shift": 6.056, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 119.972, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 5.327, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.678
+        }, 
+        "129": {
+          "dims": [
+            {
+              "shift": 5.984, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 119.897, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 9.263, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.801
+        }, 
+        "130": {
+          "dims": [
+            {
+              "shift": 5.879, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 119.922, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 5.279, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.67
+        }, 
+        "131": {
+          "dims": [
+            {
+              "shift": 5.79, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 119.945, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 9.297, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.648
+        }, 
+        "132": {
+          "dims": [
+            {
+              "shift": 7.875, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 119.809, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.831, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 25.71
+        }, 
+        "133": {
+          "dims": [
+            {
+              "shift": 7.545, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 119.83, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.055, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 20.24
+        }, 
+        "134": {
+          "dims": [
+            {
+              "shift": 7.544, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 119.834, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.461, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 18.8
+        }, 
+        "135": {
+          "dims": [
+            {
+              "shift": 6.469, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 119.864, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 9.19, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.69
+        }, 
+        "136": {
+          "dims": [
+            {
+              "shift": 8.198, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 119.589, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.787, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.339
+        }, 
+        "137": {
+          "dims": [
+            {
+              "shift": 8.873, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 119.495, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.488, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.073
+        }, 
+        "138": {
+          "dims": [
+            {
+              "shift": 8.866, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 119.469, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 5.663, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 24.73
+        }, 
+        "139": {
+          "dims": [
+            {
+              "shift": 8.38, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 119.43, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.84, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 13.52
+        }, 
+        "140": {
+          "dims": [
+            {
+              "shift": 8.775, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 119.276, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.931, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 13.11
+        }, 
+        "141": {
+          "dims": [
+            {
+              "shift": 9.368, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 118.902, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 5.126, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 15.78
+        }, 
+        "142": {
+          "dims": [
+            {
+              "shift": 8.626, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 118.838, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.782, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.322
+        }, 
+        "143": {
+          "dims": [
+            {
+              "shift": 8.625, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 118.832, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.301, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.885
+        }, 
+        "144": {
+          "dims": [
+            {
+              "shift": 7.614, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 118.87, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.027, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.958
+        }, 
+        "145": {
+          "dims": [
+            {
+              "shift": 7.61, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 118.845, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.227, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.76
+        }, 
+        "146": {
+          "dims": [
+            {
+              "shift": 8.624, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 118.802, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 0.911, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.621
+        }, 
+        "147": {
+          "dims": [
+            {
+              "shift": 7.616, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 118.79, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.967, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 7.076
+        }, 
+        "148": {
+          "dims": [
+            {
+              "shift": 7.62, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 118.772, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.631, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.373
+        }, 
+        "149": {
+          "dims": [
+            {
+              "shift": 8.319, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 118.582, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.998, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.417
+        }, 
+        "150": {
+          "dims": [
+            {
+              "shift": 5.866, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 118.607, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.687, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.819
+        }, 
+        "151": {
+          "dims": [
+            {
+              "shift": 8.326, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 118.5, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.921, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.92
+        }, 
+        "152": {
+          "dims": [
+            {
+              "shift": 8.319, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 118.56, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 0.77, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 7.01
+        }, 
+        "153": {
+          "dims": [
+            {
+              "shift": 8.212, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 118.494, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.706, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.925
+        }, 
+        "154": {
+          "dims": [
+            {
+              "shift": 8.216, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 118.553, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 0.894, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.684
+        }, 
+        "155": {
+          "dims": [
+            {
+              "shift": 8.213, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 118.506, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 0.391, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.947
+        }, 
+        "156": {
+          "dims": [
+            {
+              "shift": 8.049, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 118.529, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.696, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 19.58
+        }, 
+        "157": {
+          "dims": [
+            {
+              "shift": 7.313, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 118.341, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.291, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.451
+        }, 
+        "158": {
+          "dims": [
+            {
+              "shift": 8.781, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 118.267, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.132, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 15.19
+        }, 
+        "159": {
+          "dims": [
+            {
+              "shift": 8.778, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 118.275, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.649, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.995
+        }, 
+        "160": {
+          "dims": [
+            {
+              "shift": 7.311, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 118.308, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.62, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.016
+        }, 
+        "161": {
+          "dims": [
+            {
+              "shift": 7.31, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 118.265, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.006, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 9.528
+        }, 
+        "162": {
+          "dims": [
+            {
+              "shift": 8.096, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 118.197, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.957, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 10.16
+        }, 
+        "163": {
+          "dims": [
+            {
+              "shift": 8.093, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 118.169, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.596, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.985
+        }, 
+        "164": {
+          "dims": [
+            {
+              "shift": 7.351, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 118.019, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.099, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 7.905
+        }, 
+        "165": {
+          "dims": [
+            {
+              "shift": 7.343, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 118.001, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 0.737, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.121
+        }, 
+        "166": {
+          "dims": [
+            {
+              "shift": 8.398, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 117.817, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.573, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.515
+        }, 
+        "167": {
+          "dims": [
+            {
+              "shift": 8.393, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 117.769, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.536, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 8.526
+        }, 
+        "168": {
+          "dims": [
+            {
+              "shift": 8.396, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 117.776, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.21, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 13.97
+        }, 
+        "169": {
+          "dims": [
+            {
+              "shift": 8.522, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 117.64, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.393, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.483
+        }, 
+        "170": {
+          "dims": [
+            {
+              "shift": 8.523, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 117.688, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.386, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 13.49
+        }, 
+        "171": {
+          "dims": [
+            {
+              "shift": 8.467, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 117.629, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.369, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.878
+        }, 
+        "172": {
+          "dims": [
+            {
+              "shift": 7.897, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 117.518, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.52, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 26.52
+        }, 
+        "173": {
+          "dims": [
+            {
+              "shift": 6.756, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 117.484, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.985, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.57
+        }, 
+        "174": {
+          "dims": [
+            {
+              "shift": 8.312, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 117.39, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.047, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.93
+        }, 
+        "175": {
+          "dims": [
+            {
+              "shift": 6.788, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 117.425, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.511, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 7.119
+        }, 
+        "176": {
+          "dims": [
+            {
+              "shift": 6.785, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 117.44, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.924, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.636
+        }, 
+        "177": {
+          "dims": [
+            {
+              "shift": 8.312, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 117.356, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.326, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.894
+        }, 
+        "178": {
+          "dims": [
+            {
+              "shift": 8.309, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 117.343, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.082, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 7.099
+        }, 
+        "179": {
+          "dims": [
+            {
+              "shift": 8.311, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 117.341, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.809, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.088
+        }, 
+        "180": {
+          "dims": [
+            {
+              "shift": 7.403, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 117.208, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.72, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.49
+        }, 
+        "181": {
+          "dims": [
+            {
+              "shift": 7.402, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 117.206, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.803, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.491
+        }, 
+        "182": {
+          "dims": [
+            {
+              "shift": 7.404, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 117.183, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.154, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.871
+        }, 
+        "183": {
+          "dims": [
+            {
+              "shift": 8.966, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 117.038, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.278, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 16.05
+        }, 
+        "184": {
+          "dims": [
+            {
+              "shift": 7.193, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 117.055, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.666, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.198
+        }, 
+        "185": {
+          "dims": [
+            {
+              "shift": 7.193, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 117.112, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.942, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.33
+        }, 
+        "186": {
+          "dims": [
+            {
+              "shift": 7.193, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 117.062, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.075, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.071
+        }, 
+        "187": {
+          "dims": [
+            {
+              "shift": 7.193, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 117.06, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 0.729, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.444
+        }, 
+        "188": {
+          "dims": [
+            {
+              "shift": 8.964, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 116.903, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.468, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.067
+        }, 
+        "189": {
+          "dims": [
+            {
+              "shift": 7.454, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 116.926, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.036, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 14.76
+        }, 
+        "190": {
+          "dims": [
+            {
+              "shift": 7.456, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 116.915, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.316, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.455
+        }, 
+        "191": {
+          "dims": [
+            {
+              "shift": 7.288, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 116.934, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.906, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 9.162
+        }, 
+        "192": {
+          "dims": [
+            {
+              "shift": 7.287, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 116.927, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.208, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 21.76
+        }, 
+        "193": {
+          "dims": [
+            {
+              "shift": 8.286, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 116.852, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 5.044, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 25.24
+        }, 
+        "194": {
+          "dims": [
+            {
+              "shift": 8.287, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 116.765, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.324, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.308
+        }, 
+        "195": {
+          "dims": [
+            {
+              "shift": 7.838, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 116.73, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.134, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 8.482
+        }, 
+        "196": {
+          "dims": [
+            {
+              "shift": 7.837, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 116.748, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.089, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 12.47
+        }, 
+        "197": {
+          "dims": [
+            {
+              "shift": 7.837, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 116.724, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.779, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 11.98
+        }, 
+        "198": {
+          "dims": [
+            {
+              "shift": 7.767, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 116.166, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 0.58, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.967
+        }, 
+        "199": {
+          "dims": [
+            {
+              "shift": 7.235, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 116.161, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.538, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 24.02
+        }, 
+        "200": {
+          "dims": [
+            {
+              "shift": 8.212, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 116.114, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.181, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 24.21
+        }, 
+        "201": {
+          "dims": [
+            {
+              "shift": 7.938, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 116.032, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.376, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 22.03
+        }, 
+        "202": {
+          "dims": [
+            {
+              "shift": 7.766, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 116.146, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.226, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.928
+        }, 
+        "203": {
+          "dims": [
+            {
+              "shift": 7.978, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 115.645, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.125, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 13.62
+        }, 
+        "204": {
+          "dims": [
+            {
+              "shift": 7.977, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 115.638, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.648, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 13.23
+        }, 
+        "205": {
+          "dims": [
+            {
+              "shift": 7.881, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 115.65, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.187, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.974
+        }, 
+        "206": {
+          "dims": [
+            {
+              "shift": 9.333, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 115.509, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.319, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 14.03
+        }, 
+        "207": {
+          "dims": [
+            {
+              "shift": 9.334, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 115.5, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.671, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.353
+        }, 
+        "208": {
+          "dims": [
+            {
+              "shift": 7.491, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 115.218, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.564, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.914
+        }, 
+        "209": {
+          "dims": [
+            {
+              "shift": 8.269, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 115.111, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.927, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.453
+        }, 
+        "210": {
+          "dims": [
+            {
+              "shift": 7.886, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 115.079, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.911, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 337.3
+        }, 
+        "211": {
+          "dims": [
+            {
+              "shift": 7.775, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 115.067, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.909, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 15.2
+        }, 
+        "212": {
+          "dims": [
+            {
+              "shift": 7.699, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 115.075, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.909, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 7.239
+        }, 
+        "213": {
+          "dims": [
+            {
+              "shift": 7.608, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 115.103, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.937, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.525
+        }, 
+        "214": {
+          "dims": [
+            {
+              "shift": 7.3, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 115.086, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.903, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.645
+        }, 
+        "215": {
+          "dims": [
+            {
+              "shift": 7.64, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 115.049, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.902, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.46
+        }, 
+        "216": {
+          "dims": [
+            {
+              "shift": 7.577, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 115.024, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.916, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.215
+        }, 
+        "217": {
+          "dims": [
+            {
+              "shift": 7.503, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 115.065, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.909, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 9.25
+        }, 
+        "218": {
+          "dims": [
+            {
+              "shift": 7.051, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 114.23, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.602, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 13.83
+        }, 
+        "219": {
+          "dims": [
+            {
+              "shift": 7.05, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 114.219, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.22, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 14.38
+        }, 
+        "220": {
+          "dims": [
+            {
+              "shift": 8.288, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 113.986, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.029, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.947
+        }, 
+        "221": {
+          "dims": [
+            {
+              "shift": 8.288, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 113.981, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.934, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.661
+        }, 
+        "222": {
+          "dims": [
+            {
+              "shift": 8.394, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 111.755, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.585, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 24.46
+        }, 
+        "223": {
+          "dims": [
+            {
+              "shift": 8.539, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 111.351, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.268, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 11.18
+        }, 
+        "224": {
+          "dims": [
+            {
+              "shift": 8.539, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 111.341, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.957, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 32.18
+        }, 
+        "225": {
+          "dims": [
+            {
+              "shift": 8.54, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 111.346, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.682, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 17.06
+        }, 
+        "226": {
+          "dims": [
+            {
+              "shift": 8.54, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 111.328, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.415, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 7.183
+        }, 
+        "227": {
+          "dims": [
+            {
+              "shift": 7.552, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 111.41, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.956, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.768
+        }, 
+        "228": {
+          "dims": [
+            {
+              "shift": 7.552, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 111.352, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.852, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 16.9
+        }, 
+        "229": {
+          "dims": [
+            {
+              "shift": 7.551, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 111.35, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.653, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 11.5
+        }, 
+        "230": {
+          "dims": [
+            {
+              "shift": 7.554, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 111.371, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.271, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.183
+        }, 
+        "231": {
+          "dims": [
+            {
+              "shift": 7.51, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 111.314, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.831, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.816
+        }, 
+        "232": {
+          "dims": [
+            {
+              "shift": 8.691, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 110.416, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.446, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 20.9
+        }, 
+        "233": {
+          "dims": [
+            {
+              "shift": 7.931, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 110.419, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.132, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 24.95
+        }, 
+        "234": {
+          "dims": [
+            {
+              "shift": 7.932, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 110.427, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.923, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 25.19
+        }, 
+        "235": {
+          "dims": [
+            {
+              "shift": 6.045, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 110.034, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.441, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.772
+        }, 
+        "236": {
+          "dims": [
+            {
+              "shift": 5.89, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 110.037, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.431, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.719
+        }, 
+        "237": {
+          "dims": [
+            {
+              "shift": 5.82, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 110.055, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.046, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.115
+        }, 
+        "238": {
+          "dims": [
+            {
+              "shift": 5.996, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 109.98, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.451, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.91
+        }, 
+        "239": {
+          "dims": [
+            {
+              "shift": 5.865, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 109.948, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.435, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.579
+        }, 
+        "240": {
+          "dims": [
+            {
+              "shift": 5.952, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 109.809, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 6.83, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.03
+        }, 
+        "241": {
+          "dims": [
+            {
+              "shift": 5.849, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 109.804, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.351, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.868
+        }, 
+        "242": {
+          "dims": [
+            {
+              "shift": 5.819, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 109.821, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.364, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.712
+        }, 
+        "243": {
+          "dims": [
+            {
+              "shift": 5.82, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 109.799, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 6.852, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.851
+        }, 
+        "244": {
+          "dims": [
+            {
+              "shift": 6.925, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 109.742, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.48, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 7.134
+        }, 
+        "245": {
+          "dims": [
+            {
+              "shift": 5.832, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 109.644, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 5.9, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.643
+        }, 
+        "246": {
+          "dims": [
+            {
+              "shift": 5.787, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 109.745, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 6.795, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.822
+        }, 
+        "247": {
+          "dims": [
+            {
+              "shift": 6.666, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 109.636, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.491, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.279
+        }, 
+        "248": {
+          "dims": [
+            {
+              "shift": 8.423, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 109.076, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.98, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 79.47
+        }, 
+        "249": {
+          "dims": [
+            {
+              "shift": 8.27, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 109.065, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.521, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.495
+        }, 
+        "250": {
+          "dims": [
+            {
+              "shift": 8.265, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 109.123, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.356, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 47.26
+        }, 
+        "251": {
+          "dims": [
+            {
+              "shift": 8.159, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 109.099, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.332, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.074
+        }, 
+        "252": {
+          "dims": [
+            {
+              "shift": 8.225, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 109.03, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.939, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 7.508
+        }, 
+        "253": {
+          "dims": [
+            {
+              "shift": 8.046, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 107.753, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 5.225, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 23.02
+        }, 
+        "254": {
+          "dims": [
+            {
+              "shift": 7.979, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 107.734, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 5.219, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.972
+        }, 
+        "255": {
+          "dims": [
+            {
+              "shift": 9.265, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 107.504, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.438, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.848
+        }, 
+        "256": {
+          "dims": [
+            {
+              "shift": 9.268, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 107.455, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 0.945, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.482
+        }, 
+        "257": {
+          "dims": [
+            {
+              "shift": 9.266, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 107.419, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.014, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.599
+        }, 
+        "258": {
+          "dims": [
+            {
+              "shift": 8.051, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 107.109, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.221, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.071
+        }, 
+        "259": {
+          "dims": [
+            {
+              "shift": 8.05, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 107.122, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.191, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.964
+        }, 
+        "260": {
+          "dims": [
+            {
+              "shift": 8.048, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 107.133, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 0.072, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.698
+        }, 
+        "261": {
+          "dims": [
+            {
+              "shift": 8.049, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 107.079, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.707, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.86
+        }, 
+        "262": {
+          "dims": [
+            {
+              "shift": 9.065, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 104.595, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.417, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 15.21
+        }, 
+        "263": {
+          "dims": [
+            {
+              "shift": 9.065, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 104.575, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 2.68, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 9.342
+        }, 
+        "264": {
+          "dims": [
+            {
+              "shift": 8.255, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 102.95, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.272, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 21.8
+        }, 
+        "265": {
+          "dims": [
+            {
+              "shift": 8.508, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 101.449, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.063, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.683
+        }, 
+        "266": {
+          "dims": [
+            {
+              "shift": 8.507, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 101.352, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 1.834, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.264
+        }, 
+        "267": {
+          "dims": [
+            {
+              "shift": 8.05, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 101.409, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.476, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.162
+        }, 
+        "268": {
+          "dims": [
+            {
+              "shift": 8.509, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 101.301, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 0.876, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.78
+        }, 
+        "269": {
+          "dims": [
+            {
+              "shift": 8.656, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 100.579, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 3.91, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 11.35
+        }, 
+        "270": {
+          "dims": [
+            {
+              "shift": 5.845, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 100.037, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 4.738, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.713
+        }, 
+        "271": {
+          "dims": [
+            {
+              "shift": 9.468, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.866, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.785
+        }, 
+        "272": {
+          "dims": [
+            {
+              "shift": 8.609, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.872, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.864
+        }, 
+        "273": {
+          "dims": [
+            {
+              "shift": 8.148, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.921, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.731
+        }, 
+        "274": {
+          "dims": [
+            {
+              "shift": 7.883, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.893, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.85
+        }, 
+        "275": {
+          "dims": [
+            {
+              "shift": 7.878, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.896, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.888
+        }, 
+        "276": {
+          "dims": [
+            {
+              "shift": 7.828, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.879, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.416
+        }, 
+        "277": {
+          "dims": [
+            {
+              "shift": 7.676, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.877, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.399
+        }, 
+        "278": {
+          "dims": [
+            {
+              "shift": 7.551, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.873, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.292
+        }, 
+        "279": {
+          "dims": [
+            {
+              "shift": 7.19, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.894, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.01
+        }, 
+        "280": {
+          "dims": [
+            {
+              "shift": 6.725, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.868, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.612
+        }, 
+        "281": {
+          "dims": [
+            {
+              "shift": 6.632, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.869, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.375
+        }, 
+        "282": {
+          "dims": [
+            {
+              "shift": 5.82, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.871, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.855
+        }, 
+        "283": {
+          "dims": [
+            {
+              "shift": 12.332, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.749, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.595
+        }, 
+        "284": {
+          "dims": [
+            {
+              "shift": 12.277, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.754, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.659
+        }, 
+        "285": {
+          "dims": [
+            {
+              "shift": 12.185, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.754, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.053
+        }, 
+        "286": {
+          "dims": [
+            {
+              "shift": 12.095, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.778, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.158
+        }, 
+        "287": {
+          "dims": [
+            {
+              "shift": 12.054, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.767, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.634
+        }, 
+        "288": {
+          "dims": [
+            {
+              "shift": 11.919, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.762, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.629
+        }, 
+        "289": {
+          "dims": [
+            {
+              "shift": 11.739, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.765, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.659
+        }, 
+        "290": {
+          "dims": [
+            {
+              "shift": 11.441, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.833, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.587
+        }, 
+        "291": {
+          "dims": [
+            {
+              "shift": 11.148, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.828, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.604
+        }, 
+        "292": {
+          "dims": [
+            {
+              "shift": 11.099, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.772, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.619
+        }, 
+        "293": {
+          "dims": [
+            {
+              "shift": 11.078, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.777, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.799
+        }, 
+        "294": {
+          "dims": [
+            {
+              "shift": 10.899, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.802, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.592
+        }, 
+        "295": {
+          "dims": [
+            {
+              "shift": 10.829, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.758, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.718
+        }, 
+        "296": {
+          "dims": [
+            {
+              "shift": 10.329, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.799, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.774
+        }, 
+        "297": {
+          "dims": [
+            {
+              "shift": 10.143, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.839, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.006
+        }, 
+        "298": {
+          "dims": [
+            {
+              "shift": 10.1, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.765, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.883
+        }, 
+        "299": {
+          "dims": [
+            {
+              "shift": 9.836, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.812, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.765
+        }, 
+        "300": {
+          "dims": [
+            {
+              "shift": 9.778, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.795, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.928
+        }, 
+        "301": {
+          "dims": [
+            {
+              "shift": 9.643, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.797, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.057
+        }, 
+        "302": {
+          "dims": [
+            {
+              "shift": 9.555, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.786, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.723
+        }, 
+        "303": {
+          "dims": [
+            {
+              "shift": 9.522, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.832, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.806
+        }, 
+        "304": {
+          "dims": [
+            {
+              "shift": 9.515, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.777, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.699
+        }, 
+        "305": {
+          "dims": [
+            {
+              "shift": 9.272, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.779, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.948
+        }, 
+        "306": {
+          "dims": [
+            {
+              "shift": 9.259, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.836, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.149
+        }, 
+        "307": {
+          "dims": [
+            {
+              "shift": 9.251, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.799, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.932
+        }, 
+        "308": {
+          "dims": [
+            {
+              "shift": 9.195, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.754, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.83
+        }, 
+        "309": {
+          "dims": [
+            {
+              "shift": 9.126, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.831, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.655
+        }, 
+        "310": {
+          "dims": [
+            {
+              "shift": 9.101, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.797, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.604
+        }, 
+        "311": {
+          "dims": [
+            {
+              "shift": 8.947, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.83, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.683
+        }, 
+        "312": {
+          "dims": [
+            {
+              "shift": 8.865, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.816, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.677
+        }, 
+        "313": {
+          "dims": [
+            {
+              "shift": 8.816, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.779, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.292
+        }, 
+        "314": {
+          "dims": [
+            {
+              "shift": 8.776, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.78, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.7
+        }, 
+        "315": {
+          "dims": [
+            {
+              "shift": 8.704, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.834, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.232
+        }, 
+        "316": {
+          "dims": [
+            {
+              "shift": 8.607, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.857, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.815
+        }, 
+        "317": {
+          "dims": [
+            {
+              "shift": 8.534, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.842, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.543
+        }, 
+        "318": {
+          "dims": [
+            {
+              "shift": 8.458, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.798, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.992
+        }, 
+        "319": {
+          "dims": [
+            {
+              "shift": 8.453, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.773, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.927
+        }, 
+        "320": {
+          "dims": [
+            {
+              "shift": 8.392, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.816, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.24
+        }, 
+        "321": {
+          "dims": [
+            {
+              "shift": 8.303, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.801, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.954
+        }, 
+        "322": {
+          "dims": [
+            {
+              "shift": 8.243, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.821, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.479
+        }, 
+        "323": {
+          "dims": [
+            {
+              "shift": 8.21, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.787, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.753
+        }, 
+        "324": {
+          "dims": [
+            {
+              "shift": 8.14, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.851, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.608
+        }, 
+        "325": {
+          "dims": [
+            {
+              "shift": 8.083, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.835, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.779
+        }, 
+        "326": {
+          "dims": [
+            {
+              "shift": 8.064, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.83, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.681
+        }, 
+        "327": {
+          "dims": [
+            {
+              "shift": 8.03, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.832, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.676
+        }, 
+        "328": {
+          "dims": [
+            {
+              "shift": 8.024, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.845, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.831
+        }, 
+        "329": {
+          "dims": [
+            {
+              "shift": 7.959, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.853, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.014
+        }, 
+        "330": {
+          "dims": [
+            {
+              "shift": 7.939, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.855, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.656
+        }, 
+        "331": {
+          "dims": [
+            {
+              "shift": 7.904, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.805, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.138
+        }, 
+        "332": {
+          "dims": [
+            {
+              "shift": 7.801, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.832, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.853
+        }, 
+        "333": {
+          "dims": [
+            {
+              "shift": 7.754, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.837, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.593
+        }, 
+        "334": {
+          "dims": [
+            {
+              "shift": 7.74, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.807, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.599
+        }, 
+        "335": {
+          "dims": [
+            {
+              "shift": 7.731, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.827, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.353
+        }, 
+        "336": {
+          "dims": [
+            {
+              "shift": 7.64, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.851, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.825
+        }, 
+        "337": {
+          "dims": [
+            {
+              "shift": 7.605, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.802, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.069
+        }, 
+        "338": {
+          "dims": [
+            {
+              "shift": 7.502, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.842, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.772
+        }, 
+        "339": {
+          "dims": [
+            {
+              "shift": 7.474, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.854, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.881
+        }, 
+        "340": {
+          "dims": [
+            {
+              "shift": 7.404, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.854, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.186
+        }, 
+        "341": {
+          "dims": [
+            {
+              "shift": 7.344, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.809, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.849
+        }, 
+        "342": {
+          "dims": [
+            {
+              "shift": 7.31, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.851, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.962
+        }, 
+        "343": {
+          "dims": [
+            {
+              "shift": 7.261, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.816, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.96
+        }, 
+        "344": {
+          "dims": [
+            {
+              "shift": 7.24, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.841, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.771
+        }, 
+        "345": {
+          "dims": [
+            {
+              "shift": 7.205, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.812, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 3.938
+        }, 
+        "346": {
+          "dims": [
+            {
+              "shift": 7.18, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.832, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.079
+        }, 
+        "347": {
+          "dims": [
+            {
+              "shift": 7.142, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.832, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.764
+        }, 
+        "348": {
+          "dims": [
+            {
+              "shift": 7.1, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.819, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.17
+        }, 
+        "349": {
+          "dims": [
+            {
+              "shift": 7.096, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.814, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.844
+        }, 
+        "350": {
+          "dims": [
+            {
+              "shift": 7.06, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.832, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.345
+        }, 
+        "351": {
+          "dims": [
+            {
+              "shift": 7.03, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.851, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.373
+        }, 
+        "352": {
+          "dims": [
+            {
+              "shift": 6.976, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.837, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.218
+        }, 
+        "353": {
+          "dims": [
+            {
+              "shift": 6.916, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.842, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.579
+        }, 
+        "354": {
+          "dims": [
+            {
+              "shift": 6.883, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.802, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.78
+        }, 
+        "355": {
+          "dims": [
+            {
+              "shift": 6.828, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.832, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.832
+        }, 
+        "356": {
+          "dims": [
+            {
+              "shift": 6.782, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.841, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 4.585
+        }, 
+        "357": {
+          "dims": [
+            {
+              "shift": 6.747, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.807, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.015
+        }, 
+        "358": {
+          "dims": [
+            {
+              "shift": 6.679, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.825, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.046
+        }, 
+        "359": {
+          "dims": [
+            {
+              "shift": 6.616, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.779, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.549
+        }, 
+        "360": {
+          "dims": [
+            {
+              "shift": 6.572, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.81, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.489
+        }, 
+        "361": {
+          "dims": [
+            {
+              "shift": 6.526, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.837, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.613
+        }, 
+        "362": {
+          "dims": [
+            {
+              "shift": 6.495, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.827, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.093
+        }, 
+        "363": {
+          "dims": [
+            {
+              "shift": 6.429, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.819, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.479
+        }, 
+        "364": {
+          "dims": [
+            {
+              "shift": 6.393, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.807, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.246
+        }, 
+        "365": {
+          "dims": [
+            {
+              "shift": 6.342, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.818, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.004
+        }, 
+        "366": {
+          "dims": [
+            {
+              "shift": 6.272, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.811, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 5.985
+        }, 
+        "367": {
+          "dims": [
+            {
+              "shift": 6.251, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.806, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.284
+        }, 
+        "368": {
+          "dims": [
+            {
+              "shift": 6.201, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.832, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.107
+        }, 
+        "369": {
+          "dims": [
+            {
+              "shift": 6.157, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.8, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.706
+        }, 
+        "370": {
+          "dims": [
+            {
+              "shift": 6.088, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.796, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 7.072
+        }, 
+        "371": {
+          "dims": [
+            {
+              "shift": 6.044, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.83, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.323
+        }, 
+        "372": {
+          "dims": [
+            {
+              "shift": 5.995, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.803, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.72
+        }, 
+        "373": {
+          "dims": [
+            {
+              "shift": 5.974, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.813, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.411
+        }, 
+        "374": {
+          "dims": [
+            {
+              "shift": 5.911, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.809, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 7.175
+        }, 
+        "375": {
+          "dims": [
+            {
+              "shift": 5.88, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.816, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.666
+        }, 
+        "376": {
+          "dims": [
+            {
+              "shift": 5.848, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.847, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 6.977
+        }, 
+        "377": {
+          "dims": [
+            {
+              "shift": 10.928, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.683, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.74
+        }, 
+        "378": {
+          "dims": [
+            {
+              "shift": 9.993, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.683, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.807
+        }, 
+        "379": {
+          "dims": [
+            {
+              "shift": 9.199, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.683, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": -0.992, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.88
+        }, 
+        "380": {
+          "dims": [
+            {
+              "shift": 9.011, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 99.683, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 10.581, 
+              "atomtypes": []
+            }
+          ], 
+          "tags": [], 
+          "height": 2.661
+        }
+      }
+    }, 
     "cconh": {
       "axes": [
         "H", 
@@ -25023,7 +31872,7 @@
             }
           ], 
           "tags": [], 
-          "height": 2.750
+          "height": 2.75
         }, 
         "757": {
           "dims": [
@@ -25043,7 +31892,7 @@
             }
           ], 
           "tags": [], 
-          "height": 4.460
+          "height": 4.46
         }, 
         "758": {
           "dims": [
@@ -25148,7 +31997,7 @@
         "763": {
           "dims": [
             {
-              "shift": 8.420, 
+              "shift": 8.42, 
               "atomtypes": []
             }, 
             {
@@ -25156,7 +32005,7 @@
               "atomtypes": []
             }, 
             {
-              "shift": 54.610, 
+              "shift": 54.61, 
               "atomtypes": [
                 "CA"
               ]
