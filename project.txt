@@ -848,6 +848,14 @@
         [
           "hbhaconh", 
           76
+        ], 
+        [
+          "cb_hd", 
+          8
+        ], 
+        [
+          "cb_he", 
+          13
         ]
       ], 
       "ssnexts": [
@@ -1018,6 +1026,18 @@
         [
           "hbhaconh", 
           90
+        ], 
+        [
+          "cb_hd", 
+          3
+        ], 
+        [
+          "cb_he", 
+          4
+        ], 
+        [
+          "cb_he", 
+          5
         ]
       ], 
       "ssnexts": [], 
@@ -2353,6 +2373,10 @@
         [
           "hbhaconh", 
           170
+        ], 
+        [
+          "cb_he", 
+          6
         ]
       ], 
       "ssnexts": [
@@ -3209,6 +3233,34 @@
         [
           "hbhaconh", 
           235
+        ], 
+        [
+          "cb_hd", 
+          4
+        ], 
+        [
+          "cb_hd", 
+          5
+        ], 
+        [
+          "cb_hd", 
+          6
+        ], 
+        [
+          "cb_he", 
+          7
+        ], 
+        [
+          "cb_he", 
+          8
+        ], 
+        [
+          "cb_he", 
+          9
+        ], 
+        [
+          "cb_he", 
+          10
         ]
       ], 
       "ssnexts": [
@@ -4755,6 +4807,18 @@
         [
           "hcconh", 
           163
+        ], 
+        [
+          "cb_hd", 
+          2
+        ], 
+        [
+          "cb_he", 
+          2
+        ], 
+        [
+          "cb_he", 
+          3
         ]
       ], 
       "ssnexts": [
@@ -4817,6 +4881,14 @@
         [
           "hbhaconh", 
           330
+        ], 
+        [
+          "cb_hd", 
+          9
+        ], 
+        [
+          "cb_he", 
+          14
         ]
       ], 
       "ssnexts": [
@@ -5077,6 +5149,14 @@
         [
           "hbhaconh", 
           350
+        ], 
+        [
+          "cb_hd", 
+          1
+        ], 
+        [
+          "cb_he", 
+          1
         ]
       ], 
       "ssnexts": [
@@ -5503,6 +5583,18 @@
         [
           "hbhaconh", 
           365
+        ], 
+        [
+          "cb_hd", 
+          7
+        ], 
+        [
+          "cb_he", 
+          11
+        ], 
+        [
+          "cb_he", 
+          12
         ]
       ], 
       "ssnexts": [
@@ -5643,6 +5735,34 @@
         [
           "hbhaconh", 
           374
+        ], 
+        [
+          "cb_hd", 
+          4
+        ], 
+        [
+          "cb_hd", 
+          5
+        ], 
+        [
+          "cb_hd", 
+          6
+        ], 
+        [
+          "cb_he", 
+          7
+        ], 
+        [
+          "cb_he", 
+          8
+        ], 
+        [
+          "cb_he", 
+          9
+        ], 
+        [
+          "cb_he", 
+          10
         ]
       ], 
       "ssnexts": [
@@ -6602,6 +6722,14 @@
         [
           "hcconh", 
           397
+        ], 
+        [
+          "cb_hd", 
+          13
+        ], 
+        [
+          "cb_he", 
+          16
         ]
       ], 
       "ssnexts": [
@@ -50296,11 +50424,15 @@
           "dims": [
             {
               "shift": 43.534, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 6.921, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE*"
+              ]
             }
           ], 
           "tags": [], 
@@ -50310,11 +50442,15 @@
           "dims": [
             {
               "shift": 42.534, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 6.852, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE*"
+              ]
             }
           ], 
           "tags": [], 
@@ -50324,11 +50460,15 @@
           "dims": [
             {
               "shift": 42.505, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 6.706, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE*"
+              ]
             }
           ], 
           "tags": [], 
@@ -50338,11 +50478,15 @@
           "dims": [
             {
               "shift": 40.686, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 6.598, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE*"
+              ]
             }
           ], 
           "tags": [], 
@@ -50352,11 +50496,15 @@
           "dims": [
             {
               "shift": 40.648, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 7.043, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE*"
+              ]
             }
           ], 
           "tags": [], 
@@ -50366,11 +50514,15 @@
           "dims": [
             {
               "shift": 39.603, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 6.753, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE*"
+              ]
             }
           ], 
           "tags": [], 
@@ -50380,11 +50532,15 @@
           "dims": [
             {
               "shift": 38.674, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 7.088, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE*"
+              ]
             }
           ], 
           "tags": [], 
@@ -50394,11 +50550,15 @@
           "dims": [
             {
               "shift": 38.675, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 6.814, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE*"
+              ]
             }
           ], 
           "tags": [], 
@@ -50408,11 +50568,15 @@
           "dims": [
             {
               "shift": 38.574, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 7.169, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE*"
+              ]
             }
           ], 
           "tags": [], 
@@ -50422,11 +50586,15 @@
           "dims": [
             {
               "shift": 38.447, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 6.736, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE*"
+              ]
             }
           ], 
           "tags": [], 
@@ -50436,11 +50604,15 @@
           "dims": [
             {
               "shift": 36.742, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 7.223, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE*"
+              ]
             }
           ], 
           "tags": [], 
@@ -50450,11 +50622,15 @@
           "dims": [
             {
               "shift": 36.708, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 7.07, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE*"
+              ]
             }
           ], 
           "tags": [], 
@@ -50464,11 +50640,15 @@
           "dims": [
             {
               "shift": 35.176, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 7.157, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE*"
+              ]
             }
           ], 
           "tags": [], 
@@ -50478,11 +50658,15 @@
           "dims": [
             {
               "shift": 30.671, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 7.098, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE*"
+              ]
             }
           ], 
           "tags": [], 
@@ -50492,25 +50676,35 @@
           "dims": [
             {
               "shift": 30.615, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 7.193, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE*"
+              ]
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 3.528
         }, 
         "16": {
           "dims": [
             {
               "shift": 27.874, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 6.985, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE*"
+              ]
             }
           ], 
           "tags": [], 
@@ -50528,11 +50722,15 @@
           "dims": [
             {
               "shift": 43.578, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 6.778, 
-              "atomtypes": []
+              "atomtypes": [
+                "HD*"
+              ]
             }
           ], 
           "tags": [], 
@@ -50542,11 +50740,15 @@
           "dims": [
             {
               "shift": 42.496, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 6.853, 
-              "atomtypes": []
+              "atomtypes": [
+                "HD*"
+              ]
             }
           ], 
           "tags": [], 
@@ -50556,11 +50758,15 @@
           "dims": [
             {
               "shift": 40.688, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 7.043, 
-              "atomtypes": []
+              "atomtypes": [
+                "HD*"
+              ]
             }
           ], 
           "tags": [], 
@@ -50570,11 +50776,15 @@
           "dims": [
             {
               "shift": 38.677, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 7.087, 
-              "atomtypes": []
+              "atomtypes": [
+                "HD*"
+              ]
             }
           ], 
           "tags": [], 
@@ -50584,11 +50794,15 @@
           "dims": [
             {
               "shift": 38.661, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 6.816, 
-              "atomtypes": []
+              "atomtypes": [
+                "HD*"
+              ]
             }
           ], 
           "tags": [], 
@@ -50598,11 +50812,15 @@
           "dims": [
             {
               "shift": 38.469, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 7.173, 
-              "atomtypes": []
+              "atomtypes": [
+                "HD*"
+              ]
             }
           ], 
           "tags": [], 
@@ -50612,11 +50830,15 @@
           "dims": [
             {
               "shift": 36.75, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 7.068, 
-              "atomtypes": []
+              "atomtypes": [
+                "HD*"
+              ]
             }
           ], 
           "tags": [], 
@@ -50626,11 +50848,15 @@
           "dims": [
             {
               "shift": 35.172, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 7.157, 
-              "atomtypes": []
+              "atomtypes": [
+                "HD*"
+              ]
             }
           ], 
           "tags": [], 
@@ -50640,11 +50866,15 @@
           "dims": [
             {
               "shift": 30.669, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 7.098, 
-              "atomtypes": []
+              "atomtypes": [
+                "HD*"
+              ]
             }
           ], 
           "tags": [], 
@@ -50654,53 +50884,75 @@
           "dims": [
             {
               "shift": 30.612, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 7.223, 
-              "atomtypes": []
+              "atomtypes": [
+                "HD*"
+              ]
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 3.765
         }, 
         "11": {
           "dims": [
             {
               "shift": 30.62, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 6.912, 
-              "atomtypes": []
+              "atomtypes": [
+                "HD*"
+              ]
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 4.274
         }, 
         "12": {
           "dims": [
             {
               "shift": 27.939, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 6.87, 
-              "atomtypes": []
+              "atomtypes": [
+                "HD*"
+              ]
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 4.514
         }, 
         "13": {
           "dims": [
             {
               "shift": 27.877, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 6.984, 
-              "atomtypes": []
+              "atomtypes": [
+                "HD*"
+              ]
             }
           ], 
           "tags": [], 
@@ -50710,14 +50962,20 @@
           "dims": [
             {
               "shift": 27.819, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }, 
             {
               "shift": 7.095, 
-              "atomtypes": []
+              "atomtypes": [
+                "HD*"
+              ]
             }
           ], 
-          "tags": [], 
+          "tags": [
+            "artifact"
+          ], 
           "height": 5.496
         }
       }
