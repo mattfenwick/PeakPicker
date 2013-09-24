@@ -94,3 +94,33 @@ hbha(co)nh peak-pick parameters:
    * dim1: -0.196 to 9.780
    * dim2: 6.50 to 11.0
    * dim3: 99.804 to 130.449
+
+hbCBcgcdceHE peak-pick parameters:
+ - spectrum contour levels:
+   * global scale: 2500
+   * base level: 0.00070
+ - find parameters:
+   * extrema to search for:  positive only
+   * nearby points to check: +-1 in at most one dim
+   * scale relative: 2.000
+   * exclusion buffer: 1
+   * extra thickness: 0
+   * minimum drop factor: 0
+ - region peak find:
+   * dim1: 6.4 to 7.6
+   * dim2: 26.0 to 46.0
+
+hbCBcgcdHD peak-pick parameters:
+ - spectrum contour levels:
+   * global scale: 2500
+   * base level: 0.00070
+ - find parameters:
+   * extrema to search for:  positive only
+   * nearby points to check: +-1 in at most one dim
+   * scale relative: 2.000
+   * exclusion buffer: 1
+   * extra thickness: 0
+   * minimum drop factor: 0
+ - region peak find:
+   * dim1: 6.20 to 7.60
+   * dim2: 26.0 to 46.0
