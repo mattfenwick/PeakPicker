@@ -1,0 +1,4 @@
+re-referencing
+
+HNCO:
+ - 1H: 8.552 to 8.576

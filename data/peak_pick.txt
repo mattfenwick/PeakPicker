@@ -1,0 +1,48 @@
+ALL PEAK INTENSITIES EXPORTED AS HEIGHTS
+
+nhsqc peak-pick parameters:
+ - spectrum contour levels:
+   * global scale:  2500
+   * base level:  0.00025
+ - find parameters:
+   * extrema to search for: positive only
+   * nearby points to check: +-1 in at most one dim
+   * scale relative: 5.0000
+   * exclusion buffer: 2
+   * extra thickness: 0
+   * minimum drop factor: 0
+ - region peak find:
+   * dim1:  entire region
+   * dim2:  entire region
+
+hnco peak-pick parameters:
+ - spectrum contour levels:
+   * global scale:  2500
+   * base level:  0.00025
+ - find parameters:
+   * extrema to search for: positive only
+   * nearby points to check: +-1 in at most one dim
+   * scale relative: 2.0000
+   * exclusion buffer: 2
+   * extra thickness: 0
+   * minimum drop factor: 0
+ - region peak find:
+   * dim1:  170.542 - 181.501 (entire region)
+   * dim2:  6.600   - 10.700
+   * dim3:  99.683  - 130.449 (entire region)
+
+hncacb peak-pick parameters:
+ - spectrum contour levels:
+   * global scale:  2500
+   * base level:  0.00025
+ - find parameters:
+   * extrema to search for: positive and negative
+   * nearby points to check: +-1 in at most one dim
+   * scale relative: 2.5000
+   * exclusion buffer: 1
+   * extra thickness: 0
+   * minimum drop factor: 0
+ - region peak find:
+   * dim1:  entire region
+   * dim2:  entire region
+   * dim3:  entire region
