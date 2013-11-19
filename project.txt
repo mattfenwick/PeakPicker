@@ -1,0 +1,13 @@
+{
+  "atom_types": [], 
+  "peak_i/i-1": [], 
+  "peak_tags": [], 
+  "peaks": [], 
+  "residues": [], 
+  "spectra": [], 
+  "spin_systems": [], 
+  "ss_peaks": [], 
+  "ss_res": [], 
+  "ss_seqs": [], 
+  "ss_tags": []
+}
