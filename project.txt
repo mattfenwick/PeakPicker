@@ -13408,8 +13408,1270 @@
       "name": "nhsqc"
     }
   ], 
-  "spin_systems": [], 
-  "ss_peaks": [], 
+  "spin_systems": [
+    {
+      "aatypes": [], 
+      "id": 1, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 2, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 3, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 4, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 5, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 6, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 7, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 8, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 9, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 10, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 11, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 12, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 13, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 14, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 15, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 16, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 17, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 18, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 19, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 20, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 21, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 22, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 23, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 24, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 25, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 26, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 27, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 28, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 29, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 30, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 31, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 32, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 33, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 34, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 35, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 36, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 37, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 38, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 39, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 40, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 41, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 42, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 43, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 44, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 45, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 46, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 47, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 48, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 49, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 50, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 51, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 52, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 53, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 54, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 55, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 56, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 57, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 58, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 59, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 60, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 61, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 62, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 63, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 64, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 65, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 66, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 67, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 68, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 69, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 70, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 71, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 72, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 73, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 74, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 75, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 76, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 77, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 78, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 79, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 80, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 81, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 82, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 83, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 84, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 85, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 86, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 87, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 88, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 89, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 90, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 91, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 92, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 93, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 94, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 95, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 96, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 97, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 98, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 99, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 100, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 101, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 102, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 103, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 104, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 105, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 106, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 107, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 108, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 109, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 110, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 111, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 112, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 113, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 114, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 115, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 116, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 117, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 118, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 119, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 120, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 121, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 122, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 123, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 124, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 125, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 126, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 127, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 128, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 129, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 130, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 131, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 132, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 133, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 134, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 135, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 136, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 137, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 138, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 139, 
+      "tags": []
+    }, 
+    {
+      "aatypes": [], 
+      "id": 140, 
+      "tags": []
+    }
+  ], 
+  "ss_peaks": [
+    {
+      "pkid": 980, 
+      "ssid": 1
+    }, 
+    {
+      "pkid": 981, 
+      "ssid": 2
+    }, 
+    {
+      "pkid": 982, 
+      "ssid": 3
+    }, 
+    {
+      "pkid": 983, 
+      "ssid": 4
+    }, 
+    {
+      "pkid": 984, 
+      "ssid": 5
+    }, 
+    {
+      "pkid": 985, 
+      "ssid": 6
+    }, 
+    {
+      "pkid": 986, 
+      "ssid": 7
+    }, 
+    {
+      "pkid": 987, 
+      "ssid": 8
+    }, 
+    {
+      "pkid": 988, 
+      "ssid": 9
+    }, 
+    {
+      "pkid": 989, 
+      "ssid": 10
+    }, 
+    {
+      "pkid": 990, 
+      "ssid": 11
+    }, 
+    {
+      "pkid": 991, 
+      "ssid": 12
+    }, 
+    {
+      "pkid": 992, 
+      "ssid": 13
+    }, 
+    {
+      "pkid": 993, 
+      "ssid": 14
+    }, 
+    {
+      "pkid": 994, 
+      "ssid": 15
+    }, 
+    {
+      "pkid": 995, 
+      "ssid": 16
+    }, 
+    {
+      "pkid": 996, 
+      "ssid": 17
+    }, 
+    {
+      "pkid": 997, 
+      "ssid": 18
+    }, 
+    {
+      "pkid": 998, 
+      "ssid": 19
+    }, 
+    {
+      "pkid": 999, 
+      "ssid": 20
+    }, 
+    {
+      "pkid": 1000, 
+      "ssid": 21
+    }, 
+    {
+      "pkid": 1001, 
+      "ssid": 22
+    }, 
+    {
+      "pkid": 1002, 
+      "ssid": 23
+    }, 
+    {
+      "pkid": 1003, 
+      "ssid": 24
+    }, 
+    {
+      "pkid": 1004, 
+      "ssid": 25
+    }, 
+    {
+      "pkid": 1005, 
+      "ssid": 26
+    }, 
+    {
+      "pkid": 1006, 
+      "ssid": 27
+    }, 
+    {
+      "pkid": 1007, 
+      "ssid": 28
+    }, 
+    {
+      "pkid": 1008, 
+      "ssid": 29
+    }, 
+    {
+      "pkid": 1009, 
+      "ssid": 30
+    }, 
+    {
+      "pkid": 1010, 
+      "ssid": 31
+    }, 
+    {
+      "pkid": 1011, 
+      "ssid": 32
+    }, 
+    {
+      "pkid": 1012, 
+      "ssid": 33
+    }, 
+    {
+      "pkid": 1013, 
+      "ssid": 34
+    }, 
+    {
+      "pkid": 1014, 
+      "ssid": 35
+    }, 
+    {
+      "pkid": 1015, 
+      "ssid": 36
+    }, 
+    {
+      "pkid": 1016, 
+      "ssid": 37
+    }, 
+    {
+      "pkid": 1017, 
+      "ssid": 38
+    }, 
+    {
+      "pkid": 1018, 
+      "ssid": 39
+    }, 
+    {
+      "pkid": 1019, 
+      "ssid": 40
+    }, 
+    {
+      "pkid": 1020, 
+      "ssid": 41
+    }, 
+    {
+      "pkid": 1021, 
+      "ssid": 42
+    }, 
+    {
+      "pkid": 1022, 
+      "ssid": 43
+    }, 
+    {
+      "pkid": 1023, 
+      "ssid": 44
+    }, 
+    {
+      "pkid": 1024, 
+      "ssid": 45
+    }, 
+    {
+      "pkid": 1025, 
+      "ssid": 46
+    }, 
+    {
+      "pkid": 1026, 
+      "ssid": 47
+    }, 
+    {
+      "pkid": 1027, 
+      "ssid": 48
+    }, 
+    {
+      "pkid": 1028, 
+      "ssid": 49
+    }, 
+    {
+      "pkid": 1029, 
+      "ssid": 50
+    }, 
+    {
+      "pkid": 1030, 
+      "ssid": 51
+    }, 
+    {
+      "pkid": 1031, 
+      "ssid": 52
+    }, 
+    {
+      "pkid": 1032, 
+      "ssid": 53
+    }, 
+    {
+      "pkid": 1033, 
+      "ssid": 54
+    }, 
+    {
+      "pkid": 1034, 
+      "ssid": 55
+    }, 
+    {
+      "pkid": 1035, 
+      "ssid": 56
+    }, 
+    {
+      "pkid": 1036, 
+      "ssid": 57
+    }, 
+    {
+      "pkid": 1037, 
+      "ssid": 58
+    }, 
+    {
+      "pkid": 1038, 
+      "ssid": 59
+    }, 
+    {
+      "pkid": 1039, 
+      "ssid": 60
+    }, 
+    {
+      "pkid": 1040, 
+      "ssid": 61
+    }, 
+    {
+      "pkid": 1041, 
+      "ssid": 62
+    }, 
+    {
+      "pkid": 1042, 
+      "ssid": 63
+    }, 
+    {
+      "pkid": 1043, 
+      "ssid": 64
+    }, 
+    {
+      "pkid": 1044, 
+      "ssid": 65
+    }, 
+    {
+      "pkid": 1045, 
+      "ssid": 66
+    }, 
+    {
+      "pkid": 1046, 
+      "ssid": 67
+    }, 
+    {
+      "pkid": 1047, 
+      "ssid": 68
+    }, 
+    {
+      "pkid": 1048, 
+      "ssid": 69
+    }, 
+    {
+      "pkid": 1049, 
+      "ssid": 70
+    }, 
+    {
+      "pkid": 1050, 
+      "ssid": 71
+    }, 
+    {
+      "pkid": 1051, 
+      "ssid": 72
+    }, 
+    {
+      "pkid": 1052, 
+      "ssid": 73
+    }, 
+    {
+      "pkid": 1053, 
+      "ssid": 74
+    }, 
+    {
+      "pkid": 1054, 
+      "ssid": 75
+    }, 
+    {
+      "pkid": 1055, 
+      "ssid": 76
+    }, 
+    {
+      "pkid": 1056, 
+      "ssid": 77
+    }, 
+    {
+      "pkid": 1057, 
+      "ssid": 78
+    }, 
+    {
+      "pkid": 1058, 
+      "ssid": 79
+    }, 
+    {
+      "pkid": 1059, 
+      "ssid": 80
+    }, 
+    {
+      "pkid": 1060, 
+      "ssid": 81
+    }, 
+    {
+      "pkid": 1061, 
+      "ssid": 82
+    }, 
+    {
+      "pkid": 1062, 
+      "ssid": 83
+    }, 
+    {
+      "pkid": 1063, 
+      "ssid": 84
+    }, 
+    {
+      "pkid": 1064, 
+      "ssid": 85
+    }, 
+    {
+      "pkid": 1065, 
+      "ssid": 86
+    }, 
+    {
+      "pkid": 1066, 
+      "ssid": 87
+    }, 
+    {
+      "pkid": 1067, 
+      "ssid": 88
+    }, 
+    {
+      "pkid": 1068, 
+      "ssid": 89
+    }, 
+    {
+      "pkid": 1069, 
+      "ssid": 90
+    }, 
+    {
+      "pkid": 1070, 
+      "ssid": 91
+    }, 
+    {
+      "pkid": 1071, 
+      "ssid": 92
+    }, 
+    {
+      "pkid": 1072, 
+      "ssid": 93
+    }, 
+    {
+      "pkid": 1073, 
+      "ssid": 94
+    }, 
+    {
+      "pkid": 1074, 
+      "ssid": 95
+    }, 
+    {
+      "pkid": 1075, 
+      "ssid": 96
+    }, 
+    {
+      "pkid": 1076, 
+      "ssid": 97
+    }, 
+    {
+      "pkid": 1077, 
+      "ssid": 98
+    }, 
+    {
+      "pkid": 1078, 
+      "ssid": 99
+    }, 
+    {
+      "pkid": 1079, 
+      "ssid": 100
+    }, 
+    {
+      "pkid": 1080, 
+      "ssid": 101
+    }, 
+    {
+      "pkid": 1081, 
+      "ssid": 102
+    }, 
+    {
+      "pkid": 1082, 
+      "ssid": 103
+    }, 
+    {
+      "pkid": 1083, 
+      "ssid": 104
+    }, 
+    {
+      "pkid": 1084, 
+      "ssid": 105
+    }, 
+    {
+      "pkid": 1085, 
+      "ssid": 106
+    }, 
+    {
+      "pkid": 1086, 
+      "ssid": 107
+    }, 
+    {
+      "pkid": 1087, 
+      "ssid": 108
+    }, 
+    {
+      "pkid": 1088, 
+      "ssid": 109
+    }, 
+    {
+      "pkid": 1089, 
+      "ssid": 110
+    }, 
+    {
+      "pkid": 1090, 
+      "ssid": 111
+    }, 
+    {
+      "pkid": 1091, 
+      "ssid": 112
+    }, 
+    {
+      "pkid": 1092, 
+      "ssid": 113
+    }, 
+    {
+      "pkid": 1093, 
+      "ssid": 114
+    }, 
+    {
+      "pkid": 1094, 
+      "ssid": 115
+    }, 
+    {
+      "pkid": 1095, 
+      "ssid": 116
+    }, 
+    {
+      "pkid": 1096, 
+      "ssid": 117
+    }, 
+    {
+      "pkid": 1097, 
+      "ssid": 118
+    }, 
+    {
+      "pkid": 1098, 
+      "ssid": 119
+    }, 
+    {
+      "pkid": 1099, 
+      "ssid": 120
+    }, 
+    {
+      "pkid": 1100, 
+      "ssid": 121
+    }, 
+    {
+      "pkid": 1101, 
+      "ssid": 122
+    }, 
+    {
+      "pkid": 1102, 
+      "ssid": 123
+    }, 
+    {
+      "pkid": 1103, 
+      "ssid": 124
+    }, 
+    {
+      "pkid": 1104, 
+      "ssid": 125
+    }, 
+    {
+      "pkid": 1105, 
+      "ssid": 126
+    }, 
+    {
+      "pkid": 1106, 
+      "ssid": 127
+    }, 
+    {
+      "pkid": 1107, 
+      "ssid": 128
+    }, 
+    {
+      "pkid": 1108, 
+      "ssid": 129
+    }, 
+    {
+      "pkid": 1109, 
+      "ssid": 130
+    }, 
+    {
+      "pkid": 1110, 
+      "ssid": 131
+    }, 
+    {
+      "pkid": 1111, 
+      "ssid": 132
+    }, 
+    {
+      "pkid": 1112, 
+      "ssid": 133
+    }, 
+    {
+      "pkid": 1113, 
+      "ssid": 134
+    }, 
+    {
+      "pkid": 1114, 
+      "ssid": 135
+    }, 
+    {
+      "pkid": 1115, 
+      "ssid": 136
+    }, 
+    {
+      "pkid": 1116, 
+      "ssid": 137
+    }, 
+    {
+      "pkid": 1117, 
+      "ssid": 138
+    }, 
+    {
+      "pkid": 1118, 
+      "ssid": 139
+    }, 
+    {
+      "pkid": 1119, 
+      "ssid": 140
+    }
+  ], 
   "ss_res": [], 
   "ss_seqs": [], 
   "ss_tags": []
