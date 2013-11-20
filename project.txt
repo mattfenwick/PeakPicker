@@ -1545,6 +1545,470 @@
     [
       199, 
       "artifact"
+    ], 
+    [
+      1, 
+      "backbone amide"
+    ], 
+    [
+      3, 
+      "backbone amide"
+    ], 
+    [
+      7, 
+      "backbone amide"
+    ], 
+    [
+      8, 
+      "backbone amide"
+    ], 
+    [
+      9, 
+      "backbone amide"
+    ], 
+    [
+      10, 
+      "backbone amide"
+    ], 
+    [
+      11, 
+      "backbone amide"
+    ], 
+    [
+      12, 
+      "backbone amide"
+    ], 
+    [
+      14, 
+      "backbone amide"
+    ], 
+    [
+      16, 
+      "backbone amide"
+    ], 
+    [
+      17, 
+      "backbone amide"
+    ], 
+    [
+      20, 
+      "backbone amide"
+    ], 
+    [
+      22, 
+      "backbone amide"
+    ], 
+    [
+      23, 
+      "backbone amide"
+    ], 
+    [
+      24, 
+      "backbone amide"
+    ], 
+    [
+      26, 
+      "backbone amide"
+    ], 
+    [
+      27, 
+      "backbone amide"
+    ], 
+    [
+      28, 
+      "backbone amide"
+    ], 
+    [
+      29, 
+      "backbone amide"
+    ], 
+    [
+      30, 
+      "backbone amide"
+    ], 
+    [
+      31, 
+      "backbone amide"
+    ], 
+    [
+      33, 
+      "backbone amide"
+    ], 
+    [
+      35, 
+      "backbone amide"
+    ], 
+    [
+      37, 
+      "backbone amide"
+    ], 
+    [
+      39, 
+      "backbone amide"
+    ], 
+    [
+      41, 
+      "backbone amide"
+    ], 
+    [
+      43, 
+      "backbone amide"
+    ], 
+    [
+      45, 
+      "backbone amide"
+    ], 
+    [
+      47, 
+      "backbone amide"
+    ], 
+    [
+      48, 
+      "backbone amide"
+    ], 
+    [
+      49, 
+      "backbone amide"
+    ], 
+    [
+      50, 
+      "backbone amide"
+    ], 
+    [
+      51, 
+      "backbone amide"
+    ], 
+    [
+      54, 
+      "backbone amide"
+    ], 
+    [
+      55, 
+      "backbone amide"
+    ], 
+    [
+      58, 
+      "backbone amide"
+    ], 
+    [
+      59, 
+      "backbone amide"
+    ], 
+    [
+      61, 
+      "backbone amide"
+    ], 
+    [
+      63, 
+      "backbone amide"
+    ], 
+    [
+      64, 
+      "backbone amide"
+    ], 
+    [
+      66, 
+      "backbone amide"
+    ], 
+    [
+      68, 
+      "backbone amide"
+    ], 
+    [
+      70, 
+      "backbone amide"
+    ], 
+    [
+      71, 
+      "backbone amide"
+    ], 
+    [
+      72, 
+      "backbone amide"
+    ], 
+    [
+      73, 
+      "backbone amide"
+    ], 
+    [
+      74, 
+      "backbone amide"
+    ], 
+    [
+      75, 
+      "backbone amide"
+    ], 
+    [
+      76, 
+      "backbone amide"
+    ], 
+    [
+      77, 
+      "backbone amide"
+    ], 
+    [
+      78, 
+      "backbone amide"
+    ], 
+    [
+      79, 
+      "backbone amide"
+    ], 
+    [
+      82, 
+      "backbone amide"
+    ], 
+    [
+      89, 
+      "backbone amide"
+    ], 
+    [
+      90, 
+      "backbone amide"
+    ], 
+    [
+      91, 
+      "backbone amide"
+    ], 
+    [
+      92, 
+      "backbone amide"
+    ], 
+    [
+      94, 
+      "backbone amide"
+    ], 
+    [
+      95, 
+      "backbone amide"
+    ], 
+    [
+      97, 
+      "backbone amide"
+    ], 
+    [
+      98, 
+      "backbone amide"
+    ], 
+    [
+      100, 
+      "backbone amide"
+    ], 
+    [
+      102, 
+      "backbone amide"
+    ], 
+    [
+      104, 
+      "backbone amide"
+    ], 
+    [
+      106, 
+      "backbone amide"
+    ], 
+    [
+      108, 
+      "backbone amide"
+    ], 
+    [
+      110, 
+      "backbone amide"
+    ], 
+    [
+      111, 
+      "backbone amide"
+    ], 
+    [
+      113, 
+      "backbone amide"
+    ], 
+    [
+      114, 
+      "backbone amide"
+    ], 
+    [
+      115, 
+      "backbone amide"
+    ], 
+    [
+      117, 
+      "backbone amide"
+    ], 
+    [
+      119, 
+      "backbone amide"
+    ], 
+    [
+      121, 
+      "backbone amide"
+    ], 
+    [
+      123, 
+      "backbone amide"
+    ], 
+    [
+      124, 
+      "backbone amide"
+    ], 
+    [
+      125, 
+      "backbone amide"
+    ], 
+    [
+      127, 
+      "backbone amide"
+    ], 
+    [
+      130, 
+      "backbone amide"
+    ], 
+    [
+      132, 
+      "backbone amide"
+    ], 
+    [
+      135, 
+      "backbone amide"
+    ], 
+    [
+      141, 
+      "backbone amide"
+    ], 
+    [
+      142, 
+      "backbone amide"
+    ], 
+    [
+      144, 
+      "backbone amide"
+    ], 
+    [
+      145, 
+      "backbone amide"
+    ], 
+    [
+      150, 
+      "backbone amide"
+    ], 
+    [
+      151, 
+      "backbone amide"
+    ], 
+    [
+      153, 
+      "backbone amide"
+    ], 
+    [
+      154, 
+      "backbone amide"
+    ], 
+    [
+      156, 
+      "backbone amide"
+    ], 
+    [
+      160, 
+      "backbone amide"
+    ], 
+    [
+      162, 
+      "backbone amide"
+    ], 
+    [
+      168, 
+      "backbone amide"
+    ], 
+    [
+      169, 
+      "backbone amide"
+    ], 
+    [
+      170, 
+      "backbone amide"
+    ], 
+    [
+      171, 
+      "backbone amide"
+    ], 
+    [
+      172, 
+      "backbone amide"
+    ], 
+    [
+      173, 
+      "backbone amide"
+    ], 
+    [
+      174, 
+      "backbone amide"
+    ], 
+    [
+      175, 
+      "backbone amide"
+    ], 
+    [
+      176, 
+      "backbone amide"
+    ], 
+    [
+      177, 
+      "backbone amide"
+    ], 
+    [
+      179, 
+      "backbone amide"
+    ], 
+    [
+      180, 
+      "backbone amide"
+    ], 
+    [
+      181, 
+      "backbone amide"
+    ], 
+    [
+      182, 
+      "backbone amide"
+    ], 
+    [
+      183, 
+      "backbone amide"
+    ], 
+    [
+      184, 
+      "backbone amide"
+    ], 
+    [
+      185, 
+      "backbone amide"
+    ], 
+    [
+      186, 
+      "backbone amide"
+    ], 
+    [
+      187, 
+      "backbone amide"
+    ], 
+    [
+      188, 
+      "backbone amide"
+    ], 
+    [
+      190, 
+      "backbone amide"
+    ], 
+    [
+      194, 
+      "backbone amide"
+    ], 
+    [
+      195, 
+      "backbone amide"
+    ], 
+    [
+      200, 
+      "backbone amide"
     ]
   ], 
   "peaks": [
