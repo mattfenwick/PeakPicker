@@ -30328,7 +30328,7 @@
             }
           ],
           "tags": [
-            "processing artifact"
+            "backbone amide"
           ],
           "height": 7.377
         },
@@ -30348,7 +30348,7 @@
             }
           ],
           "tags": [
-            "backbone amide"
+            "processing artifact"
           ],
           "height": 8.626
         },
