@@ -1,0 +1,5 @@
+a. create 1 spin system per hsqc peak
+b. put hnco peaks into *all* spin systems within tolerance
+  tolerances:
+    N:  0.1 PPM
+    H:  0.0125 PPM
