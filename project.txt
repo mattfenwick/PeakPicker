@@ -1,6 +1,2385 @@
 {
   "spinsystems": {
-    
+    "1": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          1
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "2": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          2
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "3": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          3
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "4": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          4
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "5": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          5
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "6": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          6
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "7": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          7
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "8": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          8
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "9": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          9
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "10": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          10
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "11": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          11
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "12": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          12
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "13": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          13
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "14": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          14
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "15": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          15
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "16": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          16
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "17": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          17
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "18": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          18
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "19": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          19
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "20": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          20
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "21": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          21
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "22": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          22
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "23": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          23
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "24": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          24
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "25": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          25
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "26": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          26
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "27": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          27
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "28": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          28
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "29": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          29
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "30": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          30
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "31": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          31
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "32": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          32
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "33": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          33
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "34": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          34
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "35": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          35
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "36": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          36
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "37": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          37
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "38": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          38
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "39": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          39
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "40": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          40
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "41": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          41
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "42": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          42
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "43": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          43
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "44": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          44
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "45": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          45
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "46": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          46
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "47": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          47
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "48": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          48
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "49": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          49
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "50": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          50
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "51": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          51
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "52": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          52
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "53": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          53
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "54": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          54
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "55": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          55
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "56": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          56
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "57": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          57
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "58": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          58
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "59": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          59
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "60": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          60
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "61": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          61
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "62": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          62
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "63": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          63
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "64": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          64
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "65": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          65
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "66": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          66
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "67": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          67
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "68": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          68
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "69": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          69
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "70": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          70
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "71": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          71
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "72": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          72
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "73": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          73
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "74": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          74
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "75": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          75
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "76": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          76
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "77": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          77
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "78": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          78
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "79": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          79
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "80": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          80
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "81": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          81
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "82": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          82
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "83": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          83
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "84": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          84
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "85": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          85
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "86": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          86
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "87": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          87
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "88": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          88
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "89": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          89
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "90": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          90
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "91": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          91
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "92": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          92
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "93": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          93
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "94": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          94
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "95": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          95
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "96": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          96
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "97": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          97
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "98": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          98
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "99": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          99
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "100": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          100
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "101": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          101
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "102": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          102
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "103": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          103
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "104": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          104
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "105": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          105
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "106": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          106
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "107": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          107
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "108": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          108
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "109": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          109
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "110": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          110
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "111": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          111
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "112": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          112
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "113": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          113
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "114": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          114
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "115": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          115
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "116": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          116
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "117": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          117
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "118": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          118
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "119": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          119
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "120": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          120
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "121": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          121
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "122": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          122
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "123": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          123
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "124": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          124
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "125": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          125
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "126": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          126
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "127": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          127
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "128": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          128
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "129": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          129
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "130": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          130
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "131": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          131
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "132": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          132
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "133": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          133
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "134": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          134
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "135": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          135
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "136": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          136
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "137": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          137
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "138": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          138
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "139": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          139
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    },
+    "140": {
+      "residueids": [
+        
+      ],
+      "pkids": [
+        [
+          "nhsqc",
+          140
+        ]
+      ],
+      "aatypes": [
+        
+      ],
+      "ssnexts": [
+        
+      ]
+    }
   },
   "spectra": {
     "hnco": {
