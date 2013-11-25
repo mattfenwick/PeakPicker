@@ -2908,7 +2908,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "artifact"
+      ]
     }, 
     "104": {
       "residueids": [], 
@@ -2920,7 +2922,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "artifact"
+      ]
     }, 
     "105": {
       "residueids": [], 
@@ -2932,7 +2936,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "artifact"
+      ]
     }, 
     "106": {
       "residueids": [], 
@@ -2968,7 +2974,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "artifact"
+      ]
     }, 
     "108": {
       "residueids": [], 
@@ -2984,7 +2992,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "artifact"
+      ]
     }, 
     "109": {
       "residueids": [], 
@@ -2996,7 +3006,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "artifact"
+      ]
     }, 
     "110": {
       "residueids": [], 
