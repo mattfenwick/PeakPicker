@@ -1040,7 +1040,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "no crosspeaks"
+      ]
     }, 
     "37": {
       "residueids": [], 
@@ -3734,7 +3736,10 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "severely overlapped", 
+        "hard to interpret"
+      ]
     }, 
     "146": {
       "residueids": [], 
