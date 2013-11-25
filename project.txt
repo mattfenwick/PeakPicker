@@ -105,8 +105,12 @@
         ]
       ], 
       "ssnexts": [], 
-      "aatypes": ["tryptophan"], 
-      "tags": ["sidechain"]
+      "aatypes": [
+        "tryptophan"
+      ], 
+      "tags": [
+        "sidechain"
+      ]
     }, 
     "5": {
       "residueids": [], 
@@ -2850,7 +2854,7 @@
       ], 
       "tags": [
         "folded: NE once, CZ twice", 
-        "sidechain",
+        "sidechain", 
         "H dimension split because NE outside of N decoupling band"
       ]
     }, 
@@ -3080,7 +3084,7 @@
       ], 
       "tags": [
         "folded: NE once, CZ twice", 
-        "sidechain",
+        "sidechain", 
         "H dimension split because NE outside of N decoupling band"
       ]
     }, 
@@ -3698,7 +3702,7 @@
       ], 
       "tags": [
         "folded: NE once, CZ twice", 
-        "sidechain",
+        "sidechain", 
         "H dimension split because NE outside of N decoupling band"
       ]
     }, 
