@@ -978,7 +978,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "unknown"
+      ]
     }, 
     "34": {
       "residueids": [], 
@@ -1082,7 +1084,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "unknown"
+      ]
     }, 
     "39": {
       "residueids": [], 
@@ -1290,7 +1294,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "unknown"
+      ]
     }, 
     "46": {
       "residueids": [], 
@@ -1646,7 +1652,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "unknown"
+      ]
     }, 
     "59": {
       "residueids": [], 
@@ -1686,7 +1694,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "unknown"
+      ]
     }, 
     "61": {
       "residueids": [], 
@@ -2868,7 +2878,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "unknown"
+      ]
     }, 
     "102": {
       "residueids": [], 
@@ -2880,7 +2892,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "unknown"
+      ]
     }, 
     "103": {
       "residueids": [], 
@@ -3760,7 +3774,9 @@
       ], 
       "ssnexts": [], 
       "aatypes": [], 
-      "tags": []
+      "tags": [
+        "unknown"
+      ]
     }
   }, 
   "spectra": {
