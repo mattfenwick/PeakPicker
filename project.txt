@@ -602,8 +602,12 @@
           152
         ]
       ], 
-      "ssnexts": [], 
-      "aatypes": [], 
+      "ssnexts": [
+        118
+      ], 
+      "aatypes": [
+        "alanine"
+      ], 
       "tags": [
         "backbone"
       ]
@@ -666,8 +670,12 @@
           162
         ]
       ], 
-      "ssnexts": [], 
-      "aatypes": [], 
+      "ssnexts": [
+        146
+      ], 
+      "aatypes": [
+        "alanine"
+      ], 
       "tags": [
         "backbone"
       ]
@@ -9335,7 +9343,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": 4.072
         }, 
@@ -9357,7 +9366,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": -2.482
         }, 
@@ -11252,7 +11262,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": 27.94
         }, 
@@ -11274,7 +11285,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": -4.12
         }, 
@@ -11296,7 +11308,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": -15.12
         }, 
@@ -11444,7 +11457,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": 2.037
         }, 
@@ -11466,7 +11480,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": 8.47
         }, 
@@ -11488,7 +11503,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": -2.346
         }, 
@@ -11510,7 +11526,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": -5.398
         }, 
@@ -22116,7 +22133,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": -4.136
         }, 
@@ -22182,7 +22200,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": 7.381
         }, 
@@ -22204,7 +22223,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": 13.83
         }, 
