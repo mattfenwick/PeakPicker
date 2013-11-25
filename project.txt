@@ -1702,11 +1702,7 @@
         [
           "hncacb", 
           338
-        ], 
-        [
-          "hncacb", 
-          339
-        ], 
+        ],
         [
           "hncacb", 
           340
@@ -1714,9 +1710,15 @@
         [
           "hncacb", 
           342
+        ], 
+        [
+          "hncacb", 
+          780
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        89
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
@@ -1750,7 +1752,9 @@
           357
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        55
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
@@ -2770,7 +2774,9 @@
           525
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        96
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
@@ -15334,7 +15340,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": -4.517
         }, 
@@ -15378,7 +15385,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": 19.12
         }, 
@@ -15420,7 +15428,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": -13.25
         }, 
@@ -19231,7 +19240,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": 15.88
         }, 
@@ -19273,7 +19283,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": 9.931
         }, 
@@ -19295,7 +19306,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": -7.257
         }, 
@@ -19317,7 +19329,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": -13.72
         }, 
@@ -24751,6 +24764,29 @@
             "edge"
           ], 
           "height": -2.496
+        }, 
+        "780": {
+          "dims": [
+            {
+              "shift": 8.971, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 120.538, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 53.567, 
+              "atomtypes": [
+                "CA"
+              ]
+            }
+          ], 
+          "tags": [
+            "backbone", 
+            "i-1"
+          ], 
+          "height": 6.842
         }
       }
     }, 
