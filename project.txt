@@ -609,7 +609,8 @@
         "alanine"
       ], 
       "tags": [
-        "backbone"
+        "backbone",
+        "missing CA(i-1)"
       ]
     }, 
     "20": {
@@ -4008,7 +4009,8 @@
       "ssnexts": [], 
       "aatypes": [], 
       "tags": [
-        "backbone"
+        "backbone", 
+        "missing CA(i) and CB(i) peaks"
       ]
     }, 
     "147": {
