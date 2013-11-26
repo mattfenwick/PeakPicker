@@ -161,7 +161,9 @@
       ]
     }, 
     "6": {
-      "residueids": [], 
+      "residueids": [
+        104
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -1029,7 +1031,9 @@
       ]
     }, 
     "30": {
-      "residueids": [], 
+      "residueids": [
+        103
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -3898,7 +3902,9 @@
       ]
     }, 
     "131": {
-      "residueids": [], 
+      "residueids": [
+        105
+      ], 
       "pkids": [
         [
           "nhsqc", 
