@@ -634,6 +634,10 @@
         [
           "hncacb", 
           152
+        ], 
+        [
+          "hncacb", 
+          783
         ]
       ], 
       "ssnexts": [
@@ -643,8 +647,7 @@
         "alanine"
       ], 
       "tags": [
-        "backbone",
-        "missing CA(i-1)"
+        "backbone"
       ]
     }, 
     "20": {
@@ -25127,6 +25130,29 @@
             "i-1"
           ], 
           "height": 6.093
+        },
+        "783": {
+          "dims": [
+            {
+              "shift": 7.350, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 124.232, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 53.895, 
+              "atomtypes": [
+                "CA"
+              ]
+            }
+          ], 
+          "tags": [
+            "backbone", 
+            "i-1"
+          ], 
+          "height": 4.746
         }
       }
     }, 
