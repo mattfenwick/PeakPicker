@@ -237,7 +237,9 @@
       ]
     }, 
     "8": {
-      "residueids": [], 
+      "residueids": [
+        64
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -613,7 +615,9 @@
       ]
     }, 
     "19": {
-      "residueids": [], 
+      "residueids": [
+        59
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -2322,7 +2326,9 @@
       ]
     }, 
     "73": {
-      "residueids": [], 
+      "residueids": [
+        63
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -2744,7 +2750,9 @@
       ]
     }, 
     "85": {
-      "residueids": [], 
+      "residueids": [
+        62
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -2988,7 +2996,9 @@
       ]
     }, 
     "92": {
-      "residueids": [], 
+      "residueids": [
+        61
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -3095,7 +3105,9 @@
       ]
     }, 
     "95": {
-      "residueids": [], 
+      "residueids": [
+        58
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -3599,7 +3611,9 @@
       ]
     }, 
     "118": {
-      "residueids": [], 
+      "residueids": [
+        60
+      ], 
       "pkids": [
         [
           "nhsqc", 
