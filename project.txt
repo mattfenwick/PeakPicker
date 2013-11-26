@@ -1,7 +1,9 @@
 {
   "spinsystems": {
     "1": {
-      "residueids": [], 
+      "residueids": [
+        65
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -20,7 +22,9 @@
           51
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        137
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
@@ -274,7 +278,9 @@
           75
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        1
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
@@ -875,7 +881,9 @@
       ]
     }, 
     "25": {
-      "residueids": [], 
+      "residueids": [
+        68
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -2048,7 +2056,9 @@
       ]
     }, 
     "63": {
-      "residueids": [], 
+      "residueids": [
+        67
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -2071,7 +2081,9 @@
           397
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        25
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
@@ -4182,7 +4194,9 @@
       ]
     }, 
     "137": {
-      "residueids": [], 
+      "residueids": [
+        66
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -4205,7 +4219,9 @@
           753
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        63
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
@@ -9505,7 +9521,9 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i", 
+            "i-1"
           ], 
           "height": 3.229
         }, 
@@ -9527,7 +9545,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": -3.114
         }, 
@@ -12457,7 +12476,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": 16.8
         }, 
@@ -12479,7 +12499,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": 10.15
         }, 
@@ -12501,7 +12522,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": -6.363
         }, 
@@ -12523,7 +12545,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": -11.24
         }, 
@@ -16948,7 +16971,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": 33.25
         }, 
@@ -16990,7 +17014,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": 8.427
         }, 
@@ -17012,7 +17037,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": -19.62
         }, 
@@ -24703,7 +24729,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": 5.155
         }, 
@@ -24745,7 +24772,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i"
           ], 
           "height": 28.93
         }, 
@@ -24767,7 +24795,8 @@
             }
           ], 
           "tags": [
-            "backbone"
+            "backbone", 
+            "i-1"
           ], 
           "height": -6.609
         }, 
