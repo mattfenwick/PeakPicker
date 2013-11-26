@@ -749,6 +749,10 @@
         [
           "hncacb", 
           157
+        ], 
+        [
+          "hncacb", 
+          782
         ]
       ], 
       "ssnexts": [
@@ -2912,6 +2916,10 @@
         [
           "hnco", 
           135
+        ], 
+        [
+          "hncacb", 
+          540
         ], 
         [
           "hncacb", 
@@ -19844,11 +19852,14 @@
             }, 
             {
               "shift": 57.536, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [
-            "processing artifact"
+            "backbone", 
+            "i-1"
           ], 
           "height": 4.003
         }, 
@@ -25009,6 +25020,29 @@
             "i-1"
           ], 
           "height": -0.947
+        }, 
+        "782": {
+          "dims": [
+            {
+              "shift": 8.402, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 123.827, 
+              "atomtypes": []
+            }, 
+            {
+              "shift": 54.507, 
+              "atomtypes": [
+                "CA"
+              ]
+            }
+          ], 
+          "tags": [
+            "backbone", 
+            "i-1"
+          ], 
+          "height": 6.093
         }
       }
     }, 
