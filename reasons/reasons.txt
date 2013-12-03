@@ -1,0 +1,361 @@
+2nd Talos run -- fix C' shift query
+     the C' belongs in residue i-1, not i
+
+input and output from first talos run
+
+remove i-1 tags from HCCHTocsy atomtype tags
+
+HCCH-Tocsy assignments
+
+HCCH-Tocsy peak-pick, group peaks into spin systems
+
+fix incorrect atomtype assignment to peak dimension
+     BMRB statistics
+     crosspeak assignment
+
+fix presumed typo in peak-to-ss assignment
+     HC(CO)NH shifts did not match backbone N/H shifts of NHSQC peaks
+
+fix flipped CB/CG (i-1) assignments of C(CO)NH peaks using HNCACB.  error probably caused by accident
+     fix mistake
+
+reassign atomtypes of hbCBcgcdceHE peaks in the H-dimension
+     aromatic HD* peaks also show up
+     thus, peaks that show up in the same place in this experiment as in the hbCBcgcdHD are *probably* HD* peaks
+     peaks that show up in this experiment but not in the hbCBcgcdHD are *probably* HE* peaks
+     solution: retag peaks appropriately based on chemical shift matching
+
+assign hbCBcgcdHD and hbCBcbcdceHE peaks into spin systems, and assign atomtypes
+
+initial peak picks of aromatic-linking experiments, including parameterizations
+
+finish assigning HCCONH-Tocsy and HBHA(CO)NH
+
+assign HCCONH-Tocsy and HBHA(CO)NH for SS of residue 46 - 69
+
+assign HCCONH-Tocsy and HBHACONH peaks for SS of residues 25-45
+
+HCCONH-Tocsy and HBHACONH 1H assignment: SS of residues 3-23
+
+HBHACONH and HCCONH-Tocsy assignments
+
+group HBHA(CO)NH and HC(CO)NH-Tocsy peaks into spin systems
+
+HBHA(CO)NH and HC(CO)NH-Tocsy peak picks,parameterizations, and re-referencing and reset spectral widths
+     automatic
+     to match NHSQC
+
+assign spin system
+     matching of CCONH i-1 peaks to HNCACB i peaks
+
+found and assigned additional spin system
+     matching of CCONH i-1 peaks to HNCACB i peaks
+
+add unpicked CCONH peaks, assign to spin systems
+
+for SS ?-106: assign CCONH peaks, remove junk peaks + tag as junk
+
+for SS 71-100: assign CCONH peaks, remove junk peaks + tag as junk
+
+for SS 48-68: assign CCONH peaks, remove junk peaks + tag as junk
+
+CCONH assignment of SS 25-48; add new peaks
+     manual intervention
+
+assign CCONH peaks, restore peaks incorrectly tagged as junk, remove junk peaks + tag as junk
+
+for SS3-SS8: assign CCONH peaks, remove junk peaks + tag as junk
+
+retag unassigned CCONH peaks as 'unknown'
+
+assign CCONH peaks into spin systems
+
+initial CCONH peak-pick, along with parameters and referencing
+
+note missing CB peaks in Q sidechain SS114 and possible reason
+
+assign G3
+     matching CA peaks
+     process of elimination -- last unassigned G
+
+assign SS106 to G106, and pick matching peak
+     N shift indicative of an ending G
+     seems to have an overlapped peak which could be the CA(i-1) of G105
+     crosspeak
+
+fill in missing assignment for G78
+     three SS that matched the CA(i-1) shift of following SS37(79R)
+     SS63 was clearly not a G b/c its G-peak was an i-1 instead of i
+     SS137 had i-1 peaks inconsistent with the i peaks of SS2 (which had previously been assigned to residue N77) and was therefore impossible
+     SS138 had a very weak CA peak in the G range, and did not have any obvious i-1 peaks, and so wasn't inconsistent with the data
+
+add HNCACB peak
+     match crosspeak in i-1 strip
+
+extend sequential SS chain, seq-specific and i/i-1 assignments
+
+sequence specific assignments
+
+sequential SS chain, i/i-1 assignments
+
+extend sequential SS chain, make seq-specific and i/i-1 assignments
+     matching CA/CB shifts
+     previous SS-res assignments
+
+assign sidechain spin system
+
+sequence-specific assignment of sequential SS chain
+     matching CA/CB shifts to assigned sidechain spin system
+     sidechain: SS123
+     backbone: SS11
+
+add new HNCACB peak
+     crosspeak in i-1 strip
+
+sequential SS, sequence-specific, and i/i-1 assignments
+
+sequence-specific SS assignments
+
+sequential SS and i/i-1 assignments
+
+HNCACB i/i-1 assignments
+
+sequential SS assignments
+
+HNCACB i/i-1 assignments
+
+make sequence specific assignments
+
+add CA(i-1) peak for SS19
+     crosspeak of previous strip
+
+sequential SS assignments
+
+assign i/i-1 of HNCACB peaks
+
+pick new peaks, add into spin systems
+
+i/i-1 assignments of CA/CB peaks
+
+make sequence-specific assignments
+
+start sequential SS chain
+     G/T anchors
+     matching CA/CB chemical shifts
+     three spin systems matched SS51(i)
+     SS79 inconsistent with the Phe demanded by the sequence
+     SS110's peaks were not i-1
+     SS77 appears to be consistent
+
+add new i-1 HNCACB peak
+     i crosspeak of preceding spin system
+
+extend SS chain backwards
+     three SS matched CA(i-1) of SS110
+     SS31: matching CA peak was an i-1, not an i
+     SS96: preceding aatype was not a Valine, as required by the sequence and the assignment of SS110
+     SS135: correct i/i-1 peak type and preceding aatype
+
+extend SS chain backwards
+     three SS matched the i-1 peaks of SS79
+     SS77's matching peaks seemed to be i-1 peaks, and it was not preceded by a Glycine as demanded by the sequence (since SS79 was already assigned to a specific residue)
+     SS51 was not preceded by a Glycine
+     SS110 was preceded by a Glycine, and its i peaks matched the i-1 peaks of ss79
+
+extend SS chain backwards
+     3 SS matched the i-1 peaks of SS119
+     SS76:  did not have a CB peak to match the i-1 of SS119
+     SS87:  the matching CA peak seemed to be an i-1, not an i
+     SS79:  this matched both the CA and CB peaks
+     SS79 is not inconsistent with the data
+
+assign SS fragment to residues
+
+extend SS chain
+
+make sequence-specific assignments of SS chain
+
+build sequential SS chain
+
+assign spin system fragment to residues
+
+extend sequential spin system assignment chain, assign i/i-1
+
+assign sequential spin system
+     spin systems 50, 96, 132, and 135 all match the glycine CA(i-1) peak of spin system 31
+     spin system 31 is already assigned to 95D; from the sequence, we know that the preceding residue is 93D (and of course 94 is G)
+     SS135: the i-1 peaks do not match the average shifts of D
+     SS132: there are no i-1 peaks, leading me to suspect that it's two consecutive G residues
+     SS50: the CB shift does not match D's average, and the CA of G appears to be an i-1 peak based on relative intensity compared to the other CA peak
+
+assign spin system fragment to sequential residues
+
+extend sequential ss assignments from S/T/As, make i/i-1 assignments
+
+correct silly mistake of sequential spin system assignment
+
+identify S/T spin system, make i/i-1 assignments
+
+identify S/T spin system, make i/i-1 assignments
+
+identify S/T spin system
+
+identify serine/threonine spin systems, i/i-1 assignments
+
+identify alanine spin system, do i/i-1 assignments
+
+remove presumed artifact peak from spin system
+     peak pattern
+
+identify alanine spin system, perform i/i-1 assignments
+
+re-add peak previously tagged as artifact to spin system
+     SS was missing an expected peak right where this peak is
+
+identify more alanine spin systems, and i/i-1 assignments
+
+note expected but missing peaks
+     crosspeaks
+     sequential spin system assignments
+
+identify alanine spin systems and make i/i-1 assignments
+
+identify alanine spin systems and following ss
+
+retag remaining tag-less spin systems as 'backbone'
+
+retag three more spin systems as 'unknown'
+     unidentifiable NHSQC peak
+
+tag artifactual spin systems
+     peak pattern
+
+tag odd spin systems meaningfully
+     crosspeaks
+     peak pattern
+     overlap
+
+tag unidentifiable peak patterns as 'unknown'
+
+reformatting
+
+identify possible reason for arginine side chain peak splitting
+
+retag tryptophan sidechain spin system as such
+
+remove HNCACB peaks tagged 'spectral artifact' from spin systems
+
+oops, mistagged:  'spectral artifact' should be 'processing artifact'
+
+assign arginine sidechain spin systems, identify folding
+     HNCO/HNCACB/NHSQC peak pattern
+     BMRB statistics
+
+assigned asparagine sidechain spin system
+     peak pattern
+     peak position
+
+revert untagging of peaks after their spin system is assigned
+
+assign glutamine sidechain, and retag its HNCACB peaks as CG
+     peak pattern
+     peak position
+
+assign spin system as asparagine sidechain, and remove redundant peak tags
+
+identify asparagine/glutamine sidechain spin system; flip HNCACB peaks (CA->CB and vice versa) b/c I think it's an Asparagine
+     peak pattern
+     BMRB statistics
+
+add sequence, using one letter codes
+
+change sequence type from dict to list
+
+assign all untagged HNCACB peaks' atomtypes and tag as 'backbone'
+
+switch JSON serializer from [online](http://jsonviewer.stack.hu/) to python's `json` library
+
+add empty list of tags to each spin system
+
+tag peak
+     NHSQC crosspeak proximity
+
+re-assign peaks of presumed sidechains to spin systems
+     fix mistake
+
+remove peaks from overlapped spin systems
+     peak pattern
+     aatype assignments
+
+HNCACB peaks not in spin systems:  put into spin systems, or retag
+
+fix mistake -- typo
+
+match HNCACB peaks into spin systems
+
+remove HNCO peak from spin system
+     NHSQC peak doesn't seem to be real
+
+remove artifact tag from NHSQC peaks
+     lack of evidence suggesting artifactness
+
+swap artifact/backbone tags for 2 NHSQC peaks
+     HNCACB crosspeaks
+
+tag peaks as artifacts
+
+add NHSQC peaks and spin systems
+     HNCO crosspeaks
+
+on all untagged NHSQC peaks:  add 'backbone amide' tag
+
+remove an artifact HNCO peak from spin system
+
+pick HNCO peak and add to spin system
+     NHSQC crosspeak
+
+pick new NHSQC peak in overlapped area
+     HNCO crosspeak
+
+identify 3rd Asp/Gln sidechain, although very weak and overlapped; note the errors in the data -- should be Asparagine, not Arginine
+     peak pattern
+     BMRB statistics
+
+identify Arg sidechain; merge spin systems, retag peaks, pick new NHSQC peaks
+     peak pattern
+
+identify Asn/Gln sidechain in NHSQC+HNCO, merging spin systems, and retagging peaks
+     peak pattern
+     BMRB statistics
+
+identify Asn/Gln sidechain in NHSQC+HNCO, merging spin systems, and retagging peaks
+     BMRB statistics
+     peak pattern
+
+retag presumed junk NHSQC peaks
+
+identify Tryptophan sidechain
+     BMRB statistics
+
+tag remaining HNCO peaks as backbone amides
+
+tag presumed HNCO artifacts
+
+group HNCO peaks into spin systems with increased tolerance
+
+place HNCO peaks into spin systems
+
+create 1 spin system per NHSQC peak, and assign NHSQC peaks to their corresponding spin systems
+     standard
+
+fix mistakenly tagged artifact in HNCACB
+     NHSQC crosspeak
+
+tag HNCACB artifacts
+
+tag peaks on edges of HNCACB
+
+peak-pick NHSQC, HNCO, and HNCACB; re-reference 1H of HNCO
+     automatic
+
+50

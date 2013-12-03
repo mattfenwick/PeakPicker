@@ -1,0 +1,55 @@
+reassign atomtypes of hbCBcgcdceHE peaks in the H-dimension
+     aromatic HD* peaks also show up
+     thus, peaks that show up in the same place in this experiment as in the hbCBcgcdHD are *probably* HD* peaks
+     peaks that show up in this experiment but not in the hbCBcgcdHD are *probably* HE* peaks
+     solution: retag peaks appropriately based on chemical shift matching
+
+assign SS106 to G106, and pick matching peak
+     N shift indicative of an ending G
+     seems to have an overlapped peak which could be the CA(i-1) of G105
+     crosspeak
+
+fill in missing assignment for G78
+     three SS that matched the CA(i-1) shift of following SS37(79R)
+     SS63 was clearly not a G b/c its G-peak was an i-1 instead of i
+     SS137 had i-1 peaks inconsistent with the i peaks of SS2 (which had previously been assigned to residue N77) and was therefore impossible
+     SS138 had a very weak CA peak in the G range, and did not have any obvious i-1 peaks, and so wasn't inconsistent with the data
+
+sequence-specific assignment of sequential SS chain
+     matching CA/CB shifts to assigned sidechain spin system
+     sidechain: SS123
+     backbone: SS11
+
+start sequential SS chain
+     G/T anchors
+     matching CA/CB chemical shifts
+     three spin systems matched SS51(i)
+     SS79 inconsistent with the Phe demanded by the sequence
+     SS110's peaks were not i-1
+     SS77 appears to be consistent
+
+extend SS chain backwards
+     three SS matched CA(i-1) of SS110
+     SS31: matching CA peak was an i-1, not an i
+     SS96: preceding aatype was not a Valine, as required by the sequence and the assignment of SS110
+     SS135: correct i/i-1 peak type and preceding aatype
+
+extend SS chain backwards
+     three SS matched the i-1 peaks of SS79
+     SS77's matching peaks seemed to be i-1 peaks, and it was not preceded by a Glycine as demanded by the sequence (since SS79 was already assigned to a specific residue)
+     SS51 was not preceded by a Glycine
+     SS110 was preceded by a Glycine, and its i peaks matched the i-1 peaks of ss79
+
+extend SS chain backwards
+     3 SS matched the i-1 peaks of SS119
+     SS76:  did not have a CB peak to match the i-1 of SS119
+     SS87:  the matching CA peak seemed to be an i-1, not an i
+     SS79:  this matched both the CA and CB peaks
+     SS79 is not inconsistent with the data
+
+assign sequential spin system
+     spin systems 50, 96, 132, and 135 all match the glycine CA(i-1) peak of spin system 31
+     spin system 31 is already assigned to 95D; from the sequence, we know that the preceding residue is 93D (and of course 94 is G)
+     SS135: the i-1 peaks do not match the average shifts of D
+     SS132: there are no i-1 peaks, leading me to suspect that it's two consecutive G residues
+     SS50: the CB shift does not match D's average, and the CA of G appears to be an i-1 peak based on relative intensity compared to the other CA peak
