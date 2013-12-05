@@ -1,0 +1,77 @@
+mistaken interpretation of hbCBcgcdceHE
+ - problem
+   - reassign atomtypes of hbCBcgcdceHE peaks in the H-dimension
+     aromatic HD* peaks also show up
+ - resolution
+   - peaks that show up in the same place in this experiment as in the hbCBcgcdHD are *probably* HD* peaks
+     peaks that show up in this experiment but not in the hbCBcgcdHD are *probably* HE* peaks
+   - solution: retag peaks appropriately based on chemical shift matching
+
+possible overlap
+ - problem
+   - find G106's SS
+   - no good matches for SS of G105
+ - resolution
+   - seems to have an overlapped peak which could be the CA(i-1) of G105
+   - N shift indicative of an ending G
+
+ambiguity
+ - problem
+   - multiple matching SS
+   - i: 37
+   - i-1: 63, 137, 138
+   - i-2: SS2
+ - resolution
+   - SS63: not a G -- G-peak was an i-1 instead of i -- inconsistent with sequence
+   - SS137: i-1 peaks inconsistent with the i peaks of SS2 (sequence, seq-specific assns)
+   - SS138: very weak CA peak in the G range, no obvious i-1 peaks, so not inconsistent
+
+ambiguity
+ - problem
+   - multiple matching SS
+   - i: 51
+   - i+1: 79, 110, 77
+ - resolution
+   - SS79: inconsistent with sequence, seq-specific assns
+   - SS110: matching peaks not i-1
+   - SS77: appears to be consistent
+
+ambiguity
+ - problem
+   - multiple matching SS
+   - i: 110
+   - i-1: 31, 96, 135
+ - resolution
+   - SS31: matching CA peak was an i-1, not an i
+   - SS96: preceding aatype was not V (sequence, seq-specific assns)
+   - SS135: correct i/i-1 peak type and preceding aatype
+
+ambiguity
+ - problem
+   - multiple matching SS
+   - i: 79
+   - i-1: 77, 51, 110
+ - resolution
+   - SS77: matching peaks seemed to be i-1 peaks, and not preceded by G (sequence, seq-specific assns)
+   - SS51: not preceded by G
+   - SS110: preceded by G, i peaks match SS79(i-1) peaks
+
+ambiguity
+ - problem
+   - multiple matching SS
+   - i: 119
+   - i-1: 76, 87, 79
+ - resolution
+   - SS76: no CB peak to match the i-1 of SS119
+   - SS87: matching CA peak seemed to be an i-1, not an i
+   - SS79: matches CA, CB peaks, is not inconsistent
+
+ambiguity
+ - problem
+  - multiple matching sequential SS
+  - i: 31
+  - i-1: 50, 96, 132, 135
+ - resolution
+  - SS135: inconsistent with sequence, sequence-specific assignments
+  - SS132: there are no i-1 peaks, leading me to suspect that it's two consecutive G residues
+  - SS50: the CB shift does not match D's average, and the CA of G appears to be an i-1 peak based on relative intensity compared to the other CA peak
