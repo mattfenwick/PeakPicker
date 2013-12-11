@@ -1,0 +1,345 @@
+mistaken interpretation of hbCBcgcdceHE
+ - problem
+   - reassign atomtypes of hbCBcgcdceHE peaks in the H-dimension
+     aromatic HD* peaks also show up
+ - resolution
+   - peaks that show up in the same place in this experiment as in the hbCBcgcdHD are *probably* HD* peaks
+     peaks that show up in this experiment but not in the hbCBcgcdHD are *probably* HE* peaks
+   - solution: retag peaks appropriately based on chemical shift matching
+
+possible overlap
+ - problem
+   - find G106's SS
+   - no good matches for SS of G105
+ - resolution
+   - seems to have an overlapped peak which could be the CA(i-1) of G105
+   - N shift indicative of an ending G
+
+ambiguity
+ - problem
+   - multiple matching SS
+   - i: 37
+   - i-1: 63, 137, 138
+   - i-2: SS2
+ - resolution
+   - SS63: not a G -- G-peak was an i-1 instead of i -- inconsistent with sequence
+   - SS137: i-1 peaks inconsistent with the i peaks of SS2 (sequence, seq-specific assns)
+   - SS138: very weak CA peak in the G range, no obvious i-1 peaks, so not inconsistent
+
+ambiguity
+ - problem
+   - multiple matching SS
+   - i: 51
+   - i+1: 79, 110, 77
+ - resolution
+   - SS79: inconsistent with sequence, seq-specific assns
+   - SS110: matching peaks not i-1
+   - SS77: appears to be consistent
+[
+
+{"problem": "ambiguity: multiple matching sequential SS",
+ "spin systems": {"i": 110, "i-1": [31, 96, 13]},
+ "resolution": [
+  [31, {"type": "matching CA peak was an i-1, not an i",
+  "i": {"peakid": ["hncacb", 636], "amp": 6.438},
+  "matching": {"peakid": ["hncacb", 220], "amp": 7.346},
+  "other": {"peakid": ["hncacb", 218], "amp": 28.530}
+}],
+  [96, {"type": "preceding aatype was not V (sequence, seq-specific assns)", // wait ... isn't the problem the conflicting sequence-specific assignments for the i-1 of SS31 and the i-2 of SS110?  the aatype issue is smaller
+  "assignment": {"ssid": 110, "residueid": 31},
+  "i-1": {"residueid": 30, "aatype": "G"},
+  "i-2": {"residueid": 29, "aatype": "V"},
+  "i-1 of SS31": {"residueid": 94}
+}],
+  [135, {"type": "correct i/i-1 peak type and preceding aatype",
+}]
+]
+},
+
+  {
+    "problem": "ambiguity: multiple matching sequential SS", 
+    "resolution": [
+      [
+        77, 
+        {
+          "CB": {
+            "i": {
+              "amp": -14.21, 
+              "peakid": [
+                "hncacb", 
+                489
+              ]
+            }, 
+            "other": {
+              "amp": -7.75, 
+              "peakid": [
+                "hncacb", 
+                474
+              ]
+            }, 
+            "matching": {
+              "amp": -3.487, 
+              "peakid": [
+                "hncacb", 
+                472
+              ]
+            }
+          }, 
+          "CA": {
+            "i": {
+              "amp": 14.3, 
+              "peakid": [
+                "hncacb", 
+                488
+              ]
+            }, 
+            "other": {
+              "amp": 12.56, 
+              "peakid": [
+                "hncacb", 
+                471
+              ]
+            }, 
+            "matching": {
+              "amp": 5.17, 
+              "peakid": [
+                "hncacb", 
+                473
+              ]
+            }
+          }, 
+          "type": "matching peaks seemed to be i-1 peaks, and not preceded by G (sequence, seq-specific assns)"
+        }
+      ], 
+      [
+        51, 
+        {
+          "type": "not preceded by G"
+        }
+      ], 
+      [
+        110, 
+        {
+          "type": "preceded by G, i peaks match SS79(i-1) peaks"
+        }
+      ]
+    ], 
+    "spin systems": {
+      "i": 79, 
+      "i-1": [
+        77, 
+        51, 
+        110
+      ]
+    }
+  }, 
+  {
+    "problem": "ambiguity: multiple matching sequential SS", 
+    "resolution": [
+      [
+        76, 
+        {
+          "type": "missing expected peak: no CB peak to match the i-1 of SS119", 
+          "causes": [
+            {
+              "type": "missing expected CB(i-1) peak", 
+              "peakid": [
+                "hncacb", 
+                673
+              ]
+            }
+          ]
+        }
+      ], 
+      [
+        87, 
+        {
+          "type": "matching CA peak seemed to be an i-1, not an i", 
+          "causes": [
+            {
+              "peakid": [
+                "hncacb", 
+                669
+              ], 
+              "type": "CA(i-1) peak", 
+              "ssid": 119
+            }, 
+            {
+              "peakid": [
+                "hncacb", 
+                532
+              ], 
+              "type": "matching CA peak", 
+              "ssid": 87, 
+              "amp": 7.36
+            }, 
+            {
+              "peakid": [
+                "hncacb", 
+                534
+              ], 
+              "type": "other CA peak", 
+              "ssid": 87, 
+              "amp": 19.47
+            }
+          ]
+        }
+      ], 
+      [
+        79, 
+        {
+          "type": "not inconsistent: matches CA, CB peaks"
+        }
+      ]
+    ], 
+    "spin systems": {
+      "i": 119, 
+      "i-1": [
+        76, 
+        87, 
+        79
+      ]
+    }
+  }, 
+  {
+    "problem": "ambiguity: multiple matching sequential SS", 
+    "resolution": [
+      [
+        135, 
+        {
+          "type": "inconsistency between sequence, sequence-specific assignments", 
+          "causes": [
+            {
+              "residueid": 95, 
+              "type": "ss/res assignment", 
+              "ssid": 31
+            }, 
+            {
+              "residueid": 93, 
+              "type": "primary sequence", 
+              "aatype": "D"
+            }, 
+            {
+              "type": "BMRB statistics", 
+              "aatype": "D", 
+              "shifts": {
+                "CB": 40.876, 
+                "CA": 54.705
+              }
+            }, 
+            {
+              "shifts": {
+                "CB": 32.036, 
+                "CA": 64.384
+              }, 
+              "type": "i-1, HNCACB peaks", 
+              "ssid": 135
+            }
+          ]
+        }
+      ], 
+      [
+        132, 
+        {
+          "type": "missing expected i-1 peaks; suspect it's two consecutive G residues", 
+          "causes": [
+            {
+              "type": "expected peaks -- BMRB statistics", 
+              "atomtypes": {
+                "CB": 40.876, 
+                "CA": 54.705
+              }, 
+              "aatype": "D"
+            }, 
+            {
+              "atomtypes": {
+                "CB": null, 
+                "CA": null
+              }, 
+              "type": "missing peaks -- i-1", 
+              "ssid": 132
+            }
+          ]
+        }
+      ], 
+      [
+        50, 
+        {
+          "type": "inconsistency of CB compared to BMRB statistics", 
+          "causes": [
+            {
+              "residueid": 95, 
+              "type": "ss/res assignment", 
+              "ssid": 31
+            }, 
+            {
+              "residueid": 93, 
+              "type": "primary sequence", 
+              "aatype": "D"
+            }, 
+            {
+              "type": "BMRB statistics", 
+              "aatype": "D", 
+              "peak": "CB", 
+              "shifts": {
+                "CB": 40.876
+              }
+            }, 
+            {
+              "type": "i-1, HNCACB peaks", 
+              "peakid": [
+                "hncacb", 
+                317
+              ], 
+              "ssid": 135, 
+              "shifts": {
+                "CB": 32.036
+              }
+            }
+          ]
+        }, 
+        {
+          "type": "SS must be G, therefore CA(i) should be in G range, but peak in G range has smaller intensity than other CA peak", 
+          "causes": [
+            {
+              "type": "CA(i-1)", 
+              "c": 45.198, 
+              "peakid": [
+                "hncacb", 
+                220
+              ], 
+              "ssid": 31
+            }, 
+            {
+              "type": "CA of SS50", 
+              "c": 45.238, 
+              "peakid": [
+                "hncacb", 
+                313
+              ], 
+              "amp": 53.87
+            }, 
+            {
+              "type": "CA of SS50", 
+              "c": 56.063, 
+              "peakid": [
+                "hncacb", 
+                310
+              ], 
+              "amp": 56.01
+            }
+          ]
+        }
+      ]
+    ], 
+    "spin systems": {
+      "i": 31, 
+      "i-1": [
+        50, 
+        96, 
+        132, 
+        135
+      ]
+    }
+  }
+]
