@@ -2476,7 +2476,9 @@
           474
         ]
       ], 
-      "ssnexts": [], 
+      "ssnexts": [
+        82
+      ], 
       "aatypes": [], 
       "tags": [
         "backbone"
@@ -2623,7 +2625,9 @@
       ]
     }, 
     "82": {
-      "residueids": [], 
+      "residueids": [
+        22
+      ], 
       "pkids": [
         [
           "nhsqc", 
