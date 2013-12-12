@@ -25,35 +25,113 @@ ambiguity
    - SS63: not a G -- G-peak was an i-1 instead of i -- inconsistent with sequence
    - SS137: i-1 peaks inconsistent with the i peaks of SS2 (sequence, seq-specific assns)
    - SS138: very weak CA peak in the G range, no obvious i-1 peaks, so not inconsistent
-
-ambiguity
- - problem
-   - multiple matching SS
-   - i: 51
-   - i+1: 79, 110, 77
- - resolution
-   - SS79: inconsistent with sequence, seq-specific assns
-   - SS110: matching peaks not i-1
-   - SS77: appears to be consistent
 [
-
-{"problem": "ambiguity: multiple matching sequential SS",
- "spin systems": {"i": 110, "i-1": [31, 96, 13]},
- "resolution": [
-  [31, {"type": "matching CA peak was an i-1, not an i",
-  "i": {"peakid": ["hncacb", 636], "amp": 6.438},
-  "matching": {"peakid": ["hncacb", 220], "amp": 7.346},
-  "other": {"peakid": ["hncacb", 218], "amp": 28.530}
+{
+  "problem": "ambiguity: multiple matching sequential SS",
+  "spin systems": {
+    "i": 51,
+    "i+1": [79, 110, 77]
+  },
+  "resolution": [
+    [79, {"type": "inconsistent with sequence, seq-specific assns -- need a Phenylalanine"
+  "79": {"residueid": 32, "ssnext": 119},
+  "so 51 would be assigned to residueid": 31,
+  "which is of aatype": "Q",
+  "and 30 is of aatype": "G", 
+  "but 51 seems to be of aatype": ???
 }],
-  [96, {"type": "preceding aatype was not V (sequence, seq-specific assns)", // wait ... isn't the problem the conflicting sequence-specific assignments for the i-1 of SS31 and the i-2 of SS110?  the aatype issue is smaller
-  "assignment": {"ssid": 110, "residueid": 31},
-  "i-1": {"residueid": 30, "aatype": "G"},
-  "i-2": {"residueid": 29, "aatype": "V"},
-  "i-1 of SS31": {"residueid": 94}
+    [110, {"type": "matching peaks not i-1"
 }],
-  [135, {"type": "correct i/i-1 peak type and preceding aatype",
+    [77, {"type": "appears to be consistent"
 }]
 ]
+},
+
+{
+  "problem": "ambiguity: multiple matching sequential SS", 
+  "resolution": [
+    [
+      31, 
+      {
+        "i": {
+          "amp": 6.438, 
+          "peakid": [
+            "hncacb", 
+            636
+          ]
+        }, 
+        "other": {
+          "amp": 28.53, 
+          "peakid": [
+            "hncacb", 
+            218
+          ]
+        }, 
+        "type": "matching CA peak was an i-1, not an i", 
+        "matching": {
+          "amp": 7.346, 
+          "peakid": [
+            "hncacb", 
+            220
+          ]
+        }
+      }, 
+      {
+        "residueids": {
+          "i": 31, 
+          "potential i-1": 95
+        }, 
+        "type": "inconsistency of SS-residue assignments"
+      }
+    ], 
+    [
+      96, 
+      {
+        "residueids": {
+          "i": 31, 
+          "potential i-1": 94
+        }, 
+        "type": "inconsistency of SS-residue assignments"
+      }, 
+      {
+        "type": "preceding aatype unlikely to be V, as required by the sequence and SS110's assignments, based on BMRB statistics", 
+        "side 2": {
+          "i-1 peaks": {
+            "CB": 42.364, 
+            "CA": 56.537
+          }
+        }, 
+        "side 1": {
+          "assignment": {
+            "residueid": 31, 
+            "ssid": 110
+          }, 
+          "i-2": {
+            "residueid": 29, 
+            "aatype": "V"
+          }, 
+          "BMRB statistics": {
+            "CB": 32.714, 
+            "CA": 62.563
+          }
+        }
+      }
+    ], 
+    [
+      135, 
+      {
+        "type": "correct i/i-1 peak type and preceding aatype"
+      }
+    ]
+  ], 
+  "spin systems": {
+    "i": 110, 
+    "i-1": [
+      31, 
+      96, 
+      13
+    ]
+  }
 },
 
   {
