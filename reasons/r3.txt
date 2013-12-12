@@ -14,37 +14,146 @@ possible overlap
  - resolution
    - seems to have an overlapped peak which could be the CA(i-1) of G105
    - N shift indicative of an ending G
-
-ambiguity
- - problem
-   - multiple matching SS
-   - i: 37
-   - i-1: 63, 137, 138
-   - i-2: SS2
- - resolution
-   - SS63: not a G -- G-peak was an i-1 instead of i -- inconsistent with sequence
-   - SS137: i-1 peaks inconsistent with the i peaks of SS2 (sequence, seq-specific assns)
-   - SS138: very weak CA peak in the G range, no obvious i-1 peaks, so not inconsistent
 [
+
 {
-  "problem": "ambiguity: multiple matching sequential SS",
-  "spin systems": {
-    "i": 51,
-    "i+1": [79, 110, 77]
-  },
+  "problem": "ambiguity: multiple matching sequential SS, for residue G78", 
   "resolution": [
-    [79, {"type": "inconsistent with sequence, seq-specific assns -- need a Phenylalanine"
-  "79": {"residueid": 32, "ssnext": 119},
-  "so 51 would be assigned to residueid": 31,
-  "which is of aatype": "Q",
-  "and 30 is of aatype": "G", 
-  "but 51 seems to be of aatype": ???
-}],
-    [110, {"type": "matching peaks not i-1"
-}],
-    [77, {"type": "appears to be consistent"
-}]
-]
+    [
+      63, 
+      {
+        "expected": {
+          "CA(i-1)(i-1)": 53.565, 
+          "stddev": 1.887
+        }, 
+        "assignment": {
+          "residueid": 77, 
+          "aatype": "N", 
+          "ssid": 2
+        }, 
+        "CA(i-1)(i-1)": {
+          "amp": 8.427, 
+          "peakid": [
+            "hncacb", 
+            396
+          ]
+        }, 
+        "type": "not a G -- G-peak was an i-1 instead of i -- inconsistent with sequence", 
+        "CA(i-1)(i)": {
+          "amp": 33.25, 
+          "peakid": [
+            "hncacb", 
+            394
+          ]
+        }
+      }
+    ], 
+    [
+      137, 
+      {
+        "assignment": {
+          "residueid": 77, 
+          "aatype": "N", 
+          "ssid": 2
+        }, 
+        "SS2 i peaks": {
+          "CB": 37.239, 
+          "CA": 54.603
+        }, 
+        "type": "i-1 peaks inconsistent with the i peaks of SS2 (sequence, seq-specific assns)", 
+        "SS137 i-1 peaks": {
+          "CB": 39.602, 
+          "CA": 55.574
+        }
+      }
+    ], 
+    [
+      138, 
+      {
+        "SS37 CA(i-1)": 45.799, 
+        "SS138 CA(i)": 45.805, 
+        "type": "very weak CA peak in the G range, no obvious i-1 peaks, although there are tiny bumps that match SS2(i), so not inconsistent"
+      }
+    ]
+  ], 
+  "spin systems": {
+    "i": 37, 
+    "i-1": [
+      63, 
+      137, 
+      138
+    ], 
+    "i-2": 2
+  }
+},
+
+{
+  "problem": "ambiguity: multiple matching sequential SS", 
+  "resolution": [
+    [
+      79, 
+      {
+        "51": {
+          "residueid": 20
+        }, 
+        "i+1": {
+          "residueid": 21, 
+          "aatype": "F"
+        }, 
+        "type": "inconsistent with sequence, seq-specific assns -- need a Phenylalanine", 
+        "79": {
+          "residueid": 32, 
+          "aatype": "K"
+        }
+      }, 
+      {
+        "51": 20, 
+        "type": "inconsistent with sequential assignments", 
+        "79": 32
+      }
+    ], 
+    [
+      110, 
+      {
+        "CA(i+1)(i)": {
+          "amp": 35.05, 
+          "peakid": [
+            "hncacb", 
+            634
+          ]
+        }, 
+        "type": "matching peaks not i-1", 
+        "CA(i+1)(i-1)": {
+          "amp": 6.438, 
+          "peakid": [
+            "hncacb", 
+            636
+          ]
+        }, 
+        "CA(i)": {
+          "amp": 12.93, 
+          "peakid": [
+            "hncacb", 
+            302
+          ]
+        }
+      }
+    ], 
+    [
+      77, 
+      {
+        "type": "appears to be consistent"
+      }
+    ]
+  ], 
+  "spin systems": {
+    "i": 51, 
+    "i+1": [
+      79, 
+      110, 
+      77
+    ]
+  }
 },
 
 {
