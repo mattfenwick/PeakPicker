@@ -8,11 +8,7 @@
         {
           "expected": [
             {
-              "type": [
-                "given", 
-                "peak"
-              ], 
-              "ssid": 119, 
+              "type": "given", 
               "CB(i-1)": {
                 "shift": 32.874, 
                 "peakid": [
@@ -25,24 +21,17 @@
           "actual": [
             {
               "CB(i)": null, 
-              "type": [
-                "given", 
-                "matching peak"
-              ], 
-              "ssid": 76
+              "type": "given"
             }
           ], 
-          "type": "reductio ad absurdum: missing, expected peaks: no CB peak to match SS119-CB(i-1)", 
+          "type": "reductio ad absurdum",
+          "message": "missing, expected peaks: no CB(i) peak to match SS119-CB(i-1)", 
           "ssid": 76
         }, 
         {
           "expected": [
             {
-              "type": [
-                "given", 
-                "peak"
-              ], 
-              "ssid": 119, 
+              "type": "given", 
               "CA(i-1)": {
                 "shift": 58.891, 
                 "peakid": [
@@ -52,10 +41,7 @@
               }
             }, 
             {
-              "type": [
-                "conclusion", 
-                "peak"
-              ], 
+              "type": "conclusion", 
               "(i-1)??-CA(i)": {
                 "shift": 58.891
               }
@@ -67,11 +53,7 @@
                 "hncacb", 
                 532
               ], 
-              "type": [
-                "given", 
-                "peak"
-              ], 
-              "ssid": 87, 
+              "type": "given", 
               "amp": 7.36, 
               "shift": 58.821
             }, 
@@ -80,19 +62,12 @@
                 "hncacb", 
                 534
               ], 
-              "type": [
-                "given", 
-                "peak"
-              ], 
-              "ssid": 87, 
+              "type": "given", 
               "amp": 19.47, 
               "shift": 65.438
             }, 
             {
-              "type": [
-                "conclusion", 
-                "i/i-1"
-              ], 
+              "type": "conclusion", 
               "SS87-CA(i)": {
                 "shift": 65.438, 
                 "peakid": [
@@ -102,11 +77,13 @@
               }
             }
           ], 
-          "type": "reductio ad absurdum: matching CA peak seems to be i-1, not i", 
+          "type": "reductio ad absurdum",
+          "message": "matching CA peak seems to be i-1, not i", 
           "ssid": 87
         }, 
         {
-          "type": "process of elimination and not inconsistent: matches CA, CB peaks", 
+          "type": "process of elimination",
+          "message": "not inconsistent: matches CA, CB peaks", 
           "ssid": 79
         }
       ]
@@ -122,64 +99,49 @@
           "expected": [
             {
               "residueid": 95, 
-              "type": [
-                "given", 
-                "assignment"
-              ], 
+              "type": "given", 
               "ssid": 31
             }, 
             {
               "residueid": 93, 
-              "type": [
-                "given", 
-                "primary sequence"
-              ], 
+              "type": "given", 
               "aatype": "D"
             }, 
             {
-              "type": [
-                "given", 
-                "BMRB statistics"
-              ]
+              "type": "given", 
+              "what": "BMRB statistics"
             }, 
             {
-              "CB": {
+              "(i-1)SS31-CB(i-1)": {
                 "shift": 40.876, 
                 "stddev": 1.611
               }, 
-              "CA": {
+              "(i-1)SS31-CA(i-1)": {
                 "shift": 54.705, 
                 "stddev": 2.041
               }, 
-              "type": [
-                "conclusion", 
-                "(i-1)SS31(i-1)", 
-                "peaks"
-              ]
+              "type": "conclusion"
             }
           ], 
-          "type": "reductio ad absurdum (proof by contradiction): sequence, sequence-specific assignments", 
+          "type": "reductio ad absurdum",
+          "message": "sequence, sequence-specific assignments", 
           "actual": [
             {
-              "CB": {
+              "SS135-CB(i-1)": {
                 "shift": 32.036, 
                 "peakid": [
                   "hncacb", 
                   740
                 ]
               }, 
-              "CA": {
+              "SS135-CA(i-1)": {
                 "shift": 64.384, 
                 "peakid": [
                   "hncacb", 
                   736
                 ]
               }, 
-              "type": [
-                "given", 
-                "SS135(i-1)", 
-                "peaks"
-              ]
+              "type": "given"
             }
           ], 
           "ssid": 135
@@ -188,52 +150,37 @@
           "expected": [
             {
               "residueid": 95, 
-              "type": [
-                "given", 
-                "assignment"
-              ], 
+              "type": "given", 
               "ssid": 31
             }, 
             {
               "residueid": 93, 
-              "type": [
-                "given", 
-                "primary sequence"
-              ], 
+              "type": "given", 
               "aatype": "D"
             }, 
             {
-              "type": [
-                "given", 
-                "BMRB statistics"
-              ]
+              "type": "given",
+              "what": "BMRB statistics"
             }, 
             {
-              "CB": {
+              "(i-1)SS31-CB(i-1)": {
                 "shift": 40.876, 
                 "stddev": 1.611
               }, 
-              "CA": {
+              "(i-1)SS31-CA(i-1)": {
                 "shift": 54.705, 
                 "stddev": 2.041
               }, 
-              "type": [
-                "conclusion", 
-                "(i-1)SS31(i-1)", 
-                "peaks"
-              ]
+              "type": "conclusion"
             }
           ], 
-          "type": "reductio ad absurdum: missing, expected (i-1)SS???(i-1) peaks", 
+          "type": "reductio ad absurdum",
+          "message": "missing, expected (i-1)SS???(i-1) peaks", 
           "actual": [
             {
-              "CB": null, 
-              "CA": null, 
-              "type": [
-                "given", 
-                "SS132(i-1)", 
-                "peaks"
-              ]
+              "SS132-CB(i-1)": null, 
+              "SS132-CA(i-1)": null, 
+              "type": "given"
             }
           ], 
           "ssid": 132
@@ -242,53 +189,38 @@
           "expected": [
             {
               "residueid": 95, 
-              "type": [
-                "given", 
-                "assignment"
-              ], 
+              "type": "given", 
               "ssid": 31
             }, 
             {
               "residueid": 93, 
-              "type": [
-                "given", 
-                "primary sequence"
-              ], 
+              "type": "given", 
               "aatype": "D"
             }, 
             {
-              "type": [
-                "given", 
-                "BMRB statistics"
-              ]
+              "type": "given",
+              "what": "BMRB statistics"
             }, 
             {
-              "CB": {
+              "(i-1)SS31-CB(i-1)": {
                 "shift": 40.876, 
                 "stddev": 1.611
               }, 
-              "type": [
-                "conclusion", 
-                "(i-1)SS31(i-1)", 
-                "peaks"
-              ]
+              "type": "conclusion"
             }
           ], 
-          "type": "reductio ad absurdum: actual, expected (i-1)SS???(i-1) CB shift", 
+          "type": "reductio ad absurdum",
+          "message": "actual, expected (i-1)SS???(i-1) CB shift", 
           "actual": [
             {
-              "CB": {
+              "SS50-CB(i-1)": {
                 "shift": 30.87, 
                 "peakid": [
                   "hncacb", 
                   317
                 ]
               }, 
-              "type": [
-                "given", 
-                "SS50(i-1)", 
-                "peaks"
-              ]
+              "type": "given"
             }
           ], 
           "ssid": 50
@@ -297,33 +229,21 @@
           "expected": [
             {
               "residueid": 95, 
-              "type": [
-                "given", 
-                "assignment"
-              ], 
+              "type": "given", 
               "ssid": 31
             }, 
             {
               "residueid": 94, 
-              "type": [
-                "given", 
-                "primary sequence"
-              ], 
+              "type": "given", 
               "aatype": "G"
             }, 
             {
-              "type": [
-                "given", 
-                "BMRB statistics"
-              ]
+              "type": "given",
+              "what": "BMRB statistics"
             }, 
             {
-              "type": [
-                "conclusion", 
-                "(i-1)SS31(i)", 
-                "peaks"
-              ], 
-              "CA(i)": {
+              "type": "conclusion",
+              "(i-1)SS31-CA(i)": {
                 "shift": 45.374, 
                 "stddev": 1.328
               }
@@ -333,11 +253,7 @@
           "message": "SS must be G, therefore CA(i) should be in G range, but peak in G range has smaller intensity than other CA peak", 
           "actual": [
             {
-              "type": [
-                "given", 
-                "SS50", 
-                "peaks"
-              ], 
+              "type": "given", 
               "shift": 56.063, 
               "peakid": [
                 "hncacb", 
@@ -346,11 +262,7 @@
               "amp": 56.01
             }, 
             {
-              "type": [
-                "given", 
-                "SS50", 
-                "peaks"
-              ], 
+              "type": "given", 
               "shift": 45.238, 
               "peakid": [
                 "hncacb", 
@@ -359,12 +271,8 @@
               "amp": 53.87
             }, 
             {
-              "type": [
-                "conclusion", 
-                "SS31(i)", 
-                "peaks"
-              ], 
-              "CA(i)": {
+              "type": "conclusion", 
+              "SS31-CA(i)": {
                 "shift": 56.063, 
                 "peakid": [
                   "hncacb", 
@@ -376,7 +284,8 @@
           "ssid": 50
         }, 
         {
-          "type": "process of elimination -- last one left", 
+          "type": "process of elimination",
+          "message": "last one left", 
           "ssid": 96
         }
       ]
