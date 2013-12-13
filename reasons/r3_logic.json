@@ -1,0 +1,272 @@
+[
+{
+  "sha": "df274757abd8a7fb5b33f2f940a7fc4b3ab070e9", 
+  "problem": "ambiguity: multiple matching sequential SS", 
+  "spin systems": {
+    "i": 31, 
+    "i-1": [
+      {
+        "expected": [
+          {
+            "residueid": 95, 
+            "type": [
+              "given", 
+              "assignment"
+            ], 
+            "ssid": 31
+          }, 
+          {
+            "residueid": 93, 
+            "type": [
+              "given", 
+              "primary sequence"
+            ], 
+            "aatype": "D"
+          }, 
+          {
+            "type": [
+              "given", 
+              "BMRB statistics"
+            ]
+          }, 
+          {
+            "CB": {
+              "shift": 40.876, 
+              "stddev": 1.611
+            }, 
+            "CA": {
+              "shift": 54.705, 
+              "stddev": 2.041
+            }, 
+            "type": [
+              "conclusion", 
+              "(i-1)SS31(i-1)", 
+              "peaks"
+            ]
+          }
+        ], 
+        "actual": [
+          {
+            "CB": {
+              "shift": 32.036, 
+              "peakid": [
+                "hncacb", 
+                740
+              ]
+            }, 
+            "CA": {
+              "shift": 64.384, 
+              "peakid": [
+                "hncacb", 
+                736
+              ]
+            }, 
+            "type": [
+              "given", 
+              "SS135(i-1)", 
+              "peaks"
+            ]
+          }
+        ], 
+        "type": "reductio ad absurdum (proof by contradiction): sequence, sequence-specific assignments", 
+        "ssid": 135
+      }, 
+      {
+        "expected": [
+          {
+            "residueid": 95, 
+            "type": [
+              "given", 
+              "assignment"
+            ], 
+            "ssid": 31
+          }, 
+          {
+            "residueid": 93, 
+            "type": [
+              "given", 
+              "primary sequence"
+            ], 
+            "aatype": "D"
+          }, 
+          {
+            "type": [
+              "given", 
+              "BMRB statistics"
+            ]
+          }, 
+          {
+            "CB": {
+              "shift": 40.876, 
+              "stddev": 1.611
+            }, 
+            "CA": {
+              "shift": 54.705, 
+              "stddev": 2.041
+            }, 
+            "type": [
+              "conclusion", 
+              "(i-1)SS31(i-1)", 
+              "peaks"
+            ]
+          }
+        ], 
+        "actual": [
+          {
+            "CB": null, 
+            "CA": null, 
+            "type": [
+              "given", 
+              "SS132(i-1)", 
+              "peaks"
+            ]
+          }
+        ], 
+        "type": "reductio ad absurdum: missing, expected (i-1)SS???(i-1) peaks", 
+        "ssid": 132
+      }, 
+      {
+        "expected": [
+          {
+            "residueid": 95, 
+            "type": [
+              "given", 
+              "assignment"
+            ], 
+            "ssid": 31
+          }, 
+          {
+            "residueid": 93, 
+            "type": [
+              "given", 
+              "primary sequence"
+            ], 
+            "aatype": "D"
+          }, 
+          {
+            "type": [
+              "given", 
+              "BMRB statistics"
+            ]
+          }, 
+          {
+            "CB": {
+              "shift": 40.876, 
+              "stddev": 1.611
+            }, 
+            "type": [
+              "conclusion", 
+              "(i-1)SS31(i-1)", 
+              "peaks"
+            ]
+          }
+        ], 
+        "actual": [
+          {
+            "CB": {
+              "shift": 30.87, 
+              "peakid": [
+                "hncacb", 
+                317
+              ]
+            }, 
+            "type": [
+              "given", 
+              "SS50(i-1)", 
+              "peaks"
+            ]
+          }
+        ], 
+        "type": "reductio ad absurdum: actual, expected (i-1)SS???(i-1) CB shift", 
+        "ssid": 50
+      }, 
+      {
+        "expected": [
+          {
+            "residueid": 95, 
+            "type": [
+              "given", 
+              "assignment"
+            ], 
+            "ssid": 31
+          }, 
+          {
+            "residueid": 94, 
+            "type": [
+              "given", 
+              "primary sequence"
+            ], 
+            "aatype": "G"
+          }, 
+          {
+            "type": [
+              "given", 
+              "BMRB statistics"
+            ]
+          }, 
+          {
+            "type": [
+              "conclusion", 
+              "(i-1)SS31(i)", 
+              "peaks"
+            ], 
+            "CA(i)": {
+              "shift": 45.374, 
+              "stddev": 1.328
+            }
+          }
+        ], 
+        "actual": [
+          {
+            "peakid": [
+              "hncacb", 
+              310
+            ], 
+            "type": [
+              "given", 
+              "SS50", 
+              "peaks"
+            ], 
+            "amp": 56.01, 
+            "shift": 56.063
+          }, 
+          {
+            "peakid": [
+              "hncacb", 
+              313
+            ], 
+            "type": [
+              "given", 
+              "SS50", 
+              "peaks"
+            ], 
+            "amp": 53.87, 
+            "shift": 45.238
+          }, 
+          {
+            "type": [
+              "conclusion", 
+              "SS31(i)", 
+              "peaks"
+            ], 
+            "CA(i)": {
+              "shift": 56.063, 
+              "peakid": [
+                "hncacb", 
+                310
+              ]
+            }
+          }
+        ], 
+        "message": "SS must be G, therefore CA(i) should be in G range, but peak in G range has smaller intensity than other CA peak", 
+        "type": "reductio ad absurdum", 
+        "ssid": 50
+      }, 
+      {
+        "type": "process of elimination -- last one left", 
+        "ssid": 96
+      }
+    ]
+  }
+}
+]
