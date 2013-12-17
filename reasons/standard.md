@@ -1,4 +1,5 @@
-standard NMR reasons:
+## Standard NMR reasons/phenomena
+
  - fixing mistakes
  - peak position
    - edges of spectrum, location where no peaks are expected, or where e.g. water signals are expected
@@ -18,13 +19,15 @@ standard NMR reasons:
               -- assign peaks into spin system
  - peak sign
 
-??ummm?? phenomena:
+## Given data
+
  - primary sequence
 
-deductive "assignment" phenomena:
- - peak-peaktype
+## Assignments 
+
+ - **peak-peaktype**
    - peaktypes: signal, noise, artifact, contaminant, ...?
- - SS-aatype
+ - **SS-aatype**
    - from:
      - characteristic chemical shifts (+ BMRB statistics)
      - presence/absence of specific peakdim-atomtype
@@ -35,25 +38,27 @@ deductive "assignment" phenomena:
      - chemical shift ranges
      - sequence-specific assignment
      - specific atomtypes
- - SS-residue (sequence-specific assignments)
+ - **SS-residue (sequence-specific assignments)**
    - from:
      - SS-SS + SS-residue
      - SS-aatype + primary sequence
      - SS-SS + SS-aatype + primary sequence
    - to:
      - peak-(i|i-1)
- - SS-SS (sequential SS assignments, or two SS of same residue (1 sidechain, 1 backbone))
- - peakdim-atomtype
- - peak-(i|i-1)
- - peak-SS
- - SS-sstype
+ - **SS-SS (sequential SS assignments, or two SS of same residue (1 sidechain, 1 backbone))**
+ - **peakdim-atomtype**
+ - **peak-(i|i-1)**
+ - **peak-SS**
+ - **SS-sstype**
    - for example: NHSQC has 5 sstypes: backbone, W/Q/N/R sidechain
    - on a per-spectrum basis ???
 
-standard logical tools:
+## Standard logical tools
+
  - process of elimination (?law of excluded middle?)
  - law of non-contradiction
 
-so:
+## So
+
  - how can I deduce an assignment?
  - what can I deduce using an assignment?
