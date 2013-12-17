@@ -2,24 +2,26 @@
 
  - fixing mistakes
  - peak position
-   - edges of spectrum, location where no peaks are expected, or where e.g. water signals are expected
+   - spot where no peaks expected (edge?), where water signals are expected
  - peak pattern 
    - sinc wiggles around peaks, phase errors
-   - use: ... ?
+   - use: peak-peaktype, peak-SS, SS-aatype
  - BMRB statistics
-   - use:  SS-aatype, peakdim-atomtype
+   - use: SS-aatype, peakdim-atomtype
  - automated tool
-   - use: in principal, anything if there's a tool for that
+   - use: in principal, anything if there's a tool for that type of data
  - folding
  - overlap
    - use: ???
- - crosspeaks -- use to identify peak where expected based on assignments of peaks into spin system
-              -- or use to re-reference a spectrum?
+ - crosspeaks
+   - use: find new peaks (using peak-SS and peakdim-atomtype)
  - chemical shift matching
-              -- assign peaks into spin system
+   - re-reference a spectrum
+   - use: peak-SS, SS-SS
  - peak sign
+   - use: atomtype-peakdim
 
-## Given data
+## Free data
 
  - primary sequence
 
@@ -27,7 +29,7 @@
 
  - **peak-peaktype**
    - peaktypes: signal, noise, artifact, contaminant, ...?
- - **SS-aatype**
+ - **SS-aatype** (I think this should be mixed with SS-sstype)
    - from:
      - characteristic chemical shifts (+ BMRB statistics)
      - presence/absence of specific peakdim-atomtype
