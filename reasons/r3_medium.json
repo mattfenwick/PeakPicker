@@ -1,0 +1,124 @@
+{
+  "reasons": [
+    {
+      "actual": {
+        "shift": 64.384, 
+        "because": "ss-peak"
+      }, 
+      "ssid": 135, 
+      "datum": {
+        "peaktype": "(j-1)CA(i-1)", 
+        "type": "peak position"
+      }, 
+      "expected": {
+        "shift": 54.705, 
+        "because": "BMRB stats", 
+        "stddev": 2.041
+      }, 
+      "message": "sequence, sequence-specific assignments", 
+      "type": "inconsistency"
+    }, 
+    {
+      "actual": {
+        "shift": 32.036, 
+        "because": "ss-peak"
+      }, 
+      "ssid": 135, 
+      "datum": {
+        "peaktype": "(j-1)CB(i-1)", 
+        "type": "peak position"
+      }, 
+      "expected": {
+        "shift": 40.876, 
+        "because": "BMRB stats", 
+        "stddev": 1.611
+      }, 
+      "message": "sequence, sequence-specific assignments", 
+      "type": "inconsistency"
+    }, 
+    {
+      "actual": {
+        "shift": null, 
+        "because": "ss-peak"
+      }, 
+      "ssid": 132, 
+      "datum": {
+        "peaktype": "(j-1)CA(i-1)", 
+        "type": "missing peak"
+      }, 
+      "expected": {
+        "shift": 54.705, 
+        "because": "BMRB stats", 
+        "stddev": 2.041
+      }, 
+      "message": "missing (j-1)CA(i-1) peaks", 
+      "type": "inconsistency"
+    }, 
+    {
+      "actual": {
+        "shift": null, 
+        "because": "ss-peak"
+      }, 
+      "ssid": 132, 
+      "datum": {
+        "peaktype": "(j-1)CB(i-1)", 
+        "type": "missing peak"
+      }, 
+      "expected": {
+        "shift": 40.876, 
+        "because": "BMRB stats", 
+        "stddev": 1.611
+      }, 
+      "message": "missing (j-1)CB(i-1) peaks", 
+      "type": "inconsistency"
+    }, 
+    {
+      "expected": {
+        "shift": 40.876, 
+        "because": "BMRB stats", 
+        "stddev": 1.611
+      }, 
+      "ssid": 50, 
+      "datum": {
+        "peaktype": "(j-1)CB(i-1)",
+        "type": "peak position"
+      }, 
+      "actual": {
+        "shift": 30.87, 
+        "because": "overlap of sequential spin systems"
+      }, 
+      "message": "overlap of sequential spin systems determines (j-1)CB(i-1) shift", 
+      "type": "inconsistency"
+    }, 
+    {
+      "actual": {
+        "peaktype": "(j-1)CA(i-1)", 
+        "because": "peak amplitude"
+      }, 
+      "ssid": 50, 
+      "datum": {
+        "type": "peak-peaktype"
+      }, 
+      "expected": {
+        "peaktype": "(j-1)CA(i)", 
+        "because": "overlap of sequential spin systems"
+      }, 
+      "message": "(j-1)SS sstype must be G, therefore (j-1)CA(i) should be in G range, but peak in G range has smaller intensity than other CA peak", 
+      "type": "inconsistency"
+    }, 
+    {
+      "message": "last one left", 
+      "type": "process of elimination", 
+      "ssid": 96
+    },
+    {
+      "message": "SS96 fits data well",
+      "type": "match",
+      "ssid": 96,
+      "fits": ["peaktype", "peak position"]
+    }
+  ], 
+  "ssid": 31,
+  "sha": "df274757abd8a7fb5b33f2f940a7fc4b3ab070e9", 
+  "problem": "ambiguity: multiple matching sequential SS"
+}
