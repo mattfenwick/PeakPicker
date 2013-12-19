@@ -13,7 +13,8 @@
  - folding
  - overlap
    - use: ???
- - crosspeaks
+ - expected peaks
+   - peaks from different spectra, but same spin system, that share atoms
    - use: find new peaks (using peak-SS and peakdim-atomtype)
  - chemical shift matching
    - re-reference a spectrum
