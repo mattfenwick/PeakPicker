@@ -95,22 +95,169 @@ cfc5bfbc415136afe1436519c90ab0ee3491d41a  {"summary": "oops, mistagged:  'spectr
 25b2e3fa49baa003bae00ba44f9288527b17ece3  {"summary": "assigned asparagine sidechain spin system",  "reasons": ["peak pattern", "peak position"]}
 042eb4b014b36ab317c9dacb836b4ced9ff6870a  {"summary": "revert untagging of peaks after their spin system is assigned",  "reasons": []}
 fbeb75713bb3dcb6565f3bf3f81dcae56f238afe  {"summary": "assign glutamine sidechain, and retag its HNCACB peaks as CG",  "reasons": ["peak pattern", "peak position"]}
-30ab38b351f9e2077296e58f2eedee071e6f024a  {"summary": "assign spin system as asparagine sidechain, and remove redundant peak tags",  "reasons": []}
-db7bc05e28c5dbd078d54b88252d2a0abc9b49f6  {"summary": "identify asparagine/glutamine sidechain spin system; flip HNCACB peaks (CA->CB and vice versa) b/c I think it's an Asparagine",  "reasons": ["peak pattern", "BMRB statistics"]}
-5192f5a82e79e1327cb251dc2098ecd858e3a424  {"summary": "add sequence, using one letter codes",  "reasons": []}
-a21b0b4bdc932636e1773688b01ead4bdfc9042d  {"summary": "change sequence type from dict to list",  "reasons": []}
-6439e587a68b523989c0c025e5c5030c8168a051  {"summary": "assign all untagged HNCACB peaks' atomtypes and tag as 'backbone'",  "reasons": []}
-d376ff396142ae04dc6d87ad32d76119ec550754  {"summary": "switch JSON serializer from [online](http://jsonviewer.stack.hu/) to python's `json` library",  "reasons": []}
-0985a6e064f460d313cc2f58bb8b1b6ba6b2040b  {"summary": "add empty list of tags to each spin system",  "reasons": []}
-aed2c6380d3d851b17f66440b130899dd2097a38  {"summary": "tag peak",  "reasons": ["NHSQC crosspeak proximity"]}
-302c0c62ec561d18506fe8083e8eafe4bbbaafe5  {"summary": "re-assign peaks of presumed sidechains to spin systems",  "reasons": ["fix mistake"]}
-59ca0e7640f95b8f277fddfbd24ef12284580a5d  {"summary": "remove peaks from overlapped spin systems",  "comments": ["perhaps this should go after the next commit?", "not sure about the why here"],  "reasons": ["peak pattern", "aatype assignments"]}
-dd95ffa4aa2a9079fbf049c2aa3dbbce3cf2f0aa  {"summary": "HNCACB peaks not in spin systems:  put into spin systems, or retag",  "reasons": []}
-a2e9f4dc8ef86c92493ed0f412c122f10c8fa5e1  {"summary": "fix mistake -- typo",  "reasons": []}
-0613aa28cb855477b218686a8bf24c2072f8ad5e  {"summary": "match HNCACB peaks into spin systems",  "reasons": []}
-c080c2ae4ebd048d943392ff265cf929c8d1dc6d  {"summary": "remove HNCO peak from spin system",  "comments": ["not sure if this is justified"],  "reasons": ["NHSQC peak doesn't seem to be real"]}
-f04427a33bf022b4be7f2053e5dcd2b2bc41c805  {"summary": "remove artifact tag from NHSQC peaks",  "reasons": ["lack of evidence suggesting artifactness"]}
-46948c944d8d8e2b8ed9be5e6ce6b43f3f8a72b5  {"summary": "swap artifact/backbone tags for 2 NHSQC peaks",  "reasons": ["HNCACB crosspeaks"]}
+{
+"key": "30ab38b351f9e2077296e58f2eedee071e6f024a",
+"summary": "assign spin system as asparagine sidechain, and remove redundant peak tags",
+"why": [
+ {
+  "type": "sstype assignment",
+  "kind": "BMRB statistics"
+ }
+]
+},
+{
+"key": "db7bc05e28c5dbd078d54b88252d2a0abc9b49f6",
+"summary": "identify asparagine/glutamine sidechain spin system; flip HNCACB peaks (CA->CB and vice versa) b/c I think it's an Asparagine",
+"why": [
+ {
+  "type": "standard Asn/Gln sidechain deduction",
+  "spectra": ["nhsqc", "hnco", "hncacb"]
+ },
+ {
+  "type": "peaktype assignment",
+  "kind": "sstype"
+ }
+]
+},
+{
+"key": "5192f5a82e79e1327cb251dc2098ecd858e3a424",
+"summary": "add sequence, using one letter codes",
+"why": "book-keeping"
+},
+{
+"key": "a21b0b4bdc932636e1773688b01ead4bdfc9042d",
+"summary": "change sequence type from dict to list",
+"why": "book-keeping"
+},
+{
+"key": "6439e587a68b523989c0c025e5c5030c8168a051",
+"summary": "assign all untagged HNCACB peaks' atomtypes and tag as 'backbone'",
+"why": [
+ {
+  "type": "peaktype assignment",
+  "kind": "sign of amplitude"
+ },
+ {
+  "type": "process of elimination"
+ }
+]
+},
+{
+"key": "d376ff396142ae04dc6d87ad32d76119ec550754",
+"summary": "switch JSON serializer from [online](http://jsonviewer.stack.hu/) to python's `json` library",
+"why": "book-keeping"
+},
+{
+"key": "0985a6e064f460d313cc2f58bb8b1b6ba6b2040b",
+"summary": "add empty list of tags to each spin system",
+"why": "book-keeping"
+},
+{
+"key": "aed2c6380d3d851b17f66440b130899dd2097a38",
+"summary": "tag peak",
+"why": [
+ {
+  "type": "chemical shift matching",
+  "from": "nhsqc",
+  "to": "hncacb"
+ }
+]
+},
+{
+"key": "302c0c62ec561d18506fe8083e8eafe4bbbaafe5",
+"summary": "re-assign peaks of presumed sidechains to spin systems",
+"why": [
+ {
+  "type": "fix mistake",
+  "what": "sidechains can be spin systems, too -- with peaks and all"
+ }
+]
+},
+{
+"key": "59ca0e7640f95b8f277fddfbd24ef12284580a5d",
+"summary": "resolve overlap -- remove peaks from overlapped spin systems",  
+"comments": ["perhaps this should go after the next commit?", "not sure about the why here"],  
+"why": [
+ {
+  "type": "resolve overlap",
+  "kind": "different sstype -- peak presence",
+  "overlapped spectrum": "nhsqc",
+  "resolved": "hnco"
+ },
+ {
+  "type": "fix mistake",
+  "what": "repeated peak-ss assignment"
+ }
+]
+},
+{
+"key": "dd95ffa4aa2a9079fbf049c2aa3dbbce3cf2f0aa",
+"summary": "HNCACB peaks not in spin systems:  put into spin systems, or retag",
+"why": [
+ {
+  "type": "chemical shift matching -- expected peak"
+  "from": "nhsqc",
+  "to": "hncacb",
+  "tolerances": {"1H": "?", "15N": "?"}
+ }
+]
+},
+{
+"key": "a2e9f4dc8ef86c92493ed0f412c122f10c8fa5e1",
+"summary": "fix mistake -- typo",
+"why": [
+ {
+  "type": "fix mistake",
+  "what": "typo"
+ }
+]
+},
+{
+"key": "0613aa28cb855477b218686a8bf24c2072f8ad5e",
+"summary": "match HNCACB peaks into spin systems",  
+"why": [
+ {
+  "type": "chemical shift matching",
+  "from": "nhqsc",
+  "to": "hncacb",
+  "tolerances": {"1H": 0.0125, "15N": 0.1}
+ }
+]
+},
+{
+"key": "c080c2ae4ebd048d943392ff265cf929c8d1dc6d",
+"summary": "remove HNCO peak from spin system because outside tolerances",
+"comments": ["not sure if this is justified"],  
+"why": [
+ {
+  "type": "chemical shift matching -- peak-ss",
+  "from": "nhsqc",
+  "to": "hnco",
+  "tolerances": {"1H": 0.02, "15N": "?"}
+ }
+]
+},
+{
+"key": "f04427a33bf022b4be7f2053e5dcd2b2bc41c805",
+"summary": "remove artifact tag from NHSQC peaks",
+"why": [
+ {
+  "type": "fix mistake",
+  "what": "lack of evidence to suggest peak was artifact"
+ }
+]
+},
+{
+"key": "46948c944d8d8e2b8ed9be5e6ce6b43f3f8a72b5",
+"summary": "swap artifact/backbone tags for 2 NHSQC peaks",
+"why": [
+ {
+  "type": "chemical shift matching -- expected peak",
+  "from": "hncacb",
+  "to": "nhsqc"
+ }
+]
+},
 {
 "key": "14dcc065ff8a8d6fe3505db3133ea52050d8dbba",
 "summary": "tag peaks as artifacts", 

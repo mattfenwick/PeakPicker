@@ -30,7 +30,7 @@ standard Asn/Gln sidechain deduction:
    - peaks have same shape
    - may be a lobe above peaks
 
-chemical shift matching: (peaks into spin systems)
+chemical shift matching:
  - data: 
    * peak-ss (if peaks in both spectra)
    * peak-peaktype (??? depending on assignment of one peak???)
@@ -72,3 +72,23 @@ arginine sidechain:
 
 artifact and noise peaks should not be in spin systems 
  - (although artifacts actually could reasonably go in spin systems)
+
+resolving overlap
+ - in another spectrum, spin systems can be differentiated
+ - reasons:
+   - extra dimension
+   - different spin system types, meaning that they may show up in different experiments/spectra
+ - spectrum in which it's resolved
+
+peaktype assignment
+ - kinds
+   * experiment type
+   * sign of amplitude
+   * peak type assignments of other peaks in same spin system
+   * sstype of spin system of peak
+
+sstype assignment
+ - kinds
+   * presence/absence of specific atoms
+   * BMRB statistics
+   * primary sequence
