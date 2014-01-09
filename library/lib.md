@@ -48,6 +48,9 @@ chemical shift matching:
  - to -- spectrum in which peaks are expected/matched
  - tolerances
    - dim name: ppm
+ - example:
+
+![nhsqc hncacb match](nhsqc_hncacb_match.png)
 
 expected peak
  - data: peak (derived from peak, peak-ss, pulse sequence of spectra)
@@ -78,6 +81,9 @@ arginine sidechain:
    - possible splitting in 1H dimension
    - weak
    - possible folding in 15N, 13C dimension
+ - example:
+
+![nhsqc arg side](nhsqc_arg_side.png)
 
 artifact and noise peaks should not be in spin systems 
  - (although artifacts actually could reasonably go in spin systems)
