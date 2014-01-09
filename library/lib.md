@@ -14,11 +14,17 @@ suspicious peak position:
  - kind
    - spectral edge
    - peaks in normally uninhabited region
+ - example:
+
+![hncacb edge](hncacb_edge.png)
 
 suspicious peak pattern:
  - data: peak-peakclass
  - kind
    - phase error:  peak tails
+ - example:
+
+![hncacb tails](hncacb_tails.png)
 
 standard Asn/Gln sidechain deduction:
  - data: peak-ss, ss-sstype
@@ -29,6 +35,9 @@ standard Asn/Gln sidechain deduction:
    - two peaks at same 15N but different 1H shifts
    - peaks have same shape
    - may be a lobe above peaks
+ - example:
+
+![nhsqc sidechain](nhsqc_asn_gln_side.png)
 
 chemical shift matching:
  - data: 
