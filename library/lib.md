@@ -1,10 +1,10 @@
-automated peak-picking:
+## automated peak-picking
  - data: peak
  - tool used
  - spectra peak-picked
  - parameters given
 
-spectral re-reference:
+## spectral re-reference
  - data: peak-peakclass
  - spectrum used as "correct" one (could also be another source???)
  - dimensions
@@ -12,7 +12,7 @@ spectral re-reference:
 
 ![misref](pics/nhsqc_hnco_misref.png)
 
-suspicious peak position:
+## suspicious peak position
  - data: peak-peakclass
  - kind
    - spectral edge
@@ -21,7 +21,7 @@ suspicious peak position:
 
 ![hncacb edge](pics/hncacb_edge.png)
 
-suspicious peak pattern:
+## suspicious peak pattern
  - data: peak-peakclass
  - kind
    - phase error:  peak tails
@@ -29,7 +29,7 @@ suspicious peak pattern:
 
 ![hncacb tails](pics/hncacb_tails.png)
 
-standard Asn/Gln sidechain deduction:
+## standard Asn/Gln sidechain deduction
  - data: peak-ss, ss-sstype
  - spectra used:
    - HNCO, NHSQC, HNCACB
@@ -42,7 +42,7 @@ standard Asn/Gln sidechain deduction:
 
 ![nhsqc sidechain](pics/nhsqc_asn_gln_side.png)
 
-chemical shift matching:
+## chemical shift matching
  - data: 
    * peak-ss (if peaks in both spectra)
    * peak-peaktype (??? depending on assignment of one peak???)
@@ -55,7 +55,7 @@ chemical shift matching:
 
 ![nhsqc hncacb match](pics/nhsqc_hncacb_match.png)
 
- - example:
+ - example 2:  peak in hncacb looks like noise, but is within tolerances close to hsqc peak, therefore shouldn't yet conclude that it's noise
 
 ![close peak](pics/close_peak.png)
 
@@ -101,7 +101,7 @@ resolving overlap
    - extra dimension
    - different spin system types, meaning that they may show up in different experiments/spectra
  - spectrum in which it's resolved
- - example: overlapped sidechain-arg & 
+ - example: overlapped sidechain-R, resolved by HNCO+HNCACB 
 
 ![overlap](pics/nhsqc_hnco_hncacb_overlap.png)
 
