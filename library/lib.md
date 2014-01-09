@@ -8,6 +8,9 @@ spectral re-reference:
  - data: peak-peakclass
  - spectrum used as "correct" one (could also be another source???)
  - dimensions
+ - example:
+
+![misref](pics/nhsqc_hnco_misref.png)
 
 suspicious peak position:
  - data: peak-peakclass
@@ -16,7 +19,7 @@ suspicious peak position:
    - peaks in normally uninhabited region
  - example:
 
-![hncacb edge](hncacb_edge.png)
+![hncacb edge](pics/hncacb_edge.png)
 
 suspicious peak pattern:
  - data: peak-peakclass
@@ -24,7 +27,7 @@ suspicious peak pattern:
    - phase error:  peak tails
  - example:
 
-![hncacb tails](hncacb_tails.png)
+![hncacb tails](pics/hncacb_tails.png)
 
 standard Asn/Gln sidechain deduction:
  - data: peak-ss, ss-sstype
@@ -37,7 +40,7 @@ standard Asn/Gln sidechain deduction:
    - may be a lobe above peaks
  - example:
 
-![nhsqc sidechain](nhsqc_asn_gln_side.png)
+![nhsqc sidechain](pics/nhsqc_asn_gln_side.png)
 
 chemical shift matching:
  - data: 
@@ -50,7 +53,11 @@ chemical shift matching:
    - dim name: ppm
  - example:
 
-![nhsqc hncacb match](nhsqc_hncacb_match.png)
+![nhsqc hncacb match](pics/nhsqc_hncacb_match.png)
+
+ - example:
+
+![close peak](pics/close_peak.png)
 
 expected peak
  - data: peak (derived from peak, peak-ss, pulse sequence of spectra)
@@ -83,7 +90,7 @@ arginine sidechain:
    - possible folding in 15N, 13C dimension
  - example:
 
-![nhsqc arg side](nhsqc_arg_side.png)
+![nhsqc arg side](pics/nhsqc_arg_side.png)
 
 artifact and noise peaks should not be in spin systems 
  - (although artifacts actually could reasonably go in spin systems)
@@ -94,6 +101,9 @@ resolving overlap
    - extra dimension
    - different spin system types, meaning that they may show up in different experiments/spectra
  - spectrum in which it's resolved
+ - example: overlapped sidechain-arg & 
+
+![overlap](pics/nhsqc_hnco_hncacb_overlap.png)
 
 peaktype assignment
  - kinds
