@@ -29,6 +29,21 @@
 
 ![hncacb tails](pics/hncacb_tails.png)
 
+## missing/found expected peak
+ - data: peak-peaktype
+ - context: some peaks of a ss are found, but not all of them
+ - spectrum in which the peaks are(n't) found
+ - can deduce:
+   - peaks expected (use for peak-peaktype assignment)
+   - missing peaks
+ - example:  HNCACB, backbone N-H
+
+![ideal hncacb](pics/alanine.png)
+
+ - example: since there's already two CA peaks in this HNCACB strip, we wouldn't expect to find a third -- so it's probably an artifact
+
+![extra peak](pics/two_cas.ping)
+
 ## chemical shift matching
  - data: 
    * peak-ss (if peaks in both spectra)
@@ -149,4 +164,28 @@
    - may be a lobe above peaks
  - example:
 
+![alanine](pics/alanine.png)
+
+#### Alanine backbone
+ - example -- note the CB position
+
 ![nhsqc sidechain](pics/nhsqc_asn_gln_side.png)
+
+## spin system overlap
+ - data:  ss-ss
+ - kinds
+   * matching chemical shifts (of corresponding atoms)
+ - example:  an alanine ss and its following ss
+
+![sequential ss](pics/ss_overlap.png)
+
+## spin system overlap + peaktype assignment
+ - data: ss-ss
+ - explanation: ambiguities in peaktype (e.g. CA(i) vs. CA(i-1)) can be resolved along with overlapping ss-ss assignments
+ - example:  note the matching chemical shifts between the two strips.
+   Also, peaktype assignment is implied by the order: the matching peaks appear
+   in each strip -- in the first, as the (i) peaks (which means the remaining peaks 
+   in that strip are (i-1) peaks), and in the second as the (i-1) peaks (which 
+   means the remaining peaks in that strip are (i) peaks)
+
+![sequential ss](pics/ss_overlap.png)

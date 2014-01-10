@@ -74,27 +74,217 @@ aab1e259c8dda059d3e7c1c0ee1a92b29d2d31ad  {"summary": "identify S/T spin system,
 1d6da73c93ab8b2e95e781ad9c872824627c33c0  {"summary": "identify S/T spin system",  "reasons": []}
 77ad43ccfbff8202c058cf9cc59aa31d89e8e75a  {"summary": "identify serine/threonine spin systems, i/i-1 assignments",  "reasons": []}
 ec47d468e26786cd2a3fb135d39ca22679fa8a47  {"summary": "identify alanine spin system, do i/i-1 assignments",  "reasons": []}
-ad6a86f1f64776191b29d6a3d0988201f4fb092e  {"summary": "remove presumed artifact peak from spin system",  "reasons": ["peak pattern"]}
-74ec67e035cc6c34b6cd2734e982bec1f52ef9ce  {"summary": "identify alanine spin system, perform i/i-1 assignments",  "reasons": []}
-a72b20c074a56bcbdaa47777052070b20d63940c  {"summary": "re-add peak previously tagged as artifact to spin system",  "reasons": ["SS was missing an expected peak right where this peak is"]}
-ace508998a2718c187d9a4f30a31b6838530c2c4  {"summary": "identify more alanine spin systems, and i/i-1 assignments",  "reasons": []}
-975fbad31e41d7ed41cd5554d45b71eecf779ea8  {"summary": "note expected but missing peaks",  "reasons": ["crosspeaks", "sequential spin system assignments"]}
-c1ad9b0ca32894b9b5c498a4db2295f3429fda23  {"summary": "identify alanine spin systems and make i/i-1 assignments",  "reasons": []}
-88ed1a60291a6fc617c89732bcb9b872d3467af5  {"summary": "identify alanine spin systems and following ss",  "reasons": []}
-1db703ef474b48d764dec87bfeea32e6e6a68cfa  {"summary": "retag remaining tag-less spin systems as 'backbone'",  "reasons": []}
-5ad7be378e569c35099e441f2748b4e49c6c9476  {"summary": "retag three more spin systems as 'unknown'",  "reasons": ["unidentifiable NHSQC peak"]}
-9b668b94717c3b316d64bdf9bf63989a8b10ce6f  {"summary": "tag artifactual spin systems",  "reasons": ["peak pattern"]}
-e79d70db233f5128226ded0c499d004c69cf356c  {"summary": "tag odd spin systems meaningfully",  "reasons": ["crosspeaks", "peak pattern", "overlap"]}
-1747b73b2df0530b9cde16d7da1e148d400f3c6b  {"summary": "tag unidentifiable peak patterns as 'unknown'",  "reasons": []}
-d631faabff8249efe980e9fe2276875576e57117  {"summary": "reformatting",  "reasons": []}
-c468e9bda16b3f166f5f7b11daa77763765e83a0  {"summary": "identify possible reason for arginine side chain peak splitting",  "reasons": []}
-e4ef9088280cf803fbad12b5732b66e51b3b2ddd  {"summary": "retag tryptophan sidechain spin system as such",  "reasons": []}
-28cdfdc43db27c4c37c30404fdba1cc5999f7fa4  {"summary": "remove HNCACB peaks tagged 'spectral artifact' from spin systems",  "reasons": []}
-cfc5bfbc415136afe1436519c90ab0ee3491d41a  {"summary": "oops, mistagged:  'spectral artifact' should be 'processing artifact'",  "reasons": []}
-64c4ef3d1229c8b023d571a11644f89da8e2fb12  {"summary": "assign arginine sidechain spin systems, identify folding",  "reasons": ["HNCO/HNCACB/NHSQC peak pattern", "BMRB statistics"]}
-25b2e3fa49baa003bae00ba44f9288527b17ece3  {"summary": "assigned asparagine sidechain spin system",  "reasons": ["peak pattern", "peak position"]}
-042eb4b014b36ab317c9dacb836b4ced9ff6870a  {"summary": "revert untagging of peaks after their spin system is assigned",  "reasons": []}
-fbeb75713bb3dcb6565f3bf3f81dcae56f238afe  {"summary": "assign glutamine sidechain, and retag its HNCACB peaks as CG",  "reasons": ["peak pattern", "peak position"]}
+{
+"key": "ad6a86f1f64776191b29d6a3d0988201f4fb092e",
+"summary": "remove presumed artifact peak from spin system",
+"why": [
+ {
+  "type": "not an expected peak",
+  "spectrum": "hncacb",
+  "what": "already had enough peaks in an HNCACB strip to satisfy the experiment"
+]
+},
+{
+"key": "74ec67e035cc6c34b6cd2734e982bec1f52ef9ce",
+"summary": "identify alanine spin system, perform i/i-1 assignments",
+"why": [
+ {
+  "type": "sstype assignment -- Alanine backbone",
+  "kind": "BMRB statistics"
+ },
+ {
+  "type": "spin system overlap + peaktype assignment"
+ }
+]
+},
+{
+"key": "a72b20c074a56bcbdaa47777052070b20d63940c",
+"summary": "re-add peak previously tagged as artifact to spin system",
+"why": [
+ {
+  "type": "missing expected peak",
+  "spectrum": "hncacb"
+ },
+ {
+  "type": "fix mistake",
+  "what": "peak doesn't fit pattern of phase error artifact"
+ }
+]
+},
+{
+"key": "ace508998a2718c187d9a4f30a31b6838530c2c4",
+"summary": "identify more alanine spin systems, and i/i-1 assignments",
+"why": [
+ {
+  "type": "sstype assignment -- Alanine backbone",
+  "kind": "BMRB statistics"
+ },
+ {
+  "type": "spin system overlap + peaktype assignment"
+ }
+]
+},
+{
+"key": "975fbad31e41d7ed41cd5554d45b71eecf779ea8",
+"summary": "note expected but missing peaks",
+"why": [
+ {
+  "type": "peak absence",
+  "spectrum": "hncacb"
+ }
+]
+},
+{
+"key": "c1ad9b0ca32894b9b5c498a4db2295f3429fda23",
+"summary": "identify alanine spin systems and make i/i-1 assignments",
+"why": [
+ {
+  "type": "sstype assignment -- Alanine backbone",
+  "kind": "BMRB statistics"
+ },
+ {
+  "type": "spin system overlap + peaktype assignment"
+ }
+]
+},
+{
+"key": "88ed1a60291a6fc617c89732bcb9b872d3467af5",
+"summary": "identify alanine spin systems and following ss, assign atomtypes to peak dimensions",
+"why": [
+ {
+  "type": "sstype assignment -- Alanine backbone",
+  "kind": "BMRB statistics"
+ },
+ {
+  "type": "spin system overlap + peaktype assignment"
+ }
+]
+},
+{
+"key": "1db703ef474b48d764dec87bfeea32e6e6a68cfa",
+"summary": "retag remaining tag-less spin systems as 'backbone'",
+"why": [
+ {
+  "type": "process of elimination"
+ }
+]
+}, 
+{
+"key": "5ad7be378e569c35099e441f2748b4e49c6c9476",
+"summary": "retag three more spin systems as 'unknown'", 
+"why": [
+ {
+  "type": "chemical shift matching -- missing expected peak",
+  "from": "nhsqc",
+  "to": "hncacb"
+ },
+ {
+  "type": "suspicious peak pattern",
+  "kind": "lined up with other peaks -- perhaps an artifact?"
+ }
+]
+}, 
+{
+"key": "9b668b94717c3b316d64bdf9bf63989a8b10ce6f",
+"summary": "tag artifactual spin systems",
+"why": [
+ {
+  "type": "suspicious peak pattern",
+  "kind": "phase error"
+ }
+]
+},
+{
+"key": "e79d70db233f5128226ded0c499d004c69cf356c",
+"summary": "tag odd spin systems meaningfully",
+"why": "unsure"
+},
+"reasons": ["crosspeaks", "peak pattern", "overlap"]}
+{
+"key": "1747b73b2df0530b9cde16d7da1e148d400f3c6b",
+"summary": "tag unidentifiable peak patterns as 'unknown'",
+"why": [
+ {
+  "type": "process of elimination"
+ }
+]
+},
+{
+"key": "d631faabff8249efe980e9fe2276875576e57117",
+"summary": "reformatting",
+"why": "book-keeping"
+},
+{
+"key": "c468e9bda16b3f166f5f7b11daa77763765e83a0",
+"summary": "identify possible reason for arginine side chain peak splitting",
+"why": "book-keeping"
+},
+{
+"key": "e4ef9088280cf803fbad12b5732b66e51b3b2ddd",
+"summary": "retag tryptophan sidechain spin system as such",
+"why": [
+ {
+  "type": "fix mistake",
+  "what": "already had peaks tagged as part of W ss, but didn't have sstype assigned"
+ }
+]
+}, 
+{
+"key": "28cdfdc43db27c4c37c30404fdba1cc5999f7fa4",
+"summary": "remove HNCACB peaks tagged 'spectral artifact' from spin systems",
+"why": [
+ {
+  "type": "artifact and noise peaks should not be in spin systems"
+ }
+]
+},
+{
+"key": "cfc5bfbc415136afe1436519c90ab0ee3491d41a",
+"summary": "oops, mistagged:  'spectral artifact' should be 'processing artifact'",
+"why": [
+ {
+  "type": "fix mistake"
+ }
+]
+},
+{
+"key": "64c4ef3d1229c8b023d571a11644f89da8e2fb12",
+"summary": "assign arginine sidechain spin systems, identify folding.  also some annoying, semantically void text reformatting",
+"why": [
+ {
+  "type": "arginine sidechain deduction"
+ }
+]
+},
+{
+"key": "25b2e3fa49baa003bae00ba44f9288527b17ece3",
+"summary": "assign asparagine sidechain spin system",
+"why": [
+ {
+  "type": "fix mistake",
+  "what": "already had peaks tagged as part of Asn ss, but didn't have sstype assigned"
+ }
+]
+},
+{
+"key": "042eb4b014b36ab317c9dacb836b4ced9ff6870a",
+"summary": "revert untagging of peaks after their spin system is assigned",
+"why": [
+ {
+  "type": "fix mistake"
+ }
+]
+},
+{
+"key": "fbeb75713bb3dcb6565f3bf3f81dcae56f238afe",
+"summary": "assign glutamine sidechain, and retag its HNCACB peaks as CG",  
+"why": [
+ {
+  "type": "standard Asn/Gln sidechain deduction",
+  "spectra": ["nhsqc", "hnco", "hncacb"]
+ }
+]
+},
 {
 "key": "30ab38b351f9e2077296e58f2eedee071e6f024a",
 "summary": "assign spin system as asparagine sidechain, and remove redundant peak tags",
