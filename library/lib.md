@@ -29,19 +29,6 @@
 
 ![hncacb tails](pics/hncacb_tails.png)
 
-## standard Asn/Gln sidechain deduction
- - data: peak-ss, ss-sstype
- - spectra used:
-   - HNCO, NHSQC, HNCACB
- - characteristic pattern:
-   - top-right quadrant of NHSQC
-   - two peaks at same 15N but different 1H shifts
-   - peaks have same shape
-   - may be a lobe above peaks
- - example:
-
-![nhsqc sidechain](pics/nhsqc_asn_gln_side.png)
-
 ## chemical shift matching
  - data: 
    * peak-ss (if peaks in both spectra)
@@ -59,27 +46,86 @@
 
 ![close peak](pics/close_peak.png)
 
-expected peak
+ - example 3: peak in hnco, no matching peak in hsqc
+
+![no match](pics/no_matching_peak.png)
+
+ - example 4: peak in nhsqc, nothing matching in hnco
+
+![no match 2](pics/no_match_2.png)
+
+ - example 5:  better match
+
+![better](pics/better_match.png)
+
+## expected peak
  - data: peak (derived from peak, peak-ss, pulse sequence of spectra)
  - from -- spectrum in which peak is found
  - to -- spectrum in which peak is expected
 
-fix mistake
+## fix mistake
  - reason mistake was found ????
  - problems mistake caused ???
  - how it was determined to be wrong ???
 
-spin system creation
+## spin system creation
  - data: ss
  - base:  
    - nhsqc peak
    - ???
 
-process of elimination
+## process of elimination
  - data:  ??anything??
  - initial possibilities
+ - example: can't say that peak is noise, artifact, so conclude it's signal:
 
-arginine sidechain:
+![p of e](pics/process_of_elimination.png)
+
+## artifact and noise peaks should not be in spin systems 
+ - (although artifacts actually could reasonably go in spin systems)
+ - example
+
+![junk](pics/junk_peak.png)
+
+## resolving overlap
+ - in another spectrum, spin systems can be differentiated
+ - reasons:
+   - extra dimension
+   - different spin system types, meaning that they may show up in different experiments/spectra
+ - spectrum in which it's resolved
+ - example: overlapped sidechain-R, resolved by HNCO+HNCACB 
+
+![overlap](pics/nhsqc_hnco_hncacb_overlap.png)
+
+## peaktype assignment
+ - kinds
+   * experiment type
+   * sign of amplitude
+   * peak type assignments of other peaks in same spin system
+   * sstype of spin system of peak
+ - example 1: hncacb backbone amide -- CA/CB using sign of peak amplitude
+
+![hncacb peaktype](pics/hncacb_peaktype.png)
+
+ - example 2: hncacb sidechain Asn -- sign of peak amplitude (green peaks are typically CA in this spectrum)
+
+![hncacb asn sidechain](pics/asn_side.png)
+
+## sstype assignment
+ - kinds
+   * presence/absence of specific atoms
+   * BMRB statistics
+   * primary sequence
+
+#### tryptophan sidechain
+ - bottom left in nhsqc
+ - crosspeak in hnco
+ - nothing in hncacb
+ - example:
+
+![tryptophan](pics/tryp_side.png)
+
+#### arginine sidechain
  - shows up in:
    - nhsqc (NE, NH1, NH2)
    - hnco (NE, NH1, NH2, CZ)
@@ -92,28 +138,15 @@ arginine sidechain:
 
 ![nhsqc arg side](pics/nhsqc_arg_side.png)
 
-artifact and noise peaks should not be in spin systems 
- - (although artifacts actually could reasonably go in spin systems)
+#### Asn/Gln sidechain
+ - data: peak-ss, ss-sstype
+ - spectra used:
+   - HNCO, NHSQC, HNCACB
+ - characteristic pattern:
+   - top-right quadrant of NHSQC
+   - two peaks at same 15N but different 1H shifts
+   - peaks have same shape
+   - may be a lobe above peaks
+ - example:
 
-resolving overlap
- - in another spectrum, spin systems can be differentiated
- - reasons:
-   - extra dimension
-   - different spin system types, meaning that they may show up in different experiments/spectra
- - spectrum in which it's resolved
- - example: overlapped sidechain-R, resolved by HNCO+HNCACB 
-
-![overlap](pics/nhsqc_hnco_hncacb_overlap.png)
-
-peaktype assignment
- - kinds
-   * experiment type
-   * sign of amplitude
-   * peak type assignments of other peaks in same spin system
-   * sstype of spin system of peak
-
-sstype assignment
- - kinds
-   * presence/absence of specific atoms
-   * BMRB statistics
-   * primary sequence
+![nhsqc sidechain](pics/nhsqc_asn_gln_side.png)

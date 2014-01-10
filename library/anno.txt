@@ -176,7 +176,7 @@ fbeb75713bb3dcb6565f3bf3f81dcae56f238afe  {"summary": "assign glutamine sidechai
 {
 "key": "59ca0e7640f95b8f277fddfbd24ef12284580a5d",
 "summary": "resolve overlap -- remove peaks from overlapped spin systems",  
-"comments": ["perhaps this should go after the next commit?", "not sure about the why here"],  
+"comments": ["perhaps this should go after the next commit?"],  
 "why": [
  {
   "type": "resolve overlap",
@@ -192,7 +192,7 @@ fbeb75713bb3dcb6565f3bf3f81dcae56f238afe  {"summary": "assign glutamine sidechai
 },
 {
 "key": "dd95ffa4aa2a9079fbf049c2aa3dbbce3cf2f0aa",
-"summary": "HNCACB peaks not in spin systems:  put into spin systems, or retag",
+"summary": "HNCACB peaks not in spin systems:  put into spin systems (increased tolerance), or retag",
 "why": [
  {
   "type": "chemical shift matching -- expected peak"
@@ -227,7 +227,7 @@ fbeb75713bb3dcb6565f3bf3f81dcae56f238afe  {"summary": "assign glutamine sidechai
 {
 "key": "c080c2ae4ebd048d943392ff265cf929c8d1dc6d",
 "summary": "remove HNCO peak from spin system because outside tolerances",
-"comments": ["not sure if this is justified"],  
+"comments": ["not sure if this is justified", "it actually looks like the peaks should be part of the same spin system"],  
 "why": [
  {
   "type": "chemical shift matching -- peak-ss",
@@ -240,6 +240,7 @@ fbeb75713bb3dcb6565f3bf3f81dcae56f238afe  {"summary": "assign glutamine sidechai
 {
 "key": "f04427a33bf022b4be7f2053e5dcd2b2bc41c805",
 "summary": "remove artifact tag from NHSQC peaks",
+"comments": ["but this is odd, because there's no matching hncacb peaks, so it does look like something's wrong"],
 "why": [
  {
   "type": "fix mistake",
@@ -249,7 +250,7 @@ fbeb75713bb3dcb6565f3bf3f81dcae56f238afe  {"summary": "assign glutamine sidechai
 },
 {
 "key": "46948c944d8d8e2b8ed9be5e6ce6b43f3f8a72b5",
-"summary": "swap artifact/backbone tags for 2 NHSQC peaks",
+"summary": "swap artifact/backbone tags for 2 NHSQC peaks. hsqc101 is a better match",
 "why": [
  {
   "type": "chemical shift matching -- expected peak",
@@ -262,7 +263,15 @@ fbeb75713bb3dcb6565f3bf3f81dcae56f238afe  {"summary": "assign glutamine sidechai
 "key": "14dcc065ff8a8d6fe3505db3133ea52050d8dbba",
 "summary": "tag peaks as artifacts", 
 "why": [
-  "unsure"
+ {
+  "type": "chemical shift matching -- missing expected peak",
+  "from": "hsqc",
+  "to": "hnco"
+ },
+ {
+  "type": "chemical shift matching",
+  "explanation": "looks like artifacts because matches other peaks in same spectrum in one dimensions"
+ }
 ]
 },
 {
