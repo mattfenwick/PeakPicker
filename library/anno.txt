@@ -66,14 +66,99 @@ df38e7f22326fdb14ec3f297cb5c6887061d6a38  {"summary": "make sequence-specific as
 4d81ac866d64d0945ce02ad170727d1d03480b50  {"summary": "assign spin system fragment to residues",  "reasons": []}
 8303a7a5abfe20403ab87c72ef4124a447e814b2  {"summary": "extend sequential spin system assignment chain, assign i/i-1",  "reasons": []}
 df274757abd8a7fb5b33f2f940a7fc4b3ab070e9  {"summary": "assign sequential spin system",  "reasons": ["spin systems 50, 96, 132, and 135 all match the glycine CA(i-1) peak of spin system 31",              "spin system 31 is already assigned to 95D; from the sequence, we know that the preceding residue is 93D (and of course 94 is G)",              "SS135: the i-1 peaks do not match the average shifts of D",              "SS132: there are no i-1 peaks, leading me to suspect that it's two consecutive G residues",              "SS50: the CB shift does not match D's average, and the CA of G appears to be an i-1 peak based on relative intensity compared to the other CA peak"]}
-4dbc09703bd35be71792c56c31649927c1fece5c  {"summary": "assign spin system fragment to sequential residues",  "reasons": []}
-455b03d3ae96e2b8f5330885b365434b186c673b  {"summary": "extend sequential ss assignments from S/T/As, make i/i-1 assignments",  "reasons": []}
-37fff318340e7cfffa310d416cdd014b665abd0f  {"summary": "correct silly mistake of sequential spin system assignment",  "reasons": []}
-49d97765253383f5b50433336bf6ceddbd732ea1  {"summary": "identify S/T spin system, make i/i-1 assignments",  "reasons": []}
-aab1e259c8dda059d3e7c1c0ee1a92b29d2d31ad  {"summary": "identify S/T spin system, make i/i-1 assignments",  "reasons": []}
-1d6da73c93ab8b2e95e781ad9c872824627c33c0  {"summary": "identify S/T spin system",  "reasons": []}
-77ad43ccfbff8202c058cf9cc59aa31d89e8e75a  {"summary": "identify serine/threonine spin systems, i/i-1 assignments",  "reasons": []}
-ec47d468e26786cd2a3fb135d39ca22679fa8a47  {"summary": "identify alanine spin system, do i/i-1 assignments",  "reasons": []}
+{
+"key": "4dbc09703bd35be71792c56c31649927c1fece5c",
+"summary": "assign spin system fragment to sequential residues",
+"why": [
+ {
+  "type": "sequence-specific assignment",
+  "reasons": ["ss-ss", "ss-sstype", "primary sequence", "BMRB statistics"]
+ }
+]
+},
+{
+"key": "455b03d3ae96e2b8f5330885b365434b186c673b",
+"summary": "extend sequential ss assignments from S/T/As, make i/i-1 assignments",
+"why": [
+ {
+  "type": "spin system overlap + peaktype assignment"
+ }
+]
+},
+{
+"key": "37fff318340e7cfffa310d416cdd014b665abd0f",
+"summary": "correct silly mistake of sequential spin system assignment",
+"why": [
+ {
+  "type": "fix mistake"
+ }
+]
+},
+{
+"key": "49d97765253383f5b50433336bf6ceddbd732ea1",
+"summary": "identify S/T spin system, make i/i-1 assignments",
+"why": [
+ {
+  "type": "sstype assignment -- S/T backbone",
+  "kind": "BMRB statistics"
+ },
+ {
+  "type": "spin system overlap + peaktype assignment"
+ }
+]
+},
+{
+"key": "aab1e259c8dda059d3e7c1c0ee1a92b29d2d31ad",
+"summary": "identify S/T spin system, make i/i-1 assignments",
+"why": [
+ {
+  "type": "sstype assignment -- S/T backbone",
+  "kind": "BMRB statistics"
+ },
+ {
+  "type": "spin system overlap + peaktype assignment"
+ }
+]
+},
+{
+"key": "1d6da73c93ab8b2e95e781ad9c872824627c33c0",
+"summary": "identify S/T spin system",
+"why": [
+ {
+  "type": "sstype assignment -- S/T backbone",
+  "kind": "BMRB statistics"
+ },
+ {
+  "type": "spin system overlap + peaktype assignment"
+ }
+]
+},
+{
+"key": "77ad43ccfbff8202c058cf9cc59aa31d89e8e75a",
+"summary": "identify serine/threonine spin systems, i/i-1 assignments",
+"why": [
+ {
+  "type": "sstype assignment -- S/T backbone",
+  "kind": "BMRB statistics"
+ },
+ {
+  "type": "spin system overlap + peaktype assignment"
+ }
+]
+},
+{
+"key": "ec47d468e26786cd2a3fb135d39ca22679fa8a47",
+"summary": "identify alanine spin system, do i/i-1 assignments",
+"why": [
+ {
+  "type": "sstype assignment -- Alanine backbone",
+  "kind": "BMRB statistics"
+ },
+ {
+  "type": "spin system overlap + peaktype assignment"
+ }
+]
+},
 {
 "key": "ad6a86f1f64776191b29d6a3d0988201f4fb092e",
 "summary": "remove presumed artifact peak from spin system",

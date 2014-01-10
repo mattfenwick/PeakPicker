@@ -189,3 +189,15 @@
    means the remaining peaks in that strip are (i) peaks)
 
 ![sequential ss](pics/ss_overlap.png)
+
+## sequence-specific assignment
+ - data: ss-residue
+ - information used:
+   * ss-sstype
+   * primary sequence
+   * BMRB statistics
+   * ss-ss overlap
+   * previous ss-residue assignments
+ - example: using the A and S/T from the fragment, an appropriate spot was found in the sequence
+
+![ss fragment](pics/ss_fragment.png)
