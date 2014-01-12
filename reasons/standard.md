@@ -19,8 +19,9 @@
  - chemical shift matching
    - re-reference a spectrum
    - use: peak-SS, SS-SS
- - peak sign
+ - peak amplitude, sign, shape
    - use: atomtype-peakdim
+ - pulse sequence
 
 ## Free data
 

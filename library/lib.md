@@ -42,7 +42,7 @@
 
  - example: since there's already two CA peaks in this HNCACB strip, we wouldn't expect to find a third -- so it's probably an artifact
 
-![extra peak](pics/two_cas.ping)
+![extra peak](pics/two_cas.png)
 
 ## chemical shift matching
  - data: 
