@@ -69,3 +69,12 @@ C(CO)NH/HNCACB
  - ss-sstype: from BMRB statistics, peak-peaktype
  - peak-peaktype: from other peak-peaktype, matching chemical shifts
 
+
+## Sequential assignment
+ - ss-sstype:  the spin system that will be assigned to residue 94 must be a backbone K
+ - peak:  SS32(i) peaks should appear in SS? as (i-1) peaks;
+          SS89(i-1) peaks should appear in SS? as (i) peaks
+ - peak-peaktype: based on assignments of peaks at matching chemical shifts
+                  in SS32 and SS89
+ 
+![sequential](by_pic/seq_ss-ss.png)
