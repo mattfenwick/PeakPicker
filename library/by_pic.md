@@ -13,8 +13,9 @@ HSQC
  
 HNCACB
  - peak-ss: peaks aligned in 1H/15N dimensions
- - peak-peaktype: relative intensity within strip
- - ss-sstype:  backbone: Ala, Ser/Thr, Gly.  Sidechains: Asn, Gln.
+ - peak-peaktype: the sign of the amplitude determines whether the peaks are 
+   CA or CB (backbone), CG or CB (Gln sidechain), etc. 
+ - ss-sstype: backbone: Ala, Ser/Thr, Gly.  Sidechains: Asn, Gln.  Using BMRB statistics.
 
 ![hncacb](by_pic/hncacb.png)
 
@@ -58,11 +59,16 @@ C(CO)NH/HNCACB
 
 ## HNCACB strips
  - sequential ss-ss: matching chemical shifts
- - i/i-1 peak-peaktype: relative intensities
+ - peak-peaktype: (i)/(i-1) based on relative intensities and overlap:
+   - if there are two CA peaks in a strip, the one with the lower
+     intensity is usually (but not always) the CA(i-1).  
+     The same applies for CB
+   - if you have the two strips in which a CA peak appears, it should 
+     usually have a higher intensity as a CA(i) peak than as a CA(i-1) peak.
+     The same applies for CB
  - ss-residue: ss-sstype and protein-residue-sstype
- - possibly: whether strip is contaminant
  
-![hncacb strips](by_pic/hncacb_strips.png)
+![hncacb strips](by_pic/hncacb_overlap.png)
  
  
 ## All peaks of spin system (in all spectra)
@@ -70,7 +76,34 @@ C(CO)NH/HNCACB
  - peak-peaktype: from other peak-peaktype, matching chemical shifts
 
 
-## Sequential assignment
+## Sequential and sequence-specific assignment
+ - key for the pictures in this section:
+
+![key](by_pic/key.png)
+
+ - ss-ss: based on chemical shift matching of overlapped atoms
+
+![overlap](by_pic/ss-ss.png)
+
+ - peak-peaktype: using sequential assignments, the overlapped atoms will appear at a matching chemical shift
+ 
+![peaks](by_pic/peak-peaktype.png)
+
+ - ss-residue: matching ss-sstype and ss-ss to residue-sstype and residue-residue
+
+![sequence specific](by_pic/ss-residue.png)
+
+ - ss-residue: propagate sequence-specific assignments along an ss-ss chain
+
+![propagate](by_pic/seq_ss-ss_deduction.png)
+
+ - ss-sstype
+ - peak: overlap with other spin systems
+ - ss-peak
+ - peak-peaktype
+
+![ss overlap](by_pic/ss_overlap.png)
+
  - ss-sstype:  the spin system that will be assigned to residue 94 must be a backbone K
  - peak:  SS32(i) peaks should appear in SS? as (i-1) peaks;
           SS89(i-1) peaks should appear in SS? as (i) peaks
