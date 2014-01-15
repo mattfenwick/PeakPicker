@@ -111,3 +111,8 @@ C(CO)NH/HNCACB
                   in SS32 and SS89
  
 ![sequential](by_pic/seq_ss-ss.png)
+
+ - peak: using BMRB statistics, residue-sstype
+ - peak-peaktype
+
+![predicted shifts](by_pic/pred_shifts.png)
