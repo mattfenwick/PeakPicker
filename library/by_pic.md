@@ -66,16 +66,10 @@ C(CO)NH/HNCACB
    - if you have the two strips in which a CA peak appears, it should 
      usually have a higher intensity as a CA(i) peak than as a CA(i-1) peak.
      The same applies for CB
- - ss-residue: ss-sstype and protein-residue-sstype
  
 ![hncacb strips](by_pic/hncacb_overlap.png)
  
  
-## All peaks of spin system (in all spectra)
- - ss-sstype: from BMRB statistics, peak-peaktype
- - peak-peaktype: from other peak-peaktype, matching chemical shifts
-
-
 ## Sequential and sequence-specific assignment
  - key for the pictures in this section:
 
@@ -116,3 +110,52 @@ C(CO)NH/HNCACB
  - peak-peaktype
 
 ![predicted shifts](by_pic/pred_shifts.png)
+
+
+## BMRB statistics
+
+ - peak, peak-ss: given ss-sstype
+ - peak-peaktype: given chemical shifts of a peak
+ - ss-sstype: given the peak-ss and peak-peaktype assignments
+
+
+## Sidechain assignment
+
+#### NHSQC, HNCACB, HBHA(CO)NH, H(CCO)NH, C(CO)NH, HCCH-Tocsy
+
+ - use NHSQC to build spin systems
+   - peak-ss assignments for other spectra are easy -- if there's no overlap
+ - use HNCACB (perhaps others as well) to get sequential assignments, CA(i-1), CB(i-1)
+ - use HBHA(CO)NH to get HA*(i-1) and HB*(i-1)
+   - use BMRB statistics to tentatively assign peaktypes. May be splitting
+ - use H(CCO)NH, C(CO)NH, and HCCH-Tocsy in conjunction to get aliphatic C, H
+   - C(CO)NH, H(CCO)NH: use BMRB statistics to tentatively assign peaktypes. May be splitting
+   - HCCH-Tocsy: confirm peaktype assignments using strip plot -- one strip for each aliphatic sidechain C 
+
+HBHA(CO)NH
+ - peak-ss: matching chemical shifts
+ - peak-peaktype: BMRB statistics
+
+![example needed](by_pic/example_needed.png)
+
+C(CO)NH
+ - peak-ss: matching chemical shifts
+ - peak-peaktype: BMRB statistics, peak-peaktype from HNCACB + matching chemical shifts
+
+![example needed](by_pic/example_needed.png)
+
+H(CCO)NH
+ - peak-ss: matching chemical shifts
+ - peak-peaktype: BMRB statistics, peak-peaktype from HBHA(CO)NH + matching chemical shifts
+
+![example needed](by_pic/example_needed.png)
+
+HCCH-Tocsy
+ - peak-ss: ?????????
+ - peak-peaktype: ????????
+
+![example needed](by_pic/example_needed.png)
+
+#### HBCBCGCDHD, HBCBCGCDCEHE
+
+ - aromatic sidechains.  what is the strategy?
