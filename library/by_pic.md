@@ -68,12 +68,28 @@ C(CO)NH/HNCACB
      The same applies for CB
  
 ![hncacb strips](by_pic/hncacb_overlap.png)
+
+
+## Spin systems
+
+ - peak, peak-peaktype, peak-ss: given ss-peak-peaktype assignments, additional peaks and their
+   assignments can be predicted in many spectra (exactly which spectra and peaktypes can be 
+   predicted depends on which peaktypes have already been assigned in the spin system)
+
+![example needed](by_pic/example_needed.png)   
  
  
 ## Sequential and sequence-specific assignment
  - key for the pictures in this section:
 
 ![key](by_pic/key.png)
+
+ - ss-residue: based on ss-sstype, residue-sstype, and other ss-residue assignments:
+   process of elimination if a spin system has its sstype assigned and there's only
+   one unassigned residue of that sstype remaining.  This generalizes to sequential
+   ss fragments that have some or all sstypes assigned
+
+![example needed](by_pic/example_needed.png)
 
  - ss-ss: based on chemical shift matching of overlapped atoms
 
@@ -84,6 +100,9 @@ C(CO)NH/HNCACB
 ![peaks](by_pic/peak-peaktype.png)
 
  - ss-residue: matching ss-sstype and ss-ss to residue-sstype and residue-residue
+ - this doesn't require unambiguous ss-sstype assignments -- ambiguous sstype 
+   assignments still narrow down the possible ss-residue assignments, and getting
+   enough of them may narrow it all the way down to a single possibility
 
 ![sequence specific](by_pic/ss-residue.png)
 
