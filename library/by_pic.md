@@ -49,13 +49,6 @@ HSQC/HNCO
 
 ![hsqc hnco](by_pic/nhsqc_hnco_misref.png)
 
-C(CO)NH/HNCACB
- - peak-peaktype: matching peaks in both spectra must be CA(i-1) and CB(i-1);
-   peaks in HNCACB only must be CA(i) and CB(i);
-   peaks in C(CO)NH only must be C*(i-1), where * is neither A nor B
-
-![cconh hncacb](by_pic/cconh_hncacb.png)
-
 
 ## HNCACB strips
  - sequential ss-ss: matching chemical shifts
@@ -147,34 +140,53 @@ C(CO)NH/HNCACB
  - use HNCACB (perhaps others as well) to get sequential assignments, CA(i-1), CB(i-1)
  - use HBHA(CO)NH to get HA*(i-1) and HB*(i-1)
    - use BMRB statistics to tentatively assign peaktypes. May be splitting
- - use H(CCO)NH, C(CO)NH, and HCCH-Tocsy in conjunction to get aliphatic C, H
-   - C(CO)NH, H(CCO)NH: use BMRB statistics to tentatively assign peaktypes. May be splitting
-   - HCCH-Tocsy: confirm peaktype assignments using strip plot -- one strip for each aliphatic sidechain C 
+ - use C(CO)NH to get rest of aliphatic carbons
+   - use BMRB statistics to tenatively assign peaktypes
+ - use H(CCO)NH and HCCH-Tocsy to get aliphatic sidechain H
+   - better resolution from HCCH-Tocsy
+   - use BMRB statistics to tentatively assign peaktypes in H(CCO)NH. May be splitting
+   - HCCH-Tocsy: confirm peaktype assignments using strip plot -- one strip for each aliphatic sidechain C
 
-HBHA(CO)NH
+deductions
  - peak-ss: matching chemical shifts
- - peak-peaktype: BMRB statistics
+   - HCCH-Tocsy: must be careful because of overlap.  Look for redundancy between a spin
+     system's multiple carbon strips.
+ - peak-peaktype
+   - HBHA(CO)NH
+     - BMRB statistics
+   - H(CCO)NH
+     - HA, HB: peak-peaktype from HBHA(CO)NH + matching chemical shifts
+     - BMRB statistics
+   - C(CO)NH
+    - BMRB statistics
+    - peak-peaktype from HNCACB + matching chemical shifts
+   - HCCH-Tocsy
+     - splitting patterns -- especially doublets
+     - redundancy: each carbon strip has a peak for each aliphatic H
 
-![example needed](by_pic/example_needed.png)
+![hbhaconh_hcconh_cconh_hncacb_hcch](by_pic/hbhaconh_hcconh_cconh_hncacb_hcch.png)
 
 C(CO)NH
  - peak-ss: matching chemical shifts
  - peak-peaktype: BMRB statistics, peak-peaktype from HNCACB + matching chemical shifts
+   matching peaks in both spectra must be CA(i-1) and CB(i-1);
+   peaks in HNCACB only must be CA(i) and CB(i);
+   peaks in C(CO)NH only must be C*(i-1), where * is neither A nor B
 
-![example needed](by_pic/example_needed.png)
+![cconh hncacb](by_pic/cconh_hncacb.png)
 
-H(CCO)NH
- - peak-ss: matching chemical shifts
- - peak-peaktype: BMRB statistics, peak-peaktype from HBHA(CO)NH + matching chemical shifts
 
-![example needed](by_pic/example_needed.png)
+#### Aromatics
 
-HCCH-Tocsy
- - peak-ss: ?????????
- - peak-peaktype: ????????
+hbCBcgcdHD, hbCBcgcdceHE
 
-![example needed](by_pic/example_needed.png)
+ - peak-ss (may be ambiguous)
+   - matching chemical shifts -- CB dimension
+   - ss-sstype: must be one of H W F Y ??????????
+ - peak-peaktype
 
-#### HBCBCGCDHD, HBCBCGCDCEHE
+Aromatic tocsy + Noesy (in D2O to remove backbone amide peaks)
 
- - aromatic sidechains.  what is the strategy?
+ - tocsy: identify sstypes of aromatics
+ - Noesy: link sidechain ss to backbone
+ 
