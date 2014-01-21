@@ -7,7 +7,8 @@ for a more detailed explanation of an assignment strategy.
 ## One spectrum
 
 HSQC
- - ss-sstype:  Asn/Gln sidechains, sometimes W/R sidechains, backbone
+ - ss-sstype: Asn/Gln sidechains using characteristic chemical shifts and peak pattern
+ - ss-sstype: W/R sidechains using characteristic chemical shifts
 
 ![hsqc](by_pic/nhsqc.png)
  
@@ -45,7 +46,8 @@ HSQC/HNCO
 
 ![hsqc&hnco](by_pic/nhsqc_hnco.png)
 
- - phase error or possibly misreferencing
+ - phase error: peak shape, chemical shift matching
+ - misreferencing: chemical shift matching
 
 ![hsqc hnco](by_pic/nhsqc_hnco_misref.png)
 
@@ -54,7 +56,7 @@ HSQC/HNCO
  - sequential ss-ss: matching chemical shifts
  - peak-peaktype: (i)/(i-1) based on relative intensities and overlap:
    - if there are two CA peaks in a strip, the one with the lower
-     intensity is usually (but not always) the CA(i-1).  
+     intensity is usually (but not always) the CA(i-1).
      The same applies for CB
    - if you have the two strips in which a CA peak appears, it should 
      usually have a higher intensity as a CA(i) peak than as a CA(i-1) peak.
@@ -69,7 +71,7 @@ HSQC/HNCO
    assignments can be predicted in many spectra (exactly which spectra and peaktypes can be 
    predicted depends on which peaktypes have already been assigned in the spin system)
 
-![example needed](by_pic/example_needed.png)   
+![example needed](by_pic/example_needed.png)
  
  
 ## Sequential and sequence-specific assignment
@@ -189,4 +191,9 @@ Aromatic tocsy + Noesy (in D2O to remove backbone amide peaks)
 
  - tocsy: identify sstypes of aromatics
  - Noesy: link sidechain ss to backbone
- 
+
+
+## Automated tool
+
+ - any piece of data that there's a tool for
+

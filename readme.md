@@ -1,5 +1,6 @@
 ## Important branches ##
  - `ab2` -- an attempt to pure more emphasis on the annotations that are not normal, i.e. where special and/or complicated analysis was required
+ - `ab3` -- rework ab2's annotations to use new library scheme (doesn't change content of commits at all)
 
 
 ### Old ###
