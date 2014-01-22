@@ -105,3 +105,9 @@
    For most amino acid types, there's good dispersion so it's easy to get the correct assignments straight from the stats.
    With others, it's necessary to be more careful or to come back and fix mistaken assignments later.
 
+## TOCSY aliphatic sidechain: peak-peaktype
+ * assign HNCACB and HBHA(CO)NH.  Then, use C(CO)NH-Tocsy, HC(CO)NH-Tocsy and HCCH-Tocsy in conjunction:
+   use the C(CO)NH-Tocsy peaks to find HCCH-Tocsy strips, which gives proton chemical shifts and match
+   the HC(CO)NH-Tocsy peaks.  Also, each HCCH-Tocsy strip should have peaks in all the same 1H shifts.
+   BMRB statistics can be used to assign most peaktypes unambiguously.  Splitting patterns of also help
+   to identify methylene groups.
