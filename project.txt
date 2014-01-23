@@ -57762,21 +57762,22 @@
             {
               "shift": 1.075, 
               "atomtypes": [
-                "HB2", 
-                "HB3"
+                "HG1", 
+                "HG2"
               ]
             }, 
             {
               "shift": 21.898, 
               "atomtypes": [
-                "CB"
+                "CG1",
+                "CG2"
               ]
             }, 
             {
               "shift": 1.075, 
               "atomtypes": [
-                "HB2", 
-                "HB3"
+                "HG1", 
+                "HG2"
               ]
             }
           ], 
