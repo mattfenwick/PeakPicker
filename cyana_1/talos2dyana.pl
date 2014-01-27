@@ -145,6 +145,7 @@ $factor = $ARGV[2];
 		$phi_max = $phi + ($factor * $dphi);
 		}
 	
+print "$switch $class \n";
 	if ($switch eq "good" && $class eq "Good") {
 	print "  $resid  $resname";
 	printf ("\t PHI%8.1f%8.1f\n",$phi_min,$phi_max);
