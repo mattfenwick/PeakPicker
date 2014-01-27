@@ -7,4 +7,6 @@ structures  := 100,20                    # number of initial, final structures
 steps       := 10000                     # number of torsion angle dynamics steps
 randomseed  := 434726                    # random number generator seed
 
+nproc=8
+
 noeassign peaks=$peaks prot=$prot autoaco
