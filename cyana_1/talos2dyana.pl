@@ -2,176 +2,93 @@
 #
 # Takes output from the pred.tab file created by talos and creates
 # a distance constraint file in Dyana format
-# Usage: talos2dyana.prl pred.tab switch > output.aco, where switch is either
-#        all or good
-# all selects all values listed in the pred.tab file while good only selects
-# those with a class value of good
+# Usage: talos2dyana.prl pred.tab switch > output.aco
+#   where switch is either 'all' or 'good'
+# 'all' selects all values listed in the pred.tab file
+# 'good' only selects those with a class value of good
 # factor represents a value that the errors are multiplied by.
 # Example: talos2dyana.prl pred.tab all 1.5 > polx.aco
-# NOTE: Currently there are some additional lines added to the top of the 
-#       file that should be deleted.
+# NOTE: produces additional junk lines at top of file
 
-$input = $ARGV[0];
-$switch = $ARGV[1];
-$factor = $ARGV[2];
+use strict;
+use warnings;
 
-     open(INPUT, $input)  || die "Can't open $input.";
-	while (<INPUT>)
-  	  {
-	    @fields = split ' ';
-	    
-	    	if ($fields[0] =~ m/#/) 
-			{	
-	    		next;
-	    		}
-		if ($fields[0] =~ m/REMARK/)
-	    		{
-	    		next;
-	    		}
-		if ($fields[0] =~ m/DATA/)
-	    		{
-	    		next;
-	    		}
-		if ($fields[0] =~ m/VARS/)
-	    		{
-	    		next;
-	    		}
-		if ($fields[0] =~ m/FORMAT/)
-	    		{
-	    		next;
-	    		}
+my %one2three = (
+  "A" => "ALA",
+  "C" => "CYS",
+  "D" => "ASP",
+  "E" => "GLU",
+  "F" => "PHE",
+  "G" => "GLY",
+  "H" => "HIS",
+  "I" => "ILE",
+  "K" => "LYS",
+  "L" => "LEU",
+  "M" => "MET",
+  "N" => "ASN",
+  "P" => "PRO",
+  "Q" => "GLN",
+  "R" => "ARG",
+  "S" => "SER",
+  "T" => "THR",
+  "V" => "VAL",
+  "W" => "TRP",
+  "Y" => "TYR"
+);
 
+my $input = $ARGV[0];
+my $switch = $ARGV[1];
+my $factor = $ARGV[2];
+
+	open(my $fh, "<", $input)  || die "Can't open $input.";
+	while (my $line = <$fh>) {
+		my @fields = split(' ', $line);
+
+ #print "FIELDS: " . scalar(@fields) . "  " . join('<>', @fields) . "\n";
+
+		if (!$fields[0]) { next;}
+	    	if ($fields[0] =~ m/#/) { next;}
+		if ($fields[0] =~ m/REMARK/) { next;}
+		if ($fields[0] =~ m/DATA/) { next;}
+		if ($fields[0] =~ m/VARS/) { next;}
+		if ($fields[0] =~ m/FORMAT/) { next;}
 	    
-	    $resid =   $fields[0];
-	    $resname = $fields[1];
-	    $phi =     $fields[2];
-	    $psi =     $fields[3];
-	    $dphi =    $fields[4];
-	    $dpsi =    $fields[5];
-	    $dist =    $fields[6];
-	    $count =   $fields[7];
-	    $class =   $fields[8];
-	    
-	    if ($resname eq "A") 
-	    	{
-	    	$resname = "ALA";
-	    	}
-	    if ($resname eq "C") 
-	    	{
-	    	$resname = "CYS";
-	    	}
-	    if ($resname eq "D") 
-	    	{
-	    	$resname = "ASP";
-	    	}
-	    if ($resname eq "E") 
-	    	{
-	    	$resname = "GLU";
-	    	}
-	    if ($resname eq "F") 
-	    	{
-	    	$resname = "PHE";
-	    	}
-	    if ($resname eq "G") 
-	    	{
-	    	$resname = "GLY";
-	    	}
-	    if ($resname eq "H") 
-	    	{
-	    	$resname = "HIS";
-	    	}
-	    if ($resname eq "I") 
-	    	{
-	    	$resname = "ILE";
-	    	}
-	    if ($resname eq "K") 
-	    	{
-	    	$resname = "LYS";
-	    	}
-	    if ($resname eq "L") 
-	    	{
-	    	$resname = "LEU";
-	    	}
-	    if ($resname eq "M") 
-	    	{
-	    	$resname = "MET";
-	    	}
-	    if ($resname eq "N") 
-	    	{
-	    	$resname = "ASN";
-	    	}
-	    if ($resname eq "P") 
-	    	{
-	    	$resname = "PRO";
-	    	}
-	    if ($resname eq "Q") 
-	    	{
-	    	$resname = "GLN";
-	    	}
-	    if ($resname eq "R") 
-	    	{
-	    	$resname = "ARG";
-	    	}
-	    if ($resname eq "S") 
-	    	{
-	    	$resname = "SER";
-	    	}
-	    if ($resname eq "T") 
-	    	{
-	    	$resname = "THR";
-	    	}
-	    if ($resname eq "V") 
-	    	{
-	    	$resname = "VAL";
-	    	}
-	    if ($resname eq "W") 
-	    	{
-	    	$resname = "TRP";
-	    	}
-	    if ($resname eq "Y") 
-	    	{
-	    	$resname = "TYR";
-	    	}
+		my $resid =   $fields[0];
+		my $resname = $one2three{$fields[1]};
+		my $phi   = $fields[2];
+		my $psi   = $fields[3];
+		my $dphi  = $fields[4];
+		my $dpsi  = $fields[5];
+		my $dist  = $fields[6];
+		my $dunno1 =   $fields[7];
+		my $dunno2 =   $fields[8];
+		my $dunno3 =   $fields[9];
+		my $class =   $fields[10];
+
+		my ($phi_min, $phi_max, $psi_min, $psi_max);
 		
-# PHI SECTION
-
-     if ($phi != 9999.000 | $psi != 9999.000) {
+		if ( ($phi != 9999.000) || ($psi != 9999.000)) {
 			
-	    if ($phi == 9999.000) {
-		next;
-	    }
-		else {
-		$phi_min = $phi - ($factor * $dphi);
-		$phi_max = $phi + ($factor * $dphi);
-		}
-	
-print "$switch $class \n";
-	if ($switch eq "good" && $class eq "Good") {
-	print "  $resid  $resname";
-	printf ("\t PHI%8.1f%8.1f\n",$phi_min,$phi_max);
-	}
-	elsif ($switch eq "all") {
-	print "  $resid  $resname";
-	printf ("\t PHI%8.1f%8.1f\n",$phi_min,$phi_max);
-	}
-	       
+			# PHI SECTION
+			if ($phi == 9999.000) {	next;}
 
-# PSI SECTION 
-	    if ($psi == 9999.000) {
-		next;
-	    }
-		else {
-		$psi_min = $psi - ($factor * $dpsi);
-		$psi_max = $psi + ($factor * $dpsi);
-		}
+			$phi_min = $phi - ($factor * $dphi);
+			$phi_max = $phi + ($factor * $dphi);
+	
+			if ( ($switch eq "good" && $class eq "Good") || $switch eq "all") {
+				print "  $resid  $resname";
+				printf ("\t PHI%8.1f%8.1f\n",$phi_min,$phi_max);
+			} # else { print "skipping -- $switch $class\n";}
+	       
+			# PSI SECTION 
+			if ($psi == 9999.000) { next;}
+
+			$psi_min = $psi - ($factor * $dpsi);
+			$psi_max = $psi + ($factor * $dpsi);
 			    		
-	if ($switch eq "good" && $class eq "Good") {
-	print "  $resid  $resname";
-	printf ("\t PSI%8.1f%8.1f\n",$psi_min,$psi_max);
-        }
-	elsif ($switch eq "all") {
-	print "  $resid  $resname";
-	printf ("\t PSI%8.1f%8.1f\n",$psi_min,$psi_max);
-	}
-	  }  	    
-	  }   	 
+			if ( ($switch eq "good" && $class eq "Good") || $switch eq "all") {
+				print "  $resid  $resname";
+				printf ("\t PSI%8.1f%8.1f\n",$psi_min,$psi_max);
+        		}
+		}
+	}   	 
