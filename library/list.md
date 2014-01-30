@@ -105,9 +105,24 @@
    For most amino acid types, there's good dispersion so it's easy to get the correct assignments straight from the stats.
    With others, it's necessary to be more careful or to come back and fix mistaken assignments later.
 
-## TOCSY aliphatic sidechain: peak-peaktype
+## Tocsy aliphatic sidechain: peak-peaktype
  * assign HNCACB and HBHA(CO)NH.  Then, use C(CO)NH-Tocsy, HC(CO)NH-Tocsy and HCCH-Tocsy in conjunction:
    use the C(CO)NH-Tocsy peaks to find HCCH-Tocsy strips, which gives proton chemical shifts and match
    the HC(CO)NH-Tocsy peaks.  Also, each HCCH-Tocsy strip should have peaks in all the same 1H shifts.
    BMRB statistics can be used to assign most peaktypes unambiguously.  Splitting patterns of also help
    to identify methylene groups.
+
+## Tocsy peak pattern: peak-peaktype
+ * Some aliphatic C/H groups are difficult to distinguish using BMRB statistics:
+    - Leu, CG vs. CD1/CD2
+    - Ile, CG2 vs. CD1, QG2 vs. QD1
+   These can often be resolved by:
+    - characteristic intensity patterns for each amino acid type due to Tocsy nature of experiment
+    - methyl peaks are often sharper and more intense
+
+## Cyana: stereospecific peak-peaktype
+ * many pairs of atoms/groups give rise to two peaks.  The unambiguous assignments are not known,
+   but it is known that each atom/group corresponds to one of the peaks, and the other atom/group
+   to the other peak.
+   Examples:  HB2/HB3 of Y, QD1/QD2 of L, QG1/QG2 of V, HD1/HD2 and HE1/HE2 of Y and F
+   Cyana can often resolve these ambiguities during structure calculation.
