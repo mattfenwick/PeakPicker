@@ -2531,11 +2531,11 @@
         ], 
         [
           "hcchtocsy", 
-          7
+          360
         ], 
         [
           "hcchtocsy", 
-          8
+          361
         ]
       ], 
       "ssnexts": [
@@ -16878,8 +16878,7 @@
             {
               "shift": 2.645, 
               "atomtypes": [
-                "HB2", 
-                "HB3"
+                "QB"
               ]
             }
           ], 
@@ -20377,8 +20376,7 @@
             {
               "shift": 2.632, 
               "atomtypes": [
-                "HB2", 
-                "HB3"
+                "QB"
               ]
             }
           ], 
@@ -60921,6 +60919,54 @@
           ], 
           "tags": [], 
           "height": 5.064
+        }, 
+        "360": {
+          "dims": [
+            {
+              "shift": 2.585, 
+              "atomtypes": [
+                "HB[2]"
+              ]
+            }, 
+            {
+              "shift": 41.022, 
+              "atomtypes": [
+                "CB"
+              ]
+            }, 
+            {
+              "shift": 2.586, 
+              "atomtypes": [
+                "HB[2]"
+              ]
+            }
+          ], 
+          "tags": [], 
+          "height": 0.080
+        }, 
+        "361": {
+          "dims": [
+            {
+              "shift": 2.701, 
+              "atomtypes": [
+                "HB[3]"
+              ]
+            }, 
+            {
+              "shift": 41.022, 
+              "atomtypes": [
+                "CB"
+              ]
+            }, 
+            {
+              "shift": 2.698, 
+              "atomtypes": [
+                "HB[3]"
+              ]
+            }
+          ], 
+          "tags": [], 
+          "height": 17.779
         }
       }
     }, 
