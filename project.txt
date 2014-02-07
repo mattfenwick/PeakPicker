@@ -486,10 +486,6 @@
           70
         ], 
         [
-          "hncacb", 
-          93
-        ], 
-        [
           "cconh", 
           51
         ], 
@@ -2500,14 +2496,6 @@
         [
           "cconh", 
           133
-        ], 
-        [
-          "cconh", 
-          134
-        ], 
-        [
-          "cconh", 
-          140
         ], 
         [
           "cconh", 
@@ -5277,6 +5265,10 @@
         [
           "hcchtocsy", 
           156
+        ], 
+        [
+          "hcchtocsy", 
+          369
         ]
       ], 
       "ssnexts": [
@@ -8936,6 +8928,10 @@
         [
           "hcchtocsy", 
           87
+        ], 
+        [
+          "hcchtocsy", 
+          368
         ]
       ], 
       "ssnexts": [
@@ -9272,6 +9268,10 @@
         [
           "hcchtocsy", 
           314
+        ], 
+        [
+          "hcchtocsy", 
+          370
         ]
       ], 
       "ssnexts": [
@@ -12445,8 +12445,7 @@
             {
               "shift": 0.77, 
               "atomtypes": [
-                "QD1", 
-                "QD2"
+                "QQD"
               ]
             }
           ], 
@@ -53679,7 +53678,8 @@
             {
               "shift": 20.057, 
               "atomtypes": [
-                "CG[1]"
+                "CG1", 
+                "CG2"
               ]
             }, 
             {
@@ -55305,19 +55305,19 @@
             {
               "shift": 0.868, 
               "atomtypes": [
-                "HG"
+                "QD[1]"
               ]
             }, 
             {
               "shift": 26.572, 
               "atomtypes": [
-                "CG"
+                "CD[1]"
               ]
             }, 
             {
               "shift": 0.868, 
               "atomtypes": [
-                "HG"
+                "QD[1]"
               ]
             }
           ], 
@@ -55329,22 +55329,19 @@
             {
               "shift": 0.755, 
               "atomtypes": [
-                "QD1", 
-                "QD2"
+                "QD[2]"
               ]
             }, 
             {
               "shift": 21.503, 
               "atomtypes": [
-                "CD1", 
-                "CD2"
+                "CD[2]"
               ]
             }, 
             {
               "shift": 0.761, 
               "atomtypes": [
-                "QD1", 
-                "QD2"
+                "QD[2]"
               ]
             }
           ], 
@@ -56700,7 +56697,7 @@
             {
               "shift": 1.306, 
               "atomtypes": [
-                "QG1"
+                "HG1[2]"
               ]
             }, 
             {
@@ -56712,7 +56709,7 @@
             {
               "shift": 1.315, 
               "atomtypes": [
-                "QG1"
+                "HG1[2]"
               ]
             }
           ], 
@@ -57108,7 +57105,7 @@
             {
               "shift": 2.242, 
               "atomtypes": [
-                "HG[2]"
+                "HG[3]"
               ]
             }, 
             {
@@ -57120,7 +57117,7 @@
             {
               "shift": 2.261, 
               "atomtypes": [
-                "HG[2]"
+                "HG[3]"
               ]
             }
           ], 
@@ -58404,8 +58401,7 @@
             {
               "shift": 2.411, 
               "atomtypes": [
-                "HG2", 
-                "HG3"
+                "QG"
               ]
             }, 
             {
@@ -58417,8 +58413,7 @@
             {
               "shift": 2.411, 
               "atomtypes": [
-                "HG2", 
-                "HG3"
+                "QG"
               ]
             }
           ], 
@@ -59103,8 +59098,7 @@
             {
               "shift": 3.935, 
               "atomtypes": [
-                "HA", 
-                "HB"
+                "HA"
               ]
             }, 
             {
@@ -59116,8 +59110,7 @@
             {
               "shift": 3.936, 
               "atomtypes": [
-                "HA", 
-                "HB"
+                "HA"
               ]
             }
           ], 
@@ -60210,7 +60203,7 @@
             {
               "shift": 0.719, 
               "atomtypes": [
-                "QG1"
+                "HG1[3]"
               ]
             }, 
             {
@@ -60222,7 +60215,7 @@
             {
               "shift": 0.712, 
               "atomtypes": [
-                "QG1"
+                "HG1[3]"
               ]
             }
           ], 
@@ -60420,6 +60413,81 @@
           ], 
           "tags": [], 
           "height": 61.147
+        }, 
+        "368": {
+          "dims": [
+            {
+              "shift": -0.661, 
+              "atomtypes": [
+                "QG[2]"
+              ]
+            }, 
+            {
+              "shift": 20.08, 
+              "atomtypes": [
+                "CG1", 
+                "CG2"
+              ]
+            }, 
+            {
+              "shift": 0.089, 
+              "atomtypes": [
+                "QG[1]"
+              ]
+            }
+          ], 
+          "tags": [
+            "peak was originally folded in dim1, appearing at 9.942 ppm"
+          ], 
+          "height": 33.437
+        }, 
+        "369": {
+          "dims": [
+            {
+              "shift": 2.097, 
+              "atomtypes": [
+                "HG"
+              ]
+            }, 
+            {
+              "shift": 26.559, 
+              "atomtypes": [
+                "CG"
+              ]
+            }, 
+            {
+              "shift": 2.096, 
+              "atomtypes": [
+                "HG"
+              ]
+            }
+          ], 
+          "tags": [], 
+          "height": 1.939
+        }, 
+        "370": {
+          "dims": [
+            {
+              "shift": 3.936, 
+              "atomtypes": [
+                "HB"
+              ]
+            }, 
+            {
+              "shift": 69.715, 
+              "atomtypes": [
+                "CB"
+              ]
+            }, 
+            {
+              "shift": 3.935, 
+              "atomtypes": [
+                "HB"
+              ]
+            }
+          ], 
+          "tags": [], 
+          "height": 4.816
         }
       }
     }, 
@@ -68571,8 +68639,7 @@
             {
               "shift": 21.558, 
               "atomtypes": [
-                "CD1", 
-                "CD2"
+                "CD[2]"
               ]
             }
           ], 
@@ -68632,7 +68699,8 @@
             {
               "shift": 26.614, 
               "atomtypes": [
-                "CG"
+                "CG", 
+                "CD[1]"
               ]
             }
           ], 
