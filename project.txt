@@ -35266,7 +35266,9 @@
             }, 
             {
               "shift": 52.304, 
-              "atomtypes": []
+              "atomtypes": [
+                "CA"
+              ]
             }
           ], 
           "tags": [
@@ -38947,7 +38949,7 @@
             {
               "shift": 45.238, 
               "atomtypes": [
-                "CA(i-1)"
+                "CA"
               ]
             }
           ], 
@@ -47661,8 +47663,7 @@
             {
               "shift": 45.27, 
               "atomtypes": [
-                "CA", 
-                "CA(i-1)"
+                "CA"
               ]
             }
           ], 
