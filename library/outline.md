@@ -39,8 +39,8 @@
 ## Approach
 
  - library of NMR deductions
-   * key points: chemical shift matching, 
-     BMRB statistics, spin systems
+   * key points: peak characteristics, chemical shift 
+     matching, BMRB statistics, spin systems
  - similar to version control: snapshots
    * with each snapshot, use 1+ annotations from library to describe why/how
  - data model extensions:

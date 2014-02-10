@@ -9,6 +9,14 @@
  
 ## peak position: peak-peakclass
  - position: one of "edge", "projection", "expected empty region"
+
+## peak intensity
+ - peaks from the same atom may have similar intensities
+ - signal, noise, artifacts may have characteristic intensities
+
+## peak lineshape
+ - peaks from the same atom may have similar lineshapes
+ - signal, noise, artifacts may have characteristic lineshapes
  
 ## peak pattern: peak-peakclass
  - pattern: one of "phase error", "truncation"
