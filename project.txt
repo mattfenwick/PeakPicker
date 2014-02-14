@@ -55485,19 +55485,19 @@
             {
               "shift": 4.569, 
               "atomtypes": [
-                "HA(i-1)(i-1)"
+                "HA(i-1)"
               ]
             }, 
             {
               "shift": 54.218, 
               "atomtypes": [
-                "CA(i-1)(i-1)"
+                "CA(i-1)"
               ]
             }, 
             {
               "shift": 4.579, 
               "atomtypes": [
-                "HA(i-1)(i-1)"
+                "HA(i-1)"
               ]
             }
           ], 
