@@ -7329,7 +7329,9 @@
       ]
     }, 
     "97": {
-      "residueids": [], 
+      "residueids": [
+        77
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -8443,7 +8445,9 @@
       ]
     }, 
     "123": {
-      "residueids": [], 
+      "residueids": [
+        73
+      ], 
       "pkids": [
         [
           "nhsqc", 
@@ -54893,11 +54897,15 @@
           "dims": [
             {
               "shift": 110.147, 
-              "atomtypes": []
+              "atomtypes": [
+                "ND2"
+              ]
             }, 
             {
               "shift": 6.943, 
-              "atomtypes": []
+              "atomtypes": [
+                "HD2[1]"
+              ]
             }
           ], 
           "tags": [
@@ -54909,11 +54917,15 @@
           "dims": [
             {
               "shift": 110.148, 
-              "atomtypes": []
+              "atomtypes": [
+                "ND2"
+              ]
             }, 
             {
               "shift": 6.664, 
-              "atomtypes": []
+              "atomtypes": [
+                "HD2[2]"
+              ]
             }
           ], 
           "tags": [
@@ -54929,7 +54941,9 @@
             }, 
             {
               "shift": 6.945, 
-              "atomtypes": []
+              "atomtypes": [
+                "HD2[1]"
+              ]
             }
           ], 
           "tags": [
@@ -54945,7 +54959,9 @@
             }, 
             {
               "shift": 6.946, 
-              "atomtypes": []
+              "atomtypes": [
+                "HD2[1]"
+              ]
             }
           ], 
           "tags": [
@@ -54961,7 +54977,9 @@
             }, 
             {
               "shift": 6.667, 
-              "atomtypes": []
+              "atomtypes": [
+                "HD2[2]"
+              ]
             }
           ], 
           "tags": [
@@ -54977,7 +54995,9 @@
             }, 
             {
               "shift": 6.946, 
-              "atomtypes": []
+              "atomtypes": [
+                "HD2[1]"
+              ]
             }
           ], 
           "tags": [
@@ -54993,7 +55013,9 @@
             }, 
             {
               "shift": 6.666, 
-              "atomtypes": []
+              "atomtypes": [
+                "HD2[2]"
+              ]
             }
           ], 
           "tags": [
