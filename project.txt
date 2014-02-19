@@ -7356,30 +7356,6 @@
         [
           "hnco", 
           162
-        ], 
-        [
-          "cconh", 
-          501
-        ], 
-        [
-          "cconh", 
-          494
-        ], 
-        [
-          "hcconh", 
-          212
-        ], 
-        [
-          "hcconh", 
-          217
-        ], 
-        [
-          "hbhaconh", 
-          403
-        ], 
-        [
-          "hbhaconh", 
-          416
         ]
       ], 
       "ssnexts": [], 
@@ -14972,7 +14948,9 @@
             }, 
             {
               "shift": 2.48, 
-              "atomtypes": []
+              "atomtypes": [
+                "QB"
+              ]
             }
           ], 
           "tags": [], 
@@ -15026,7 +15004,9 @@
             }, 
             {
               "shift": 2.491, 
-              "atomtypes": []
+              "atomtypes": [
+                "QB"
+              ]
             }
           ], 
           "tags": [], 
@@ -27808,7 +27788,9 @@
             }, 
             {
               "shift": 2.489, 
-              "atomtypes": []
+              "atomtypes": [
+                "QB"
+              ]
             }
           ], 
           "tags": [], 
@@ -27826,7 +27808,9 @@
             }, 
             {
               "shift": 2.5, 
-              "atomtypes": []
+              "atomtypes": [
+                "QB"
+              ]
             }
           ], 
           "tags": [], 
@@ -78268,7 +78252,9 @@
             }, 
             {
               "shift": 40.653, 
-              "atomtypes": []
+              "atomtypes": [
+                "CB"
+              ]
             }
           ], 
           "tags": [], 
