@@ -33872,7 +33872,9 @@
           "dims": [
             {
               "shift": 7.692, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE2[1]"
+              ]
             }, 
             {
               "shift": 111.93, 
@@ -33880,7 +33882,9 @@
             }, 
             {
               "shift": 180.461, 
-              "atomtypes": []
+              "atomtypes": [
+                "CD"
+              ]
             }
           ], 
           "tags": [
@@ -33892,7 +33896,9 @@
           "dims": [
             {
               "shift": 6.98, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE2[2]"
+              ]
             }, 
             {
               "shift": 111.893, 
@@ -33900,7 +33906,9 @@
             }, 
             {
               "shift": 180.441, 
-              "atomtypes": []
+              "atomtypes": [
+                "CD"
+              ]
             }
           ], 
           "tags": [
@@ -54707,11 +54715,15 @@
           "dims": [
             {
               "shift": 112.335, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE2"
+              ]
             }, 
             {
               "shift": 7.679, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE2[1]"
+              ]
             }
           ], 
           "tags": [
@@ -54723,11 +54735,15 @@
           "dims": [
             {
               "shift": 112.335, 
-              "atomtypes": []
+              "atomtypes": [
+                "NE2"
+              ]
             }, 
             {
               "shift": 6.959, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE2[2]"
+              ]
             }
           ], 
           "tags": [
@@ -54743,11 +54759,14 @@
             }, 
             {
               "shift": 7.681, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE2[1]"
+              ]
             }
           ], 
           "tags": [
-            "asparagine/glutamine sidechain"
+            "asparagine/glutamine sidechain", 
+            "probably from N-H-D group"
           ], 
           "height": 12.72
         }, 
@@ -54759,11 +54778,14 @@
             }, 
             {
               "shift": 6.962, 
-              "atomtypes": []
+              "atomtypes": [
+                "HE2[2]"
+              ]
             }
           ], 
           "tags": [
-            "asparagine/glutamine sidechain"
+            "asparagine/glutamine sidechain", 
+            "probably from N-H-D group"
           ], 
           "height": 10.03
         }, 
